@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-       
+       We welcome inquiries from students, researchers, and collaborators who find our work interesting. If you’d like to learn more or explore potential opportunities to work together, feel free to contact us.
       email: mhabib@fit.edu
       phone: 321-674-8750
       address:
