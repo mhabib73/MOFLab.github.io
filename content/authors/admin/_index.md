@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Electrical and Photonics Engineering
+      institution: Technical University of Denmark
+      year: 2017
+    - course: MSc in Electrical and Electronics Engineering
+      institution: Rajshahi University of Engineering and Technology
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: BSc in Electrical and Electronics Engineering
+      institution: Rajshahi University of Engineering and Technology
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +44,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:mhabib@fit.edu'
+  #- icon: twitter
+   # icon_pack: fab
+   # link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=rkzjCbMAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/mhabib73
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,7 +64,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -72,6 +72,8 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Habib is the director of Next-gen Optical Fibers Lab (NOFLab), where he leads cutting-edge research and innovation on next-generation optical fibers for photonics based applications.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Habib received the Ph.D. degree in Electrical and Photonics engineering from the Technical University of Denmark (DTU) in 2017. Following the completion of his doctoral studies, he joined the Fibers Sensors and Supercontinuum Group at the Department of Electrical and Photonics Engineering, DTU, as a Postdoctoral Researcher. After concluding his Postdoctoral Fellowship at DTU, he served as a Postdoctoral Research Associate at CREOL, The College of Optics and Photonics, University of Central Florida, USA, from 2017 to 2019. From 2019 to 2023, Dr. Habib held the position of Assistant Professor of Electrical and Computer Engineering at Florida Polytechnic University, USA. Currently, he is an Assistant Professor of Electrical Engineering at Florida Institute of Technology. His research mainly focuses on computational electromagnetics, emerging optical fiber design, fabrication, and characterization, and ultrafast nonlinear optics. He has published more than 150 articles in refereed journals and conference proceedings.
+
+Dr. Habib is a Senior Member of Optica (formerly OSA) and Institute of Electrical and Electronics Engineers, and Executive officer of OSA Fiber modeling and Fabrication group. Dr. Habib is an Associate Editor of IEEE Journal of Lightwave Technology, and Feature Editor of Applied Optics (OSA). He received the University Gold Medal Award from Rajshahi University of Engineering and Technology in 2014.
