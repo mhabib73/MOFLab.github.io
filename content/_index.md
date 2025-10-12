@@ -10,7 +10,7 @@ sections:
       title: |
         Next-generation Optical Fiber Lab (NOFLab)
       image:
-        filename: welcome.png
+        filename: welcome.jpg
       text: |
         <br>
         
