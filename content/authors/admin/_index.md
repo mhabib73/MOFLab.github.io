@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include optical fibers.
+bio: My research interests include advanced optical fibers and ultrafast nonlinear optics.
 
 interests:
   - Computional Electromagnetics
