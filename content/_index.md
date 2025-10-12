@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        Dr. Habib is the director of Next-gen Optical Fibers Lab (NFOLab), where he leads cutting-edge research and innovation on next-generation optical fibers for photonics based applications.
+        Dr. Habib is the director of Next-gen Optical Fibers Lab (NOFLab), where he leads cutting-edge research and innovation on next-generation optical fibers for photonics based applications.
   
   - block: collection
     content:
