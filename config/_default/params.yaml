@@ -40,6 +40,13 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: false
+    logo: 
+      icon_pack: "ai"   # Optional: icon pack
+      text: 'NOFLab'
+      icon: 'academic'
+      image: "logo.png"
+      height: 10                # Adjust logo height in pixels
+
 
 # Site footer
 
