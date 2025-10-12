@@ -55,8 +55,10 @@ social:
     icon_pack: fab
     link: https://github.com/mhabib73
   - icon: orcid
+    icon_pack: fab
     link: https://orcid.org/0000-0003-0161-5325
   - icon: linkedin
+    icon_pack: fab
     link: https://www.linkedin.com/in/md-selim-habib-00529439/
     
 # Link to a PDF of your resume/CV from the About widget.
