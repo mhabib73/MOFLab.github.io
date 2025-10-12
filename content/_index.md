@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Next-generation Optical Fiber Lab (NOFLab)
       image:
         filename: welcome.jpg
       text: |
