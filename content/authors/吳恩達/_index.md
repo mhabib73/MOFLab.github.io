@@ -39,7 +39,7 @@ education:
       year: 2025
     - course: BSc in Electrical Engineering
       institution: Rajshahi University of Engineering and Technology
-      year: 2020
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -58,7 +58,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+ # - Researchers
   - Visitors
 ---
 
