@@ -10,20 +10,20 @@ last_name: Habib
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Electrical Engineering
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Florida Institute of Technology
+    url: 'https://www.fit.edu/faculty-profiles/h/habib-md/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computional Electromagnetics
+  - Advanced Optical Fibers: Design, Fabrication, and Characterization
+  - Ultrafast Nonlinear Optics
 
 education:
   courses:
