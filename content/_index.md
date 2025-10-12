@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Dr. Habib is the director of Next-gen Optical Fibers Lab (NFOLab), where he leads cutting-edge research and innovation on next-generation optical fibers for photonics based applications.
   
   - block: collection
     content:
