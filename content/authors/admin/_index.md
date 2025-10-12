@@ -22,7 +22,7 @@ bio: My research interests include optical fibers.
 
 interests:
   - Computional Electromagnetics
-  - Advanced Optical Fibers: Design, Fabrication, and Characterization
+  - Advanced Optical Fibers Design, Fabrication, and Characterization
   - Ultrafast Nonlinear Optics
 
 education:
