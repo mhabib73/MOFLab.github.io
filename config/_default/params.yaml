@@ -40,12 +40,13 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: false
-    logo: 
-      icon_pack: "ai"   # Optional: icon pack
-      text: 'NOFLab'
-      icon: 'academic'
-      image: "logo.jpg"
-      height: 10                # Adjust logo height in pixels
+
+logo:
+  icon_pack: "ai"
+  text: 'MOFlab'
+  icon: 'academic'
+  image: "logo.jpg"
+  height: 10
 
 
 # Site footer
@@ -103,7 +104,7 @@ features:
       app_id: ''
       api_key: ''
       index_name: ''
-      show_logo: false
+      show_logo: true
   map:
     provider: 'mapnik'
     api_key: ''
