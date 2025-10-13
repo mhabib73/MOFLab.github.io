@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  #theme_day: minimal
-  theme_day: ocean
+  theme_day: minimal
+  #theme_day: ocean
   theme_night: aurora
   font: Open Sans 
   font_size: M
@@ -35,7 +35,7 @@ marketing:
 header:
   navbar:
     logo: 
-      text: 'MOFLab'
+      text: 'MFPLab'
       image:
         filename: logo.jpg
     enable: true
