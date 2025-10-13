@@ -16,8 +16,9 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
+- "Equal contribution"
 date: "2019-04-01T00:00:00Z"
-
+doi: 10.1038/s41598-019-39302-2
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-10-01T00:00:00Z"
 
