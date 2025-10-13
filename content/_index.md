@@ -5,14 +5,17 @@ date: 2025-10-12
 type: landing
 
 sections:
-  - block: markdown
+  - block: hero
     content:
       title: |
         Next-generation Optical Fiber Lab (NOFLab)
-      image:
-        filename: welcome.png
-        position: center
-        size: cover
+    design:
+      columns: '1'
+      background:
+        image:
+          filename: welcome.png
+          position: center
+          size: cover
    
       text: |
         <br>
