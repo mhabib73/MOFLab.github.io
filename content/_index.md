@@ -7,17 +7,17 @@ type: landing
 sections:
   - block: hero
     content:
-      title:
-      text:
+      title: |
+      text: |
       image:
         filename: welcome.png
         #parallax: false
-        position: center
+        position: left
         size: cover
   - block: markdown
     content:
       title: |
-        Next-generation Optical Fiber Lab (NOFLab)
+        #Next-generation Optical Fiber Lab (NOFLab)
     
       text: |
         <br>
