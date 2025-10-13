@@ -24,6 +24,18 @@ sections:
         * Ultrafast nonlinear optics
         <br>
         * Light-matter interactions
+  - block: collection
+    content:
+      title: Featured articles
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - publication
+        publication_type: 'featured-article'
+    design:
+      view: citation
+      columns: '1'
   
   - block: markdown
     content:
