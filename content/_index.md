@@ -5,7 +5,7 @@ date: 2025-10-12
 type: landing
 
 sections:
-  - block: hero
+  - block: markdown
     content:
       title: |
         Next-generation Optical Fiber Lab (NOFLab)
