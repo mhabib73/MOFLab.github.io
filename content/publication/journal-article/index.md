@@ -64,9 +64,9 @@ links:
 #- type: video
  # url: https://youtube.com
 #- type: link
- # label: link
-  #url: https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-10-1253
-  url_source: 'https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-10-1253'
+ - name: link
+  url: https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-10-1253
+  #url_source: https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-10-1253
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
