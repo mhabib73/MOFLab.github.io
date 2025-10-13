@@ -9,8 +9,7 @@ sections:
     content:
       title: |
         Next-generation Optical Fiber Lab (NOFLab)
-    design:
-      columns: '1'
+    
       image:
         filename: welcome.png
         position: center
