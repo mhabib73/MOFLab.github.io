@@ -89,9 +89,7 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
----
 
----
 title: "afsdfdf 2.2 kW single-mode narrow-linewidth laser delivery through a hollow-core fiber"
 authors:
 - M. A. Cooper
