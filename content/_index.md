@@ -22,5 +22,5 @@ sections:
         position: center
         parallax: false
         color: "#000000"            # Fallback background color
-        image_darken: 0.3           # Dim image slightly for readability
+       
 ---
