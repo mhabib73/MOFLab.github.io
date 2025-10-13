@@ -35,16 +35,7 @@ sections:
       title:
       subtitle: ''
       text: |
-        Dr. Habib is the director of Microstructured Fiber Photonics Lab (MFPL), where he leads cutting-edge research and innovation on next-generation optical fibers for photonics based applications.
-        <br><br>
-        Our research focuses on: <br>
-        * Advanced optical fiber design, fabrication, and characterization
-        <br>
-        * Energy-efficient and low-cost fiber sensors
-        <br>
-        * Ultrafast nonlinear optics
-        <br>
-        * Light-matter interactions
+       
     design:
       columns: '1'
       background:
