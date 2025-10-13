@@ -49,7 +49,7 @@ links:
 #- type: video
  # url: https://youtube.com
 #- type: link
-  name: link
+ # name: link
  # url: https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-10-1253
 
 # Featured image
