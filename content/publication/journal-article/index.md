@@ -71,7 +71,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'SEM image of anti-resonant hollow-core fiber'
+  caption: 'SEM image and transmission loss of anti-resonant hollow-core fiber'
   focal_point: "TopRight"
   preview_only: false
 
