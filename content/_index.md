@@ -11,7 +11,7 @@ sections:
       text:
       image:
         filename: welcome.png
-        parallax: false
+        #parallax: false
         position: center
         size: cover
   - block: hero
