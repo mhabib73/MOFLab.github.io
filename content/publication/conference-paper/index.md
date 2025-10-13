@@ -43,7 +43,7 @@ featured: false
 # Standard identifiers for auto-linking
 hugoblox:
   ids:
-  doi: 10.5555/123456
+  doi: 10.1364/CLEO_AT.2025.JPS200_10
 
 # Custom links
 links:
