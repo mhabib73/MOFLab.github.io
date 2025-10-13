@@ -11,11 +11,10 @@ sections:
         Next-generation Optical Fiber Lab (NOFLab)
     design:
       columns: '1'
-      background:
-        image:
-          filename: welcome.png
-          position: center
-          size: cover
+      image:
+        filename: welcome.png
+        position: center
+        size: cover
    
       text: |
         <br>
