@@ -8,8 +8,8 @@
 appearance:
   #theme_day: minimal
   theme_day: ocean
-  theme_night: aurora
-  font: Arial
+  theme_night: #aurora
+  font: Sans-serif
   font_size: L
 
 # SEO
