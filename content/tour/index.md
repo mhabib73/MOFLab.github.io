@@ -1,44 +1,27 @@
 ---
-title: Tour
-date: 2022-10-24
-
+# Leave the homepage title empty to use the site title
+title:
+date: 2025-10-12
 type: landing
 
 sections:
-  - block: slider
+  - block: hero
     content:
-      slides:
-      - title: Welcome to the Next-generation Optical Fiber (NOFLab) group
-        content: Take a look at what we're working on...
-        align: left
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
-      - title: Next-generation Optical Fiber Lab
-        content: ''
-        align: right
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.9
-          position: center
-          color: '#888'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
+      title: |
+        Next-generation Optical Fiber Lab (NOFLab)
+      image:
+        filename: welcome.png
+      text: |
+        <br>
+        
+        Dr. Habib is the director of Next-generation Optical Fiber Lab (NOFLab), where he leads cutting-edge research and innovation on next-generation optical fibers for photonics based applications.
+  
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
-      is_fullscreen: true
-      # Automatically transition through slides?
-      loop: false
-      # Duration of transition between slides (in ms)
-      interval: 2000
+      columns: '1'
 ---
