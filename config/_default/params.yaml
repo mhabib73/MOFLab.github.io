@@ -42,7 +42,7 @@ header:
     show_search: true
     highlight_active_link: true
     logo:
-      icon_pack: "ai"
+     # icon_pack: "ai"
       text: 'NOFLab'
      # icon: 'academic'
       image: "logo.jpg"
