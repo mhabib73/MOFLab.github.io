@@ -41,10 +41,10 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: true
-    logo:
+    logo: 'logo.jpg'
       text: 'MOFLab'
-      image:
-        filename: logo.jpg
+      #image:
+        #filename: logo.jpg
 
 # Site footer
 
