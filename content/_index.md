@@ -43,7 +43,7 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: ' '
+        publication_type: 'journal'
     design:
       view: citation
       columns: '1'
