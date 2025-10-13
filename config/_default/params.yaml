@@ -42,11 +42,9 @@ header:
     show_search: true
     highlight_active_link: true
     logo:
-     # icon_pack: "ai"
-      text: 'NOFLab'
-     # icon: 'academic'
-      image: "logo.jpg"
-      height: 10
+      text: 'MOFLab'
+      image:
+        filename: logo.jpg
 
 
 
