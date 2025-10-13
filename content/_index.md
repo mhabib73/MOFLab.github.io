@@ -5,7 +5,7 @@ date: 2025-10-12
 type: landing
 
 sections:
-  - block: hero
+  - block: markdown
     content:
       title: |
       text: |
@@ -14,7 +14,7 @@ sections:
         #parallax: false
         position: left
         size: cover
-  - block: markdown
+  - block: hero
     content:
       title: |
     
