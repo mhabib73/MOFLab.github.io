@@ -17,7 +17,7 @@ authors:
   #- 'Equal contribution'
 
 date: '2025-06-01T00:00:00Z'
-doi: 10.1364/CLEO_AT.2025.JPS200
+doi: 10.1364/CLEO_AT.2025.JPS200_10
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2025-06-01T00:00:00Z'
