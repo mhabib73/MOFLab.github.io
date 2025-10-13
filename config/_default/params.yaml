@@ -6,10 +6,11 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
+  #theme_day: minimal
+  theme_day: ocean
+  theme_night: aurora
   font: Open Sans
-  font_size: M
+  font_size: L
 
 # SEO
 
