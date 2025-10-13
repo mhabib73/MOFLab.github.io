@@ -20,8 +20,8 @@ sections:
         country: United States
         country_code: US
       coordinates:
-        latitude: '28.0640'
-        longitude: '80.6215'
+        latitude: '37.4275'
+        longitude: '-122.1697'
       directions: Olin Engineering Complex, Room 352
      # office_hours:
         #- 'Monday 10:00 to 13:00'
