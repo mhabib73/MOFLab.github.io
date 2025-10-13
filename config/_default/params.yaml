@@ -34,6 +34,10 @@ marketing:
 
 header:
   navbar:
+    logo: 
+      text: 'MOFLab'
+      image:
+        filename: logo.jpg
     enable: true
     align: r
     show_logo: true
@@ -41,10 +45,7 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: true
-    logo: 'logo.jpg'
-      text: 'MOFLab'
-      #image:
-        #filename: logo.jpg
+    
 
 # Site footer
 
