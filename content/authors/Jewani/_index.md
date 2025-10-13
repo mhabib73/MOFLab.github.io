@@ -36,9 +36,9 @@ education:
      # year: ''
     - course: MSc in Data Science
       institution: Florida Polytechnic University
-      year: 2022
-    #- course: BSc in Electrical Engineering
-     # institution: Rajshahi University of Engineering and Technology
+      year: 2023
+    - course: BSc in Electrical and Computer Engineering
+      institution: Haramaya Institute of Technology
       #year: 2018
 
 # Social/Academic Networking
