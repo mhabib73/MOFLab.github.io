@@ -14,7 +14,7 @@ sections:
         #parallax: false
         position: center
         size: cover
-  - block: hero
+  - block: markdown
     content:
       title: |
         Next-generation Optical Fiber Lab (NOFLab)
