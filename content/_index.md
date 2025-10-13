@@ -17,7 +17,6 @@ sections:
   - block: markdown
     content:
       title: |
-        #Next-generation Optical Fiber Lab (NOFLab)
     
       text: |
         <br>
