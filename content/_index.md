@@ -38,7 +38,7 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: 'article-journal'
+        publication_type: 'featured-article'
     design:
       view: citation
       columns: '1'
