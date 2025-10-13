@@ -7,9 +7,9 @@ type: landing
 sections:
   - block: markdown
     content:
-    title:
-    text:
-    image:
+      title:
+      text:
+      image:
       filename: welcome.png
       parallax: false
       position: center
