@@ -29,7 +29,7 @@ publishDate: "2023-10-01T00:00:00Z"
 publication_types: ["featured-article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Optica **10**, 1253 (2023)"
+publication: "Scientific Reports **9**, 4446 (2019)"
 publication_short: ""
 
 abstract: Supercontinuum (SC) generation based on ultrashort pulse compression constitutes one of the most promising technologies towards ultra-wide bandwidth, high-brightness, and spatially coherent light sources for applications such as spectroscopy and microscopy. Here, multi-octave SC generation in a gas-filled hollow-core antiresonant fiber (HC-ARF) is reported spanning from 200 nm in the deep ultraviolet (DUV) to 4000 nm in the mid-infrared (mid-IR) having an output energy of 5 μJ. This was obtained by pumping at the center wavelength of the first anti-resonant transmission window (2460 nm) with ~100 fs pulses and an injected pulse energy of ~8 μJ. The mechanism behind the extreme spectral broadening relies upon intense soliton-plasma nonlinear dynamics which leads to efficient soliton self-compression and phase-matched dispersive wave (DW) emission in the DUV region. The strongest DW is observed at 275 nm which corresponds to the calculated phase-matching wavelength of the pump. Furthermore, the effect of changing the pump pulse energy and gas pressure on the nonlinear dynamics and their direct impact on SC generation was investigated. This work represents another step towards gas-filled fiber-based coherent sources, which is set to have a major impact on applications spanning from DUV to mid-IR..
@@ -38,7 +38,7 @@ abstract: Supercontinuum (SC) generation based on ultrashort pulse compression c
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Hollow-core fibers; high power fiber lasers; low-loss fibers
+- Hollow-core fibers; supercontinuum-generation; soliton; nonlinear optics
 
 featured: true
 
