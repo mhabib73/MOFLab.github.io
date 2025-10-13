@@ -18,7 +18,7 @@ role: MSc Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Florida Polytechnic University
+  - name: Technical University of Munich
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
