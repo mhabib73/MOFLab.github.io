@@ -19,6 +19,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 date: "2023-10-01T00:00:00Z"
+doi: 10.1364/OPTICA.495806
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-10-01T00:00:00Z"
