@@ -8,13 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Next-generation Optical Fiber Lab (NOFLab)
+        Microstructured Fiber Photonics Lab (MFLLab)
       image:
         filename: welcome.png
       text: |
         <br>
         
-        Dr. Habib is the director of Next-generation Optical Fiber Lab (NOFLab), where he leads cutting-edge research and innovation on next-generation optical fibers for photonics based applications.
+        Dr. Habib is the director of Microstructured Fiber Photonics Lab (MFPLab), where he leads cutting-edge research and innovation on next-generation optical fibers for photonics based applications.
         <br><br>
         Our research focuses on: <br>
         * Advanced optical fiber design, fabrication, and characterization
@@ -22,6 +22,8 @@ sections:
         * Energy-efficient and low-cost fiber sensors
         <br>
         * Ultrafast nonlinear optics
+        <br>
+        * Light-matter interactions
   
   - block: markdown
     content:
