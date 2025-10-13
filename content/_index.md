@@ -1,12 +1,12 @@
 ---
 # Homepage
-title: ""
+title: 
 date: 2025-10-12
 type: landing
 
 sections:
   - block: hero
-    id: hero
+    #id: hero
     content:
       title: "Welcome to My Research Group"
       text: "Exploring light–matter interactions and advancing fiber photonics."
