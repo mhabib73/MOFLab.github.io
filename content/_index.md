@@ -29,23 +29,7 @@ sections:
         <br>
         * Ultrafast nonlinear optics
   
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
 
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./publications/" cta_text="Publications →" %}}
-    design:
-      columns: '1'
 
  
 ---
