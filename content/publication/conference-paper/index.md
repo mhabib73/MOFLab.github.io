@@ -38,7 +38,7 @@ abstract: We demonstrate highly-efficient light generation at 1550 nm in a H2-fi
 tags:
   - Hollow-core fibers; ultrafast nonlinear optics
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Standard identifiers for auto-linking
 hugoblox:
