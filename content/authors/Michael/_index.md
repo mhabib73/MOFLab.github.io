@@ -36,10 +36,10 @@ education:
       year: ''
     - course: MSc in Electrical Engineering
       institution: Florida Polytechnic University
-      year: 2022
-    #- course: BSc in Electrical Engineering
-     # institution: Rajshahi University of Engineering and Technology
-      #year: 2018
+      year: 2023
+    - course: BSc in Electrical Engineering
+      institution: arlsruhe University of Applied Sciences
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
