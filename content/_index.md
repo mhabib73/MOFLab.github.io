@@ -32,7 +32,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest articles
+      title: Featured articles
       text: ""
       count: 5
       filters:
