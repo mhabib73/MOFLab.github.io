@@ -32,7 +32,7 @@ sections:
     design:
       columns: '1'
 
-   - block: markdown
+   - block: hero
     content:
       title:
       subtitle:
