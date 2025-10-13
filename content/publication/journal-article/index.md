@@ -47,7 +47,7 @@ featured: true
  # ids:
   #  arxiv: 1512.04133v1
 
-#links:
+links:
 #- type: preprint
  # provider: arxiv
   #id: 1512.04133v1
@@ -66,7 +66,7 @@ featured: true
 #- type: link
  # label: link
   #url: https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-10-1253
-  url_sournce: 'https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-10-1253'
+  url_source: 'https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-10-1253'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
