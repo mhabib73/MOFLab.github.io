@@ -11,6 +11,7 @@ sections:
         Next-generation Optical Fiber Lab (NOFLab)
       image:
         filename: welcome.png
+        position: center
         size: cover
    
       text: |
