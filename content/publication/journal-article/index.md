@@ -65,7 +65,7 @@ links:
  # url: https://youtube.com
 #- type: link
  - name: link
-  url: https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-10-1253
+   url: https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-10-1253
   #url_source: https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-10-1253
 
 # Featured image
