@@ -33,7 +33,7 @@ publication: In CLEO, San Diego, USA
 abstract: We demonstrate highly-efficient light generation at 1550 nm in a H2-filled, octave-spanning, and low-loss hollow-core anti-resonant fiber by pumping at 1030 nm. The efficient light generation is due to the emission of strong Raman-soliton.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
   - Hollow-core fibers; ultrafast nonlinear optics
@@ -41,9 +41,9 @@ tags:
 featured: true
 
 # Standard identifiers for auto-linking
-#hugoblox:
- # ids:
-  #  doi: 10.5555/123456
+hugoblox:
+  ids:
+  doi: 10.5555/123456
 
 # Custom links
 links:
