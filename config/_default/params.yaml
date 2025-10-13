@@ -43,8 +43,8 @@ header:
     highlight_active_link: false
     logo:
       icon_pack: "ai"
-      text: 'MOFlab'
-      icon: 'academic'
+      text: 'NOFLab'
+     # icon: 'academic'
       image: "logo.jpg"
       height: 10
 
