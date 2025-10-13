@@ -5,6 +5,15 @@ date: 2025-10-12
 type: landing
 
 sections:
+  - block: markdown
+    content:
+    title:
+    text:
+    image:
+      filename: welcome.png
+      parallax: false
+      position: center
+      size: cover
   - block: hero
     content:
       title: |
