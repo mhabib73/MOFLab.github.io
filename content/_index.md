@@ -32,12 +32,12 @@ sections:
     design:
       columns: '1'
 
-   - block: hero
-    content:
+   - block: markdown
+     content:
       title:
       subtitle:
       text: |
         {{% cta cta_link="./publications/" cta_text="Publications →" %}}
-    design:
-      columns: '1'
+     design:
+       columns: '1'
 ---
