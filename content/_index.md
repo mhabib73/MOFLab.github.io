@@ -10,10 +10,10 @@ sections:
       title:
       text:
       image:
-      filename: welcome.png
-      parallax: false
-      position: center
-      size: cover
+        filename: welcome.png
+        parallax: false
+        position: center
+        size: cover
   - block: hero
     content:
       title: |
