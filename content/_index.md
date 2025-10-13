@@ -18,7 +18,7 @@ sections:
     content:
       title: 
     
-      text: 
+      text: |
         Dr. Habib is the director of Microstructure Optical Fiber Lab (MOFLab), where he leads cutting-edge research and innovation on next-generation optical fibers for photonics based applications.
         <br><br>
         Our research focuses on: <br>
