@@ -8,9 +8,9 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
+      - title: Welcome to the Next-generation Optical Fiber (NOFLab) group
         content: Take a look at what we're working on...
-        align: center
+        align: left
         background:
           image:
             filename: coders.jpg
