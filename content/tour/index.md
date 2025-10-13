@@ -36,6 +36,7 @@ sections:
     design:
       view: citation
       columns: '1'
+      text_align: left
   
   - block: markdown
     content:
