@@ -1,5 +1,5 @@
 ---
-title: Dr. Habib has received funding from Relativity Networks, Inc.
+title: Dr. Habib has secured research funding from Relativity Networks, Inc.
 date: 2025-06-01
 image:
   focal_point: 'top'
