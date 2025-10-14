@@ -1,4 +1,4 @@
----
+ ---
 title: Tour
 date: 2022-10-24
 
@@ -28,8 +28,8 @@ sections:
             #filename: welcome.png
             #filters:
               #brightness: 0.2
-          position: center
-          color: '#555'
+          #position: center
+          #color: '#555'
       - title: world-class advanced optical fiber design, modeling, and characterization
         content: ''
         align: right
@@ -38,8 +38,8 @@ sections:
             #filename: welcome.png
             #filters:
               #brightness: 0.8
-          position: center
-          color: '#333'
+          #position: center
+          #color: '#333'
         link:
           icon: graduation-cap
           icon_pack: fas
