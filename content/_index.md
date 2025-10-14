@@ -31,7 +31,7 @@ sections:
       image:
         filename: welcome.png
         #parallax: false
-        position: left
+        position: center
         size: cover
     design:
       columns: '1'
