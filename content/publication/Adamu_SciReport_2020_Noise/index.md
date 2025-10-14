@@ -1,5 +1,5 @@
 ---
-title: "Deep-UV to mid-IR supercontinuum generation driven by mid-IR ultrashort pulses in a gas-filled hollow-core fiber (Editor choise)"
+title: "Noise and spectral stability of deep-UV gas-filled fiber-based supercontinuum sources driven by ultrafast mid-IR pulses (**Editor choise**)"
 authors:
 - A. Adamu
 - Admin
