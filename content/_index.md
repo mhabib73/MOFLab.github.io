@@ -10,6 +10,8 @@ type: landing
     #alt: "Research Group Logo"
     #height: 60
 
+sections:
+
   - block: markdown
     content:
       title:
@@ -29,8 +31,6 @@ type: landing
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-
-sections:
   - block: hero
     content:
       title: |
