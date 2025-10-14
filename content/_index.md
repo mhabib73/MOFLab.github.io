@@ -8,9 +8,9 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Welcome to the group Microstructure Optical Fiber Lab
-        content: Take a look at what we're working on...
-        align: center
+      - title: welcome to the microstructure optical fiber lab
+        content: ''
+        align: right
         background:
           image:
             filename: welcome.png
@@ -18,7 +18,9 @@ sections:
               brightness: 0.3
           position: right
           color: '#666'
-      - title: Our reserach focues on
+        link:
+          url: ../authors/
+      - title: our reserach focues on
         content: 'Advanced optical fibers and ultrafast nonlinear optics'
         align: left
         background:
@@ -28,14 +30,14 @@ sections:
               brightness: 0.2
           position: center
           color: '#555'
-      - title: World-Class Optical Fiber Lab
+      - title: world-class advanced optical fiber design, modeling, and characterization
         content: ''
         align: right
         background:
           image:
             filename: welcome.png
             filters:
-              brightness: 0.1
+              brightness: 0.8
           position: center
           color: '#333'
         link:
@@ -46,7 +48,7 @@ sections:
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
-      is_fullscreen: true
+      is_fullscreen: false
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
