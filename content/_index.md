@@ -29,7 +29,7 @@ sections:
           size: cover
           text_color_light: true
       spacing:
-        padding: ['30px', '0', '30px', '0']
+        padding: ['2rem', '0', '2rem', '0']
       css_class: fullscreen
     
   - block: hero
