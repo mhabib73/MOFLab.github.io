@@ -7,3 +7,10 @@
 .cta-group {
   justify-content: left;
 }
+// screen
+
+.halfscreen {
+  height: 50vh; /* 50% of the viewport height */
+  background-size: cover;
+  background-position: center;
+}
