@@ -11,6 +11,8 @@ appearance:
   theme_night: aurora
   font: Open Sans 
   font_size: M
+  image:
+    filename: logo.jpg
 
 # SEO
 
@@ -44,7 +46,7 @@ header:
       height: 45
         #filename: 
     enable: true
-    align: c
+    align: r
     show_logo: true
     show_language: false
     show_day_night: true
