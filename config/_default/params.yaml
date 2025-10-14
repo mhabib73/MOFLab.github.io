@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  #theme_day: minimal
   #theme_day: ocean
-  theme_night: aurora
+  #theme_night: aurora
   font: Open Sans 
   font_size: M
 
