@@ -31,17 +31,13 @@ marketing:
     baidu: ''
 
 
-appearance:
-  logo:
-    enable: true
-    image: "media/logo.jpg"
-    alt: "Research Group Logo"
-    height: 45
+
 # Site header
 
 header:
   navbar:
     enable: true
+  appearance: 
     logo: 
       enable: true
       #text: 'MFPLab'
