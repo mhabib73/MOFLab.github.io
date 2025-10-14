@@ -1,5 +1,5 @@
 ---
-title: "Noise and spectral stability of deep-UV gas-filled fiber-based supercontinuum sources driven by ultrafast mid-IR pulses (**Editor choise**)"
+title: "Noise and spectral stability of deep-UV gas-filled fiber-based supercontinuum sources driven by ultrafast mid-IR pulses (Editor choise)"
 authors:
 - A. Adamu
 - Admin
