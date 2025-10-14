@@ -40,7 +40,7 @@ sections:
     content:
       title: Featured articles
       text: ""
-      count: 5
+      count: 10
       filters:
         folders:
           - publication
