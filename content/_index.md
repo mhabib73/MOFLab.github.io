@@ -62,7 +62,7 @@ sections:
             size: cover
           spacing:
             padding: ['2rem', '0', '2rem', '0']      
-    css_class: fullscreen
+          css_class: fullscreen
 
       
       
