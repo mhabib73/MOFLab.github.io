@@ -36,7 +36,7 @@ marketing:
 
 header:
   navbar:
-  appearance: 
+  #appearance: 
     enable: true
   #appearance: 
     logo: 
