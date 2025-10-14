@@ -11,8 +11,7 @@ appearance:
   theme_night: aurora
   font: Open Sans 
   font_size: M
-  image:
-    filename: logo.jpg
+  
 
 # SEO
 
