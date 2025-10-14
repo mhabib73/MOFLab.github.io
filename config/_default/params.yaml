@@ -39,10 +39,10 @@ header:
   navbar:
     logo: 
       enable: true
-      #text: 'MFPLab'
-      image: "media/logo.jpg"
-      alt: "Reseach Group Logo"
-      height: 45
+      text: 'Habib'
+      #image: "media/logo.jpg"
+      #alt: "Reseach Group Logo"
+      #height: 45
         #filename: 
     enable: true
     align: r
