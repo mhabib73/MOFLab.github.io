@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Microstructured Fiber Photonics Lab (MFPLab)
+        Microstructured Optical Fiber Lab
       image:
         filename: welcome.png
       text: |
