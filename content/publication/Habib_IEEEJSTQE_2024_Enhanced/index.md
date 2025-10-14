@@ -24,8 +24,7 @@ publication_types: ["featured-article"]
 publication: "IEEE Journal of Selected Topics in Quantum Electronics **6**, 1 (2024)"
 publication_short: ""
 
-abstract: Understanding the interplay between the core-guided modes and tube-modes of hollow-core anti-resonant fiber (HCARF) is essential to achieve low-loss and multi-mode guidance. In this paper, we thoroughly investigated the coupling between the core-guided modes and tube-modes of various HC ARFs using extensive analytical and finite-element modeling with the aim of achieving multi-mode guidance. We found that the coupling between the core-guided modes and tube-modes can significantly be enhanced by modifying and placing the cladding tubes of nested HCARFs. We proposed a modified nested HCARF that significantly enhances the inhibited-coupling (IC) between the core-guided modes and tube-modes compared to a regular and nested HCARF design. Due to the enhanced IC between the core-guided modes and tube-modes resulting from their phase mismatch, modified nested HCARF can support as high as 50 distinct spatial modes with propagation loss $<$10 dB/km and also demonstrate low-bend loss upon tight bending at 1064 nm. Our study will provide a better understanding of coupling between the core-guided modes and tube-modes for designing multi-mode HCARFs. It is anticipated that the extraordinary optical properties of the proposed fiber can be beneficial for several applications including high power beam delivery, short-haul communication, and
-ultrafast nonlinear optics.
+abstract: 
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
