@@ -21,7 +21,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: welcome.jpg
+          filename: welcome.png
           filters:
             brightness: 1
           parallax: false
@@ -30,7 +30,7 @@ sections:
           text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+      #css_class: fullscreen
     
   - block: markdown
     content:
