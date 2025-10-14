@@ -37,8 +37,8 @@ header:
     show_logo: true
     logo: 
       text: 'MFPLab'
-      image:
-        filename: logo.jpg
+      image: "media/logo.jpg"
+        #filename: 
     enable: true
     align: r
     show_logo: true
