@@ -36,7 +36,7 @@ header:
   navbar:
     show_logo: true
     logo: 
-      text: 'MFPLab'
+      #text: 'MFPLab'
       image: "media/logo.jpg"
         #filename: 
     enable: true
