@@ -1,5 +1,5 @@
 ---
-title: "Deep-UV to mid-IR supercontinuum generation driven by mid-IR ultrashort pulses in a gas-filled hollow-core fiber [**Editor** **choise**]"
+title: "Deep-UV to mid-IR supercontinuum generation driven by mid-IR ultrashort pulses in a gas-filled hollow-core fiber (Editor choise)"
 authors:
 - A. Adamu
 - Admin
