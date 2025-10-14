@@ -1,5 +1,5 @@
 ---
-title: Dr. Habib has been in the Photonics100 2024 list
+title: Dr. Habib has been selected in the Photonics100 2024 list
 date: 2024-06-01
 image:
   focal_point: 'top'
