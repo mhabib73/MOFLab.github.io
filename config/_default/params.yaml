@@ -36,8 +36,9 @@ marketing:
 
 header:
   navbar:
-    enable: true
   appearance: 
+    enable: true
+  #appearance: 
     logo: 
       enable: true
       #text: 'MFPLab'
