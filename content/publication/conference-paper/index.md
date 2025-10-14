@@ -1,15 +1,15 @@
 ---
-title: 'Efficient Light Generation at 1550 nm Using H2-filled Low-loss Hollow-core Fiber'
+title: 'Efficient light generation at 1550 nm using H2-filled low-loss hollow-core fiber'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - C Markos
-  - JE Lopez
-  - D Hudson
-  - R Amezcua-Correa
+  - C. Markos
+  - J. E. Lopez
+  - D. Hudson
+  - R. Amezcua-Correa
 
 # Author notes (optional)
 #author_notes:
