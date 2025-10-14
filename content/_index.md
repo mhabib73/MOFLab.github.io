@@ -60,6 +60,7 @@ sections:
           padding: ['2rem', '0', '2rem', '0']
         text_align: left
         image_align: left
+       css_class: fullscreen
 
       
       
