@@ -14,21 +14,23 @@ sections:
 
   - block: markdown
     content:
-      title: |
-        
-      text: |
-        
-      image:
-        filename: welcome.png
-        #parallax: false
-        position: center
-        size: cover
+      title:
+      subtitle: ''
+      text:
     design:
       columns: '1'
+      background:
+        image: 
+          filename: welcome.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
       spacing:
-        padding: ['2rem', '0', '2rem', '0']
-      text_align: left
-      image_align: left
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
     
   - block: markdown
     content:
