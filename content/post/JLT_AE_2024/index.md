@@ -1,6 +1,6 @@
 ---
 title: Dr. Habib joins as IEEE JLT Associate Editor
-date: 2024-12-18
+date: 2024-02-22
 image:
   focal_point: 'top'
 ---
