@@ -24,7 +24,7 @@ sections:
           filename: welcome.png
           filters:
             brightness: 1
-          parallax: false
+          parallax: true
           position: center
           size: cover
           text_color_light: true
