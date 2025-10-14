@@ -1,5 +1,5 @@
 ---
-title: Invited talk at the University of Miami Physics Colloquium talk
+title: Invited speaker at the University of Miami Physics Colloquium talk
 date: 2025-10-01
 image:
   focal_point: 'top'
