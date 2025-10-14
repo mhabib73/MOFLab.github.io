@@ -11,10 +11,10 @@ authors:
 - C. Markos
 
 #- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
+#- "Equal contribution"
 date: "2020-04-18T00:00:00Z"
 doi: 10.1038/s41598-020-61847-w
 # Schedule page publish date (NOT publication's date).
