@@ -1,93 +1,54 @@
 ---
-# Leave the homepage title empty to use the site title
-title:
-date: 2025-10-12
+title: Tour
+date: 2022-10-24
+
 type: landing
-#header:
-  #show_logo: true
-  #logo:
-    #image: "media/logo.jpg"
-    #alt: "Research Group Logo"
-    #height: 60
 
 sections:
-
-  - block: markdown
+  - block: slider
     content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: welcome.png
-          filters:
-            brightness: 1
-          parallax: true
-          position: center
-          #size: cover
-          text_color_light: true
-      spacing:
-        padding: ['4rem', '2rem', '4rem', '2rem']
-      css_class: fullscreen
-    
-  - block: hero
-    content:
-      title: |
-        Microstructure Optical Fiber Lab
-      text: |
-        <br>
-        
-        Dr. Habib is the director of Microstructure Optical Fiber Lab (MOFLab), where he leads cutting-edge research and innovation on next-generation optical fibers for photonics based applications.
-        <br><br>
-        Our research focuses on: <br>
-        * Advanced optical fiber design, fabrication, and characterization
-        <br>
-        * Energy-efficient and low-cost fiber sensors
-        <br>
-        * Ultrafast nonlinear optics
-        <br>
-        * Light-matter interactions
-      image:
-        filename: welcome.png
-        #parallax: false
-        position: center
-        size: cover
-      design:
+      slides:
+      - title: 👋 Welcome to the group
+        content: Take a look at what we're working on...
+        align: center
         background:
           image:
             filename: welcome.png
-            placement: center
-            size: cover
-          spacing:
-            padding: ['2rem', '0', '2rem', '0']      
-          css_class: fullscreen
-
-      
-      
-  - block: collection
-    content:
-      title: Featured articles
-      text: ""
-      count: 10
-      filters:
-        folders:
-          - publication
-        publication_type: 'featured-article'
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+      - title: Lunch & Learn ☕️
+        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        align: left
+        background:
+          image:
+            filename: welcome.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+      - title: World-Class Semiconductor Lab
+        content: 'Just opened last month!'
+        align: right
+        background:
+          image:
+            filename: welcome.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Join Us
+          url: ../contact/
     design:
-      view: citation
-      columns: '1'
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
-  
-
-
- 
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 500
 ---
