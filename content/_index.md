@@ -54,12 +54,12 @@ sections:
         #parallax: false
         position: center
         size: cover
-    design:
-      columns: '1'
-      spacing:
-        padding: ['2rem', '0', '2rem', '0']
-      text_align: left
-      image_align: left
+      design:
+        columns: '1'
+        spacing:
+          padding: ['2rem', '0', '2rem', '0']
+        text_align: left
+        image_align: left
 
       
       
