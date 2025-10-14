@@ -33,6 +33,14 @@ sections:
         #parallax: false
         position: left
         size: cover
+    design:
+      columns: '1'
+      spacing:
+        padding: ['2rem', '0', '2rem', '0']
+      text_align: left
+      image_align: left
+
+      
       
   - block: collection
     content:
