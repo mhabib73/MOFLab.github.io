@@ -3,8 +3,8 @@
 title:
 date: 2025-10-12
 type: landing
-header:
-  show_logo: true
+#header:
+  #show_logo: true
   #logo:
     #image: "media/logo.jpg"
     #alt: "Research Group Logo"
