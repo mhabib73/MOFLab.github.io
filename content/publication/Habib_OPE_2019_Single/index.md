@@ -2,7 +2,6 @@
 title: "Single-mode, low loss hollow-core anti-resonant fiber designs"
 authors:
 - admin
--  I. Divliansky
 - J. E. Antonio-Lopez
 - C. Markos
 - A. Schülzgen
