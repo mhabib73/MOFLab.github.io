@@ -15,7 +15,7 @@ sections:
           image:
             filename: welcome.png
             filters:
-              brightness: 1
+              brightness: 0.3
           position: right
           color: '#666'
       - title: Our reserach focues on
@@ -25,7 +25,7 @@ sections:
           image:
             filename: welcome.png
             filters:
-              brightness: 0.7
+              brightness: 0.2
           position: center
           color: '#555'
       - title: World-Class Optical Fiber Lab
@@ -35,7 +35,7 @@ sections:
           image:
             filename: welcome.png
             filters:
-              brightness: 0.5
+              brightness: 0.1
           position: center
           color: '#333'
         link:
@@ -50,5 +50,5 @@ sections:
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 1000
 ---
