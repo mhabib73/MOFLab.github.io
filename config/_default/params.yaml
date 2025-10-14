@@ -30,6 +30,13 @@ marketing:
     google: ''
     baidu: ''
 
+
+appearance:
+  logo:
+    enable: true
+    image: "media/logo.jpg"
+    alt: "Research Group Logo"
+    height: 45
 # Site header
 
 header:
