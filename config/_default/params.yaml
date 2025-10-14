@@ -34,12 +34,12 @@ marketing:
 
 header:
   navbar:
-    show_logo: true
-    logo: 
-      enable: true
+    #show_logo: true
+    #logo: 
+      #enable: true
       #text: 'MFPLab'
-      image: "media/logo.jpg"
-      alt: "Reseach Group Logo"
+      #image: "media/logo.jpg"
+      #alt: "Reseach Group Logo"
         #filename: 
     enable: true
     align: r
