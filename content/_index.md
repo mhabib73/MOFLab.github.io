@@ -8,32 +8,32 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
+      - title: Welcome to the group Microstructure Optical Fiber Lab
         content: Take a look at what we're working on...
         align: center
         background:
           image:
             filename: welcome.png
             filters:
-              brightness: 0.7
+              brightness: 1
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Our reserach focues on
+        content: 'Advanced optical fibers and ultrafast nonlinear optics'
         align: left
         background:
           image:
-            filename: welcome.jpg
+            filename: welcome.png
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: World-Class Optical Fiber Lab
+        content: ''
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: welcome.png
             filters:
               brightness: 0.5
           position: center
@@ -48,7 +48,7 @@ sections:
       slide_height: ''
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
-      interval: 500
+      interval: 2000
 ---
