@@ -32,7 +32,7 @@ sections:
         padding: ['30px', '0', '30px', '0']
       css_class: fullscreen
     
-  - block: markdown
+  - block: hero
     content:
       title: |
         Microstructure Optical Fiber Lab
