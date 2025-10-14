@@ -55,11 +55,13 @@ sections:
         position: center
         size: cover
       design:
-        columns: '1'
-        spacing:
-          padding: ['2rem', '0', '2rem', '0']
-        text_align: left
-        image_align: left
+        background:
+          image:
+            filename: welcome.png
+            placement: center
+            size: cover
+          spacing:
+            padding: ['2rem', '0', '2rem', '0']      
     css_class: fullscreen
 
       
