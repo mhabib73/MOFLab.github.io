@@ -11,6 +11,25 @@ type: landing
     #height: 60
 
 sections:
+
+  - block: markdown
+    content:
+      title: |
+        
+      text: |
+        
+      image:
+        filename: welcome.png
+        #parallax: false
+        position: center
+        size: cover
+    design:
+      columns: '1'
+      spacing:
+        padding: ['2rem', '0', '2rem', '0']
+      text_align: left
+      image_align: left
+    
   - block: markdown
     content:
       title: |
