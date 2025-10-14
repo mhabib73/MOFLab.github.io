@@ -1,5 +1,5 @@
 ---
-title: Invited speaker at Optical Fiber Communication Confernece (OFC)
+title: Invited speaker at the Optical Fiber Communication Confernece (OFC)
 date: 2025-10-13
 ---
 
