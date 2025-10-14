@@ -11,7 +11,7 @@ type: landing
     #height: 60
 
 sections:
-  - block: hero
+  - block: markdown
     content:
       title: |
         Microstructure Optical Fiber Lab
