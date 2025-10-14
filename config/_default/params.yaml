@@ -36,9 +36,6 @@ marketing:
 
 header:
   navbar:
-  #appearance: 
-    enable: true
-  #appearance: 
     logo: 
       enable: true
       #text: 'MFPLab'
@@ -47,7 +44,7 @@ header:
       height: 45
         #filename: 
     enable: true
-    align: r
+    align: c
     show_logo: true
     show_language: false
     show_day_night: true
