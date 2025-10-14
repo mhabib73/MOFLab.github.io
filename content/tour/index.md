@@ -24,10 +24,10 @@ sections:
         content: 'Advanced optical fibers and ultrafast nonlinear optics'
         align: left
         background:
-          image:
-            filename: welcome.png
-            filters:
-              brightness: 0.2
+          #image:
+            #filename: welcome.png
+            #filters:
+              #brightness: 0.2
           position: center
           color: '#555'
       - title: world-class advanced optical fiber design, modeling, and characterization
@@ -35,9 +35,9 @@ sections:
         align: right
         background:
           image:
-            filename: welcome.png
-            filters:
-              brightness: 0.8
+            #filename: welcome.png
+            #filters:
+              #brightness: 0.8
           position: center
           color: '#333'
         link:
