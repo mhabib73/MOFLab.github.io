@@ -34,6 +34,7 @@ sections:
   - block: hero
     content:
       title: |
+        Microstructure Optical Fiber Lab
       text: |
       image:
         filename: welcome.png
