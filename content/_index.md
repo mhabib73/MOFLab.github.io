@@ -28,16 +28,16 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-  - block: hero
+  - block: markdown
     content:
       title: |
-        Microstructure Optical Fiber Lab
-      image:
-        filename: welcome.png
-        filters:
-          brightness: 1
-        position: center
-        size: cover
+        
+      #image:
+        #filename: welcome.png
+        #filters:
+          #brightness: 1
+        #position: center
+        #size: cover
       text: |
         <br>
         
