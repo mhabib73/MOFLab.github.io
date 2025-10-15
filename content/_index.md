@@ -8,8 +8,9 @@ sections:
   - block: markdown
     content:
       title: Welcome to Microstructure Optical Fiber Lab
-      subtitle: [Contact Us](/contact){: .btn .btn-outline-light}
+      subtitle: 
       text: |
+        [Contact Us](../contact/){: .btn .btn-outline-light}
         
 
     design:
