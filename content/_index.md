@@ -7,12 +7,12 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Welcome to Microstructure Optical Fiber Lab
-      align: bottom
-      subtitle: ''
-      link:
-        text: Join us    
-        url: ../contact/
+      - title: Welcome to Microstructure Optical Fiber Lab
+        align: bottom
+        subtitle: ''
+        link:
+          text: Join us    
+          url: ../contact/
 
     design:
       columns: '1'
