@@ -27,8 +27,11 @@ sections:
 
         <br>
         We welcome collaborations with academic groups, industry partners, and students interested in shaping the next generation of photonic technologies.
+    
         <br><br>
+    
         Our research group focuses on: <br>
+    
         * Advanced optical fiber design, fabrication, and characterization
         <br>
         * Energy-efficient and low-cost fiber sensors
