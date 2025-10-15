@@ -12,7 +12,7 @@ sections:
       subtitle: ''
       link:
         text: Join us    
-        url:../contact/
+        url: ../contact/
 
     design:
       columns: '1'
