@@ -42,8 +42,8 @@ sections:
         farther, and with remarkably low loss. By engineering advanced microstructured designs, we aim to achieve ultra-low transmission loss, low latency, broad bandwidth, and exceptionally low light–glass interaction—
         paving the way for the future of high-speed communication.
         <br><br>
-        By combining theory, simulation, and experimental fabrication, we aim to understand the underlying physics of light propagation in complex fiber geometries and translate that knowledge into practical designs. Our
-        research supports applications in AI data centers, quantum communication, high-speed data transmission, laser systems, fiber sensors, and biomedical imaging.
+        By combining theory, simulation, and experimental fabrication, we aim to understand the underlying physics of light propagation in complex fiber geometries. Our insights drive the development of practical fiber
+        designs with transformative applications in AI data centers, quantum communication, ultrafast data transmission, advanced laser systems, fiber-optic sensing, and biomedical imaging.
         <br><br>
         We welcome collaborations with academic groups, industry partners, and students interested in shaping the next generation of photonic technologies.
         <br><br>
