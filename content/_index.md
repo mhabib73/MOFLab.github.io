@@ -24,7 +24,7 @@ sections:
           text_color_light: true
         spacing:
         padding: ['20px', '20px', '20px', '20px']
-      css_class: four-quarters-screen
+      css_class: one-quarters-screen
 
   - block: markdown
     content:
