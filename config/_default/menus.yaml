@@ -22,7 +22,5 @@ main:
   - name: Contact
     url: contact
     weight: 60
-  - name: Home
-    url: "/#tour"
-    weight: 70
+
     
