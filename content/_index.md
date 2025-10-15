@@ -15,18 +15,22 @@ sections:
         url: ../contact/
         align: right
     design:
-      columns: '1'
+      columns: '2'
       background:
+        color: "#f5f7ff"
         image: 
           filename: welcome.png
           filters:
-            brightness: .5
+            brightness: 1
           parallax: true
           position: center
           size: cover
           text_color_light: false
       spacing:
-        padding: ['20px', '0', '100px', '0']
+        padding: ['150px', '0', '150px', '0']
+      alignment:
+        horizontal: center
+        vertical: center
       css_class: fullscreen
   - block: markdown
     content:
