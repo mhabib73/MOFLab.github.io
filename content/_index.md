@@ -8,8 +8,9 @@ sections:
   - block: markdown
     content:
       title: '<span style="color: white;">Welcome to Microstructure Optical Fiber Lab</span>'
-      subtitle: '<span style="color: white;">We are world class fiber optics lab</span>'
+      subtitle: 
       text: |
+        '<span style="color: white;">We are world class fiber optics lab</span>'
 
     design:
       columns: '1'
