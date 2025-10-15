@@ -29,10 +29,10 @@ sections:
           #parallax: true
           position: left
           parallax: false
-          size: 45%
+          size: 25%
           text_color_light: false
         spacing:
-        padding: ['0', '0', '0', '0']
+        padding: ['100px', '0', '0', '0']
       css_class: halfscreen
 
 
