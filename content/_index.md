@@ -21,11 +21,11 @@ sections:
             brightness: 1
           parallax: true
           position: center
-          size: 60%
+          size: 40%
           text_color_light: false
         spacing:
         padding: ['0', '5vw', '10vh', '5vw']
-      css_class: fullscreen
+      css_class: halfscreen
 
 
   - block: markdown
