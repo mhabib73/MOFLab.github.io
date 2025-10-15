@@ -10,7 +10,7 @@ sections:
       title: |
         Microstructure Optical Fiber Lab
       image:
-        filename: welcome.png
+        filename: welcome.svg
       text: |
         <br>
         
