@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   #theme_day: ocean
   theme_night: aurora
-  font: Open Sans 
+  font: Sans-serif
   font_size: L
   
 
@@ -40,7 +40,7 @@ header:
     logo: 
       enable: true
       text: 'Habib'
-      #image: "media/logo.jpg"
+      image: "media/logo.jpg"
       #alt: "Reseach Group Logo"
       #height: 45
         #filename: 
