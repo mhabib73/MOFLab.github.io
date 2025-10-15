@@ -14,7 +14,11 @@ sections:
     design:
       columns: '1'
       background:
-        color: "#394B6E"
+        #color: "#394B6E"
+        gradient_start: '#4bb4e3'
+        gradient_end: '#2b94c3'
+        gradient_angle: 180
+        text_color_light: true
         image: 
           filename: welcome.svg
           filters:
