@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="276.59637mm"
-   height="60.763039mm"
-   viewBox="0 0 276.59637 60.763039"
+   width="256.6015mm"
+   height="49.642605mm"
+   viewBox="0 0 256.6015 49.642605"
    version="1.1"
    id="svg3333"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
@@ -20,6 +20,18 @@
    inkscape:export-ydpi="500">
   <defs
      id="defs3327">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1169">
+      <stop
+         style="stop-color:#0040f6;stop-opacity:1;"
+         offset="0"
+         id="stop1165" />
+      <stop
+         style="stop-color:#0040f6;stop-opacity:0;"
+         offset="1"
+         id="stop1167" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient2275">
@@ -247,6 +259,24 @@
          ry="9.315321"
          transform="rotate(9.39349)" />
     </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1169"
+       id="linearGradient1171"
+       x1="-746.84705"
+       y1="991.35126"
+       x2="-700.60895"
+       y2="991.35126"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1169"
+       id="linearGradient1173"
+       x1="-652.823"
+       y1="990.43408"
+       x2="-528.65692"
+       y2="990.43408"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -255,9 +285,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="340.86466"
-     inkscape:cy="255.00911"
+     inkscape:zoom="1.4"
+     inkscape:cx="371.49466"
+     inkscape:cy="97.468469"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -288,10 +318,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(831.82108,-861.5402)">
+     transform="translate(828.96337,-865.16346)">
     <g
        id="g984"
-       transform="rotate(-8.6765694,-725.8106,895.07774)">
+       transform="matrix(0.78910275,-0.12041945,0.12041945,0.78910275,-268.2806,99.363618)"
+       style="opacity:1">
       <ellipse
          style="opacity:0.40404;fill:none;stroke:#00d8f6;stroke-width:7;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path982-1"
@@ -415,27 +446,39 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.7713px;line-height:0.2;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:none;stroke:#00b050;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
-       x="-752.79285"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.7713px;line-height:0.2;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans';opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       x="-749.94373"
        y="1014.0275"
        id="text909"
        transform="scale(1.1143433,0.89738952)"><tspan
          sodipodi:role="line"
          id="tspan907"
-         x="-752.79285"
+         x="-749.94373"
          y="1014.0275"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.7713px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke-width:0">M</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.7713px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1">M</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.7713px;line-height:0.2;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:none;stroke:#00b050;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
-       x="-647.37231"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.7713px;line-height:0.2;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans';opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       x="-655.91968"
        y="1014.0275"
        id="text913"
        transform="scale(1.1143433,0.89738952)"><tspan
          sodipodi:role="line"
          id="tspan911"
-         x="-647.37231"
+         x="-655.91968"
          y="1014.0275"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.7713px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke-width:0">FLab</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.7713px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1">FLab</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.6389px;line-height:0.2;font-family:sans-serif;-inkscape-font-specification:sans-serif;opacity:1;fill:none;stroke:#00b050;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+       x="-752.79285"
+       y="1078.8916"
+       id="text988"
+       transform="scale(1.1143433,0.89738952)"><tspan
+         sodipodi:role="line"
+         id="tspan986"
+         x="-752.79285"
+         y="1078.8916"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.6389px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke-width:0" /></text>
   </g>
 </svg>
