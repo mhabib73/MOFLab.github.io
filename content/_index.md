@@ -14,7 +14,7 @@ sections:
     design:
       columns: '1'
       background:
-        color: "#2F3138"
+        color: "#FFA6AD"
         image: 
           filename: welcome.png
           filters:
@@ -22,7 +22,7 @@ sections:
           parallax: true
           position: center
           size: cover
-          text_color_light: false
+          text_color_light: true
       link:
         text: Join us
         url: ../contact/
@@ -45,7 +45,7 @@ sections:
         <br>
         We explore next-generation optical fiber technologies that transform how light travels. Our research focuses on groundbreaking hollow-core fibers with microscopic air channels that allow light to move faster,
         farther, and with remarkably low loss. By engineering advanced microstructured designs, we aim to achieve ultra-low transmission loss, low latency, broad bandwidth, and exceptionally low light–glass interaction—
-        paving the way for the future of high-speed communication
+        paving the way for the future of high-speed communication.
         <br><br>
         By combining theory, simulation, and experimental fabrication, we aim to understand the underlying physics of light propagation in complex fiber geometries and translate that knowledge into practical designs. Our
         research supports applications in AI data centers, quantum communication, high-speed data transmission, laser systems, fiber sensors, and biomedical imaging.
