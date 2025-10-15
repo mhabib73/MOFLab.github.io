@@ -71,7 +71,7 @@ sections:
     content:
       title: Featured articles
       text: ""
-      count: 10
+      count: 5
       filters:
         folders:
           - publication
