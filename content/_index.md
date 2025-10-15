@@ -8,6 +8,7 @@ sections:
   - block: markdown
     content:
       title: Welcome to Microstructure Optical Fiber Lab
+      align: right
       subtitle: ''
       text: Join us
       url: ../contact/
@@ -17,7 +18,7 @@ sections:
         image: 
           filename: welcome.png
           filters:
-            brightness: 1
+            brightness: .5
           parallax: true
           position: center
           size: cover
