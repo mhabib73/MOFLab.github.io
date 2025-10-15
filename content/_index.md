@@ -14,7 +14,7 @@ sections:
     design:
       columns: '1'
       background:
-        color: "#7D8CBA"
+        color: "#394B6E"
         image: 
           filename: welcome.png
           filters:
