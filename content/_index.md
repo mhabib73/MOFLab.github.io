@@ -11,8 +11,8 @@ sections:
       align: bottom
       subtitle: ''
       link:
-      text: Join us    
-      url:../contact/
+        text: Join us    
+        url:../contact/
 
     design:
       columns: '1'
