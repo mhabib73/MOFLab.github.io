@@ -27,7 +27,7 @@ sections:
           size: cover
           text_color_light: false
       spacing:
-        padding: ['150px', '150px', '150px', '150px']
+        padding: ['0px', '0px', '0px', '0px']
       overlay: true
       css_class: fullscreen
   - block: markdown
