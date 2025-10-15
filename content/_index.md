@@ -24,7 +24,7 @@ sections:
           size: 35%
           text_color_light: true
         spacing:
-        padding: ['0px', 0px', '0px', '0px']
+        padding: ['20px', '0', '20px', '0']
       css_class: halfscreen white-title
 
   - block: markdown
