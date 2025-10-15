@@ -10,7 +10,8 @@ sections:
       title: '<span style="color: white;">Welcome to Microstructure Optical Fiber Lab</span>'
       subtitle: 
       text: |
-        '<span style="color: white;">We are world class fiber optics lab</span>'
+        * '<span style="color: white;">We are world class fiber optics lab</span>'
+        * '<span style="color: white;">Join us</span>'
 
     design:
       columns: '1'
