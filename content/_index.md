@@ -18,10 +18,10 @@ sections:
         image: 
           filename: welcome.png
           filters:
-            brightness: 1
+            brightness: .5
           parallax: true
           position: center
-          size: 60%
+          size: 50%
           text_color_light: false
         spacing:
         padding: ['0', '5vw', '10vh', '5vw']
