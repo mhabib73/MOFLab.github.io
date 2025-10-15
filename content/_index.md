@@ -28,7 +28,7 @@ sections:
             brightness: 1
           #parallax: true
           position: left
-          parallax: true
+          parallax: false
           size: 55%
           text_color_light: false
         spacing:
