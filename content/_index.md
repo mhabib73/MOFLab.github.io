@@ -29,7 +29,6 @@ sections:
         #align: right
       spacing:
         padding: ['0px', '0px', '0px', '0px']
-      overlay: true
       css_class: fullscreen
   - block: markdown
     content:
