@@ -36,7 +36,7 @@ sections:
       css_class: fullscreen
   
   - block: markdown
-    id: section-1
+    id: tour
     content:
       title: Section 1
       subtitle: A subtitle
