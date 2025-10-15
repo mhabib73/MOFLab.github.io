@@ -19,11 +19,11 @@ sections:
             brightness: 1
           parallax: true
           position: center
-          size: cover
+          size: contain
           text_color_light: true
         spacing:
         padding: ['0px', '0px', '0px', '0px']
-      css_class: halfscreen
+      css_class: fullscreen
 
   - block: markdown
     content:
