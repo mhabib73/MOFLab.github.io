@@ -10,9 +10,6 @@ sections:
       title: Welcome to Microstructure Optical Fiber Lab
       subtitle: 
       text: |
-        text: Join us
-        url: ../contact/
-        
 
     design:
       columns: '1'
@@ -24,7 +21,7 @@ sections:
             brightness: 1
           parallax: true
           position: center
-          size: 45%
+          size: 42%
           text_color_light: true
         spacing:
         padding: ['1000px', 1000px', '1000px', '1000px']
