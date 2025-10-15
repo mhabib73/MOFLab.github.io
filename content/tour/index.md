@@ -7,16 +7,58 @@ type: landing
 sections:
   - block: hero
     content:
+      title: '<span style="color: white;">Welcome to Microstructure Optical Fiber Lab</span>'
+       
+      subtitle: 
+      
+      text: |
+
+
+    design:
+      columns: '1'
+      background:
+        color: '#394B6E'
+        #gradient_start: '#4bb4e3'
+        #gradient_end: '#2b94c3'
+        #gradient_angle: 180
+        #text_color_light: true
+        image: 
+          filename: welcome.svg
+          filters:
+            brightness: 1
+          #parallax: true
+          position: left
+          parallax: false
+          size: 25%
+          text_color_light: false
+        spacing:
+        padding: ['100px', '0', '0', '0']
+      css_class: halfscreen
+
+
+  - block: markdown
+    content:
       title: |
-        Microstructure Optical Fiber Lab
-      image:
-        filename: welcome.svg
+        
+      #image:
+        #filename: welcome.png
+        #filters:
+          #brightness: 1
+        #position: center
+        #size: cover
       text: |
         <br>
-        
-        Dr. Habib is the director of Microstructure Optical Fiber Lab (MOFLab), where he leads cutting-edge research and innovation on next-generation optical fibers for photonics based applications.
+        We explore next-generation optical fiber technologies that transform how light travels. Our research focuses on groundbreaking hollow-core fibers with microscopic air channels that allow light to move faster,
+        farther, and with remarkably low loss. By engineering advanced microstructured designs, we aim to achieve ultra-low transmission loss, low latency, broad bandwidth, and exceptionally low light–glass interaction—
+        paving the way for the future of high-speed communication.
         <br><br>
-        Our research focuses on: <br>
+        By combining theory, simulation, and experimental fabrication, we aim to understand the underlying physics of light propagation in complex fiber geometries. Our insights drive the development of practical fiber
+        designs with transformative applications in AI data centers, quantum communication, ultrafast data transmission, advanced laser systems, fiber-optic sensing, and biomedical imaging.
+        <br><br>
+        We welcome collaborations with academic groups, industry partners, and students interested in shaping the next generation of photonic technologies.
+        <br><br>
+        Our research group focuses on: <br>
+    
         * Advanced optical fiber design, fabrication, and characterization
         <br>
         * Energy-efficient and low-cost fiber sensors
