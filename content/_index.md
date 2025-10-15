@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: '<span style="color: white; text-align: right; display: block;">Microstructure Optical Fiber Lab
+      title: '<span style="color: white; text-align: right; display: block;">Microstructure Optical Fiber Lab</span>'
        
       subtitle: 
       
