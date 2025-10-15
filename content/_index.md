@@ -34,13 +34,6 @@ sections:
         spacing:
         padding: ['0', '5vw', '10vh', '5vw']
       css_class: fullscreen
-  
-  - block: markdown
-    id: tour
-    content:
-      title: Section 1
-      subtitle: A subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries -
 
 
   - block: markdown
