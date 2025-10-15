@@ -8,6 +8,7 @@ sections:
   - block: markdown
     content:
       title: Welcome to Microstructure Optical Fiber Lab
+      subtitle: MOFLab
 
     design:
       columns: '1'
