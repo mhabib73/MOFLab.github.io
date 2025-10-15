@@ -9,6 +9,8 @@ sections:
     content:
       title: Welcome to Microstructure Optical Fiber Lab
       subtitle: ''
+      text: |
+        [Contact Us](/contact){: .btn .btn-outline-light}
 
     design:
       columns: '1'
