@@ -18,14 +18,14 @@ sections:
         image: 
           filename: welcome.png
           filters:
-            brightness: .5
+            brightness: 1
           parallax: true
           position: center
-          size: 50%
+          size: 60%
           text_color_light: false
         spacing:
         padding: ['0', '5vw', '10vh', '5vw']
-      css_class: halfscreen
+      css_class: fullscreen
 
 
   - block: markdown
