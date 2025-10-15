@@ -21,10 +21,10 @@ sections:
             brightness: 1
           parallax: true
           position: center
-          size: 20%
-          text_color_light: true
+          size: 40%
+          text_color_light: false
         spacing:
-        padding: ['20px', '0', '-20px', '0']
+        padding: ['10vh', '5vw', '10vh', '5vw']
       css_class: halfscreen white-title
 
   - block: markdown
