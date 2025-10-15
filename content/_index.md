@@ -11,7 +11,7 @@ sections:
       align: bottom
       subtitle: ''
     link:
-      text: Join us
+      
       url:../contact/
 
     design:
