@@ -28,7 +28,7 @@ sections:
           #parallax: true
           position: left
           parallax: true
-          size: 65%
+          size: 55%
           text_color_light: false
         spacing:
         padding: ['0', '5vw', '10vh', '5vw']
