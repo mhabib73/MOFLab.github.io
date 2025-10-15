@@ -10,8 +10,10 @@ sections:
       title: Welcome to Microstructure Optical Fiber Lab
       align: right
       subtitle: ''
-      text: Join us
-      url: ../contact/
+      link:
+        text: Join us
+        url: ../contact/
+        align: right
     design:
       columns: '1'
       background:
