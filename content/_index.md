@@ -11,6 +11,10 @@ sections:
         Microstructure Optical Fiber Lab
       image:
         filename: welcome.png
+        filters:
+          brightness: 1
+        position: center
+        size: cover
       text: |
         <br>
         
