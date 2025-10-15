@@ -8,6 +8,8 @@ sections:
   - block: contact
     content:
       title: Contact
+    design:
+      text_align: left
       text: |-
        We welcome inquiries from students, researchers, and collaborators who find our work interesting. If you’d like to learn more or explore potential opportunities to work together, feel free to contact us.
       email: mhabib@fit.edu
