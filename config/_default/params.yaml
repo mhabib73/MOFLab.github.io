@@ -49,7 +49,7 @@ header:
       # Logo text
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "logo.jpg"
+      filename: "logo.svg"
     # Shop a call-to-action button in the top right?
     button:
       enable: true
