@@ -42,19 +42,14 @@ sections:
         #size: cover
       text: |
         <br>
-        
         The Microstructure Optical Fiber Lab conducts cutting-edge research on advanced fiber technologies that control and guide light in new ways. Our work focuses on microstructured, hollow-core, and anti-resonant
         optical fibers, which enable ultra-low-loss transmission, enhanced nonlinear performance, and precise optical sensing.
-
         <br>
         By combining theory, simulation, and experimental fabrication, we aim to understand the underlying physics of light propagation in complex fiber geometries and translate that knowledge into practical designs. Our
         research supports applications in quantum communication, high-speed data transmission, laser systems, and biomedical imaging.
-
         <br>
         We welcome collaborations with academic groups, industry partners, and students interested in shaping the next generation of photonic technologies.
-    
-        <br><br>
-    
+        <br>
         Our research group focuses on: <br>
     
         * Advanced optical fiber design, fabrication, and characterization
