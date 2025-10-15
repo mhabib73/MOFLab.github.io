@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Welcome to Microstructure Optical Fiber Lab
+      title: '<span style="color: white;">Welcome to Microstructure Optical Fiber Lab</span>'
       subtitle: 
       text: |
 
