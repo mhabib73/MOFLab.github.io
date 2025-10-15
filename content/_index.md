@@ -15,7 +15,7 @@ sections:
         url: ../contact/
         #align: right
     design:
-      columns: '2'
+      columns: '1'
       background:
         color: "#83B5E6"
         image: 
