@@ -24,9 +24,9 @@ sections:
           parallax: true
           position: center
           size: cover
-          text_color_light: true
+          text_color_light: false
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ['20px', '0', '100px', '0']
       css_class: fullscreen
   - block: markdown
     content:
