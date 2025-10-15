@@ -21,9 +21,7 @@ sections:
           position: center
           size: cover
           text_color_light: true
-      spacing:
-        padding: ['0px', '0px', '0px', '0px']
-      css_class: fullscreen
+
   - block: markdown
     content:
       title: |
