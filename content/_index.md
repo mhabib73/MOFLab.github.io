@@ -12,7 +12,7 @@ sections:
     design:
       columns: '1'
       background:
-        color: "#FCEBEB"
+        color: "#6D7794"
         image: 
           filename: welcome.png
           filters:
