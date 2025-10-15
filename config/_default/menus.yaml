@@ -22,7 +22,7 @@ main:
   - name: Contact
     url: contact
     weight: 60
-  - name: Section 1
-    url: "/#section-1"
-    weight: 1
+  - name: Home
+    url: "/#tour"
+    weight: 70
     
