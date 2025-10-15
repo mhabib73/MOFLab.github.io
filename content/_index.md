@@ -21,7 +21,7 @@ sections:
             brightness: 1
           parallax: true
           position: center
-          size: 50%
+          size: 70%
           text_color_light: false
         spacing:
         padding: ['0', '5vw', '10vh', '5vw']
