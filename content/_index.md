@@ -8,12 +8,12 @@ sections:
   - block: markdown
     content:
       title: Welcome to Microstructure Optical Fiber Lab
-      align: right
+      align: top
       subtitle: ''
       link:
         text: Join us
         url: ../contact/
-        align: right
+        #align: right
     design:
       columns: '2'
       background:
@@ -31,6 +31,7 @@ sections:
       alignment:
         horizontal: center
         vertical: center
+      overlay: true
       css_class: fullscreen
   - block: markdown
     content:
