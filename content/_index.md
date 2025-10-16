@@ -10,7 +10,7 @@ sections:
       title: '<span style="color: white; text-align: right;">Microstructure Optical Fiber Lab</span>'
        
       subtitle: |
-        <span style="color: white; text-align: right;">Microstructure Optical Fiber Lab</span>
+        
       
       text: |
 
