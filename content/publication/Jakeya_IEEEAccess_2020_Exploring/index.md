@@ -1,19 +1,20 @@
 ---
 title: "Exploring low loss and single mode in antiresonant tube lattice terahertz fibers"
 authors:
-- M. Al Mahfuz
-- S. Afroz
-- A. Rahman
-- M. Azad Hossain
-- M. Anwar Hossain
+- J. Sultana
+- M. Saiful Islam
+- C. Cordeiro
 - Admin
+- A. Dinovitser
+- B. W-H Ng
+- D. Abbott
 
 #- Robert Ford
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2024-04-30T00:00:00Z"
-doi: 10.1109/ACCESS.2024.3395390
+date: "2020-06-17T00:00:00Z"
+doi: 10.1109/ACCESS.2020.3003035
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-10-01T00:00:00Z"
@@ -25,16 +26,16 @@ publishDate: "2023-10-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Access **12**, 64727 (2025)"
+publication: "IEEE Access **8**, 113309 (2020)"
 publication_short: ""
 
-abstract: In this paper, a relatively simple and ultra-sensitive Photonic crystal fiber (PCF) based surface plasmon resonance (SPR) sensor is proposed for detecting different analyte refractive indices (RIs) ranging from 1.33 to 1.43 over a wide range of wavelength spectrum spanning 0.55 μ m to 3.50 μ m. The comprehensive finite-element simulations indicate that it is possible to achieve remarkable sensing performances such as wavelength sensitivity (WS) and figure of merit (FOM) as high as 123,000 nm/RIU and 683 RIU1, respectively, and extremely low value of wavelength resolution (WR) about 8.13×10−7 RIU. A novel artificial neural network (ANN) model is proposed which helps to accurately predict the RIs by carefully examining the simulation data. The mean square error (MSE) and prediction accuracy ( R2 ) values for the ANN model are found about 0.0097 and 0.9987, respectively, indicating the high prediction capability of the proposed ANN model. Due to its exceptional sensitivity and precise detection capabilities, the proposed sensor has the potential to serve as a viable option for sensing analyte RI. Additionally, the sensor could be utilized for identifying cancerous cells and detecting urinary tract infections in humans.
+abstract: We propose and numerically analyze various hollow-core antiresonant fiber (HC-ARF) for operation at terahertz frequencies. We compare typical HC-ARF designs with nested and adjacent nested designs while analyzing performance in terms of loss and single-mode guidance of terahertz waves. With optimized fiber dimensions, the fundamental core mode, cladding mode, core higher-order modes (HOMs), and the angle dependence of adjacent tubes are analyzed to find the best design for low loss terahertz transmission. Analysis of the fiber designs shows that the nested tube-based antiresonant fiber exhibits lower transmission loss and superior HOM suppression, exceeding 140. The nested HC-ARF is feasible for fabrication using existing fabrication technologies and opening up the possibility of efficient transmission of terahertz waves.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- fiber sensors
+- THz fiber
 
 featured: false
 
@@ -60,7 +61,7 @@ links:
  # url: https://youtube.com
 #- type: link
  - name: link
-   url: https://ieeexplore.ieee.org/abstract/document/10510458
+   url: https://ieeexplore.ieee.org/abstract/document/9119410
   #url_source: https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-10-1253
 
 # Featured image
