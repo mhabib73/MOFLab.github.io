@@ -18,7 +18,7 @@ publishDate: "2023-10-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["featured-article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE Photonics Journal **16**, 1 (2024)"
@@ -32,7 +32,7 @@ abstract: In this paper, to the best of our knowledge, a new type of hollow-core
 tags:
 - Hollow-core fibers; single-mode fibers; low-loss fibers
 
-featured: true
+featured: false
 
 #hugoblox:
  # ids:
