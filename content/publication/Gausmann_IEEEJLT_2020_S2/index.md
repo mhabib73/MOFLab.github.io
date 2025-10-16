@@ -1,25 +1,23 @@
 ---
 title: "S2 measurements showing suppression of higher order modes in confined rare earth doped large core fibers"
 authors:
+
 - S. Gausmann
 - J. E. Lopez
-- J. Anderson
+- J. Andreson
 - S. Wittek
-- S. Eznaveh Eznaveh
+- S. Eznaveh
 - H. Jang
 - Admin
 - J. Cook
 - M. C. Richardson
-- R. Amezcua-Correa
+- R. Amuezcua-Correa
 - A. Schülzgen
 
 
 #- Robert Ford
-#author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
-#- "Equal contribution"
-date: "2020-01-2020T00:00:00Z"
+
+date: "2020-01-23T00:00:00Z"
 doi: 10.1109/JLT.2020.2969012
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-10-01T00:00:00Z"
@@ -31,7 +29,7 @@ publishDate: "2023-10-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Journal of Lightwave Technology **38**, 1953 (2020)"
+publication: "IEEE Journal of Lightwave Technology **38**, 1953 (20220)"
 publication_short: ""
 
 abstract: 
