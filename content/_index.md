@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: abcd
+title: MOFLab
 date: 2025-10-12
 type: landing
 
