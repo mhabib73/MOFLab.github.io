@@ -9,11 +9,11 @@ authors:
 
 
 #- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-date: "2019-04-01T00:00:00Z"
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
+#- "Equal contribution"
+date: "2023-02-13T00:00:00Z"
 doi: 10.1109/JLT.2023.3244493
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-10-01T00:00:00Z"
@@ -22,7 +22,7 @@ publishDate: "2023-10-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["featured-article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE Journal of Lightwave Technology **41**, 4815 (2023)"
@@ -36,7 +36,7 @@ abstract: Recent years have witnessed much progress in the development of fiber 
 tags:
 - Hollow-core fibers; supercontinuum-generation; soliton; nonlinear optics
 
-featured: true
+featured: false
 
 #hugoblox:
  # ids:
