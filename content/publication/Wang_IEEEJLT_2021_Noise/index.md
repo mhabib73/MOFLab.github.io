@@ -61,7 +61,7 @@ links:
  # url: https://youtube.com
 #- type: link
  - name: link
-   url: [https://opg.optica.org/oe/fulltext.cfm?uri=oe-29-8-12516](https://ieeexplore.ieee.org/abstract/document/9382084)
+   url: https://ieeexplore.ieee.org/abstract/document/9382084
   #url_source: https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-10-1253
 
 # Featured image
