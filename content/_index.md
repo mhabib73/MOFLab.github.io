@@ -13,7 +13,9 @@ sections:
         
       
       text: |
-        '<div style="text-align: right; color: white;">Microstructure Optical Fiber Lab</div>'
+        * '<div style="text-align: right; color: white;">We are a world class optical fiber lab</div>'
+        <br>
+        * '<div style="text-align: right; color: white;">Join us</div>'
 
 
 
