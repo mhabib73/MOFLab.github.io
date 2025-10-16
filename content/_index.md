@@ -13,11 +13,6 @@ sections:
         
       
       text: |
-        * '<div style="text-align: right; color: white;">We are a world class optical fiber lab</div>'
-        <br>
-        * '<div style="text-align: right; color: white;">Join us</div>'
-
-
 
     design:
       columns: '1'
