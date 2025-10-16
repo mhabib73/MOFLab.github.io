@@ -8,7 +8,8 @@ sections:
   - block: hero
     content:
       title: '<div style="text-align: right; color: white;">Microstructure Optical Fiber Lab</div>'
-       
+      <br>
+      '<div style="text-align: right; color: white;">Microstructure Optical Fiber Lab</div>'
       subtitle: |
         
       
