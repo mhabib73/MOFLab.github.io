@@ -28,7 +28,7 @@ sections:
           filename: welcome.svg
           filters:
             brightness: 1
-          #parallax: true
+          parallax: true
           position: left
           parallax: false
           size: 25%
