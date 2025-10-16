@@ -28,7 +28,7 @@ publishDate: "2023-10-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE transactions on terahertz science and technology **11**, 245 (2020)"
+publication: "IEEE Transactions on Terahertz Science and Technology **11**, 245 (2020)"
 publication_short: ""
 
 abstract: In nonlinear optics, a major challenge is to maximize the interaction between the light from laser sources and low-density media such as gases. An ultrafast laser beam can be focused to form a highly intense spot over a small concentrated area. The ultrafast laser beam has a short pulse width of less than one picosecond and high peak power in the beam profile (Fig. 1). The beam profile of the laser source describes the energy density and distribution of light, and the beam profile of a laser source is usually affected during the propagation and collimation of the beam. An efficient nonlinear optical sensor also requires high peak power at low energy (low average power) over short duration of laser pulse, a high beam profile and long interaction length. These requirements of a nonlinear optical sensor with low attenuation constant can be achieved in hollow-core photonic crystal fiber (HC-PCF). Gas-filled HC-PCF exhibits optical nonlinearity for an ultrashort temporal and spectral broadening of NIR pulses [1], [2]. The nonlinearity in HC-PCF can be achieved by tuning the gas pressure. Gas-filled HC-PCF nonlinear media are low-cost, replenishable, reconfigurable and exhibit sharp spectral lines [3]. Linear and nonlinear responses are also found in other types of optical fibers.
