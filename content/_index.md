@@ -31,7 +31,7 @@ sections:
           parallax: true
           position: left
           parallax: false
-          size: 25%
+          size: 70%
           text_color_light: false
         spacing:
         padding: ['10px', '0', '0', '0']
