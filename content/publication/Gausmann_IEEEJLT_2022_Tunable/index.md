@@ -14,10 +14,7 @@ authors:
 
 
 #- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
+
 date: "2022-12-23T00:00:00Z"
 doi: 10.1109/JLT.2022.3229000
 # Schedule page publish date (NOT publication's date).
