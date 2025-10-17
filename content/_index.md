@@ -23,8 +23,8 @@ sections:
       css_class: screen-75
 
 
-sections:
-  - type: markdown
+
+  - block: markdown
     content: |
       <img src="/media/welcome.gif" alt="My Animation" width="400px"/>
     
