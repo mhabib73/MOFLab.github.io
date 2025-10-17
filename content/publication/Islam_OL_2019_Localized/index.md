@@ -1,5 +1,5 @@
 ---
-title: "Localized surface plasmon resonance biosensor: an improved technique for SERS response intensification"
+title: "Localized surface plasmon resonance biosensor an improved technique for SERS response intensification"
 authors:
 - M. Saiful Islam
 - J. Sultana
