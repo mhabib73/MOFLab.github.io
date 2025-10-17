@@ -27,3 +27,30 @@ body.page .hero-block .hero-bg {
   max-height: 100% !important;
   width: auto !important;
 }
+
+/* ===== Hero height control ===== */
+
+/* Default hero (theme sets 100vh) */
+.hero-block {
+  min-height: 100vh;
+}
+
+/* Halfscreen version */
+.hero-block.halfscreen {
+  min-height: 50vh !important;  /* half the viewport height */
+  height: 50vh !important;
+  overflow: hidden !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Fullscreen version (if you want to force it back) */
+.hero-block.fullscreen {
+  min-height: 100vh !important;
+  height: 100vh !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
