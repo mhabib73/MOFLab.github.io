@@ -40,14 +40,14 @@ sections:
     content:
       title:  "Microstructure Optical Fiber Lab"
         
-      #image:
-        #filename: welcome.svg
-        #filters:
-          #brightness: 1
-        #position: center
-        #size: cover
+      image:
+        filename: welcome.svg
+        filters:
+          brightness: 1
+        position: center
+        size: cover
       text: |
-        <img src="/media/welcome.png" style="width:100%; height:50vh; object-fit:cover;">
+        #<img src="/media/welcome.png" style="width:100%; height:50vh; object-fit:cover;">
         <br>
         We investigate next-generation optical fiber technologies that redefine how light travels. Our work centers on innovative hollow-core fibers—engineered with microscopic air channels that let light propagate faster,
         over longer distances, and with exceptionally low loss. Through advanced microstructured designs, we aim to achieve ultra-low transmission loss, minimal latency, and broad bandwidth, opening new possibilities for
