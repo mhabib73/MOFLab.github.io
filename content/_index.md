@@ -17,7 +17,7 @@ sections:
             brightness: 1
           position: left
           parallax: true
-          size: contain
+          size: 30%
         padding: ["20px", "0", "20px", "0"]
       css_class: halfscreen
 
