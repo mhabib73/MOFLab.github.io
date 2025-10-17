@@ -1,6 +1,5 @@
 ---
-# Leave the homepage title empty to use the site title
-title: 'MOFLab'
+title:
 date: 2025-10-12
 type: landing
 
@@ -8,34 +7,19 @@ sections:
   - block: hero
     content:
       title: '<div style="text-align: right; color: white;">Microstructure Optical Fiber Lab</div>'
-            
-      subtitle: |
-        
-      
-      text: |
-
-
     design:
-      columns: '1'
-      height: "200vh"
+      columns: "1"
       background:
-        color: '#394B6E'
-        #gradient_start: '#4bb4e3'
-        #gradient_end: '#2b94c3'
-        #gradient_angle: 180
-        #text_color_light: true
-        image: 
+        color: "#394B6E"
+        image:
           filename: welcome.svg
           filters:
             brightness: 1
-          parallax: true
           position: left
           parallax: false
-          size: 70%
-          text_color_light: false
-        spacing:
-        padding: ['10px', '0', '0', '0']
-      css_class: fullscreen
+          size: contain
+        padding: ["20px", "0", "20px", "0"]
+      css_class: halfscreen
 
   - block: markdown
     content:
