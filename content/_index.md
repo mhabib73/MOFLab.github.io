@@ -4,8 +4,8 @@ date: 2025-10-12
 type: landing
 
 sections:
-  - block: type
-    css_class: screen-75
+  - block: hero
+    
     content:
       title: '<div style="text-align: right; color: white;">Microstructure Optical Fiber Lab</div>'
     design:
@@ -20,8 +20,7 @@ sections:
           parallax: false
           size: contain
         padding: ["40px", "0", "40px", "0"]
-      css_class: threequarter
-
+      css_class: screen-75
   - block: markdown
     content:
       title: |
