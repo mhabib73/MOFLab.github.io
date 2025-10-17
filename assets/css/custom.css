@@ -14,6 +14,16 @@
   background-position: center center;
 }
 
+/* 75% height hero section */
+.hero-block.threequarter {
+  min-height: 75vh !important;
+  height: 75vh !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  overflow: hidden !important;
+}
+
 /* Half-screen and full-screen height modes */
 .hero-block.halfscreen {
   min-height: 70vh !important;
