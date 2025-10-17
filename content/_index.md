@@ -41,7 +41,7 @@ sections:
       title: |
         
       image:
-        filename: fiber.gif
+        filename: welcome.gif
         #filters:
           #brightness: 1
         #position: center
