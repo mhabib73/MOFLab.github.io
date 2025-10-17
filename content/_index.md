@@ -21,6 +21,13 @@ sections:
           size: contain
         padding: ["40px", "0", "40px", "0"]
       css_class: screen-75
+
+
+sections:
+  - type: markdown
+    content: |
+      <img src="/media/welcome.gif" alt="My Animation" width="400px"/>
+    
   - block: markdown
     content:
       title: |
