@@ -7,7 +7,7 @@ sections:
   - block: hero
     
     content:
-      title: '<div style="text-align: right; color: white;">Microstructure Optical Fiber Lab</div>'
+      title: '<div style="text-align: right; color: cyan;">Microstructure Optical Fiber Lab</div>'
     design:
       columns: "1"
       background:
