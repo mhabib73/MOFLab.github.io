@@ -26,8 +26,9 @@ sections:
 
   - block: markdown
     content: |
-      <img src="/media/welcome.gif" alt="My Animation" width="400px"/>
-    
+      image:
+        filename: <img src="/media/welcome.gif" alt="My Animation" width="400px"/>
+      
   - block: markdown
     content:
       title: |
