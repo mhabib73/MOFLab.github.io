@@ -41,7 +41,7 @@ sections:
       title: |
         
       #image:
-        #filename: welcome.gif
+        #filename: welcome.svg
         #filters:
           #brightness: 1
         #position: center
