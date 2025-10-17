@@ -23,7 +23,7 @@ sections:
         #gradient_angle: 180
         #text_color_light: true
         image: 
-          filename: welcome.svg
+          filename: welcome.gif
           filters:
             brightness: 1
           parallax: true
@@ -40,8 +40,8 @@ sections:
     content:
       title: |
         
-      image:
-        filename: welcome.gif
+      #image:
+        #filename: welcome.gif
         #filters:
           #brightness: 1
         #position: center
