@@ -21,13 +21,6 @@ sections:
           size: contain
         padding: ["40px", "0", "40px", "0"]
       css_class: screen-75
-
-
-
-  - block: markdown
-    content: |
-      image:
-        filename: welcome.svg
       
   - block: markdown
     content:
