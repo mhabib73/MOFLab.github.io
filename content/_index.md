@@ -17,7 +17,7 @@ sections:
 
     design:
       columns: '1'
-      height: "50vh"
+      height: "10vh"
       background:
         color: '#394B6E'
         #gradient_start: '#4bb4e3'
