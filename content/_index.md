@@ -5,7 +5,7 @@ date: 2025-10-12
 type: landing
 
 sections:
-  - block: markdown
+  - block: hero
     content:
       title: '<div style="text-align: right; color: white;">Microstructure Optical Fiber Lab</div>'
             
