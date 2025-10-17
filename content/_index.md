@@ -17,7 +17,7 @@ sections:
 
     design:
       columns: '1'
-      height: "10vh"
+      height: "200vh"
       background:
         color: '#394B6E'
         #gradient_start: '#4bb4e3'
@@ -35,7 +35,7 @@ sections:
           text_color_light: false
         spacing:
         padding: ['1000px', '0', '0', '0']
-      css_class: halfscreen
+      css_class: fullscreen
 
   - block: markdown
     content:
