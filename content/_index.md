@@ -4,7 +4,7 @@ date: 2025-10-12
 type: landing
 
 sections:
-  - block: hero
+  - block: type
     css_class: screen-75
     content:
       title: '<div style="text-align: right; color: white;">Microstructure Optical Fiber Lab</div>'
