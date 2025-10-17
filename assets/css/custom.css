@@ -1,66 +1,65 @@
-/* FORCE hero section height override */
-body.home .hero-block,
-body.page .hero-block,
-div.hero-block,
-section.hero-block {
-  min-height: 50vh !important;  /* Change to your desired height */
-  height: 50vh !important;
-  max-height: 50vh !important;
-  overflow: hidden !important;
-  padding-top: 2rem !important;
-  padding-bottom: 2rem !important;
-  display: flex !important;
-  align-items: center !important;
-  justify-content: center !important;
-}
+/* ================================
+   Hero Section Responsive Control
+   ================================ */
 
-/* Force background container adjustment */
-body.home .hero-block .hero-bg,
-body.page .hero-block .hero-bg {
-  height: 100% !important;
-  min-height: inherit !important;
-}
-
-/* Optional: make image scale properly */
-.hero-block img {
-  object-fit: contain !important;
-  max-height: 100% !important;
-  width: auto !important;
-}
-
-/* ===== Hero height control ===== */
-
-/* Default hero (theme sets 100vh) */
+/* General hero layout */
 .hero-block {
-  min-height: 100vh;
-}
-
-/* Halfscreen version */
-.hero-block.halfscreen {
-  min-height: 50vh !important;  /* half the viewport height */
-  height: 50vh !important;
-  overflow: hidden !important;
   display: flex;
   align-items: center;
   justify-content: center;
+  text-align: center;
+  overflow: hidden;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
 }
 
-/* Fullscreen version (if you want to force it back) */
+/* Half-screen and full-screen height modes */
+.hero-block.halfscreen {
+  min-height: 50vh !important;
+  height: 50vh !important;
+}
+
 .hero-block.fullscreen {
   min-height: 100vh !important;
   height: 100vh !important;
+}
+
+/* Responsive image inside hero */
+.hero-block img,
+.hero-block picture img {
+  width: auto;
+  max-width: 80%;
+  max-height: 80%;
+  height: auto;
+  margin: 0 auto;
+  object-fit: contain;
+  display: block;
+}
+
+/* Center text block */
+.hero-block .hero-content {
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
+  width: 100%;
+  text-align: center;
+  color: white;
+  padding: 1rem;
 }
 
-.hero-block.threequarter {
-  min-height: 75vh !important;
-  height: 75vh !important;
-}
-.hero-block.onequarter {
-  min-height: 25vh !important;
-  height: 25vh !important;
+/* Responsive text scaling */
+.hero-block h1, .hero-block h2, .hero-block div {
+  font-size: clamp(1.5rem, 3vw, 3rem);  /* scales with screen size */
+  line-height: 1.2;
 }
 
-
+/* Optional: subtle fade-in effect */
+.hero-block {
+  animation: fadeIn 1s ease-in;
+}
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
