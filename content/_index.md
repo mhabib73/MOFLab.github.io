@@ -19,7 +19,7 @@ sections:
           parallax: false
           size: contain
         padding: ["20px", "0", "20px", "0"]
-      css_class: halfscreen
+      css_class: threequarter
 
   - block: markdown
     content:
