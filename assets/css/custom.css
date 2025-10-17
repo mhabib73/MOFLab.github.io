@@ -1,1 +1,19 @@
+/* === Fix hero section height override === */
+.hero-block {
+  min-height: 60vh !important;  /* or 50vh, 40vh, 200vh, etc. */
+  height: 60vh !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+/* Optional: control how image behaves */
+.hero-block img {
+  object-fit: contain;
+  max-height: 100%;
+  width: auto;
+}
 
