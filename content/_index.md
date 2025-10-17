@@ -14,6 +14,7 @@ sections:
       
       text: |
 
+
     design:
       columns: '1'
       background:
@@ -34,6 +35,13 @@ sections:
         spacing:
         padding: ['10px', '0', '0', '0']
       css_class: fullscreen
+
+- block: markdown
+  content:
+    title: "Microstructure Optical Fiber Lab"
+    text: |
+      <img src="/media/welcome.svg" style="width:100%; height:50vh; object-fit:cover;">
+
 
 
   - block: markdown
