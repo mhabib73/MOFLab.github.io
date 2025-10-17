@@ -1,39 +1,26 @@
 ---
-# Leave the homepage title empty to use the site title
 title:
 date: 2025-10-12
 type: landing
 
 sections:
   - block: hero
+    
     content:
-      title: '<div style="text-align: right; color: white;">Microstructure Optical Fiber Lab</div>'
-       
-      subtitle: 
-      
-      text: |
-
-
+      title: '<div style="text-align: right; color: cyan;">Microstructure Optical Fiber Lab</div>'
     design:
-      columns: '1'
+      columns: "1"
       background:
-        color: '#394B6E'
-        #gradient_start: '#4bb4e3'
-        #gradient_end: '#2b94c3'
-        #gradient_angle: 180
-        #text_color_light: true
-        image: 
+        color: "#394B6E"
+        image:
           filename: welcome.svg
           filters:
             brightness: 1
-          #parallax: true
           position: left
           parallax: false
-          size: 25%
-          text_color_light: false
-        spacing:
-        padding: ['100px', '0', '0', '0']
-      css_class: halfscreen
+          size: contain
+        padding: ["40px", "0", "40px", "0"]
+      css_class: screen-75
 
 
   - block: markdown
