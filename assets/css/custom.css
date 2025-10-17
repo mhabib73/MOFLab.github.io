@@ -16,8 +16,8 @@
 
 /* Half-screen and full-screen height modes */
 .hero-block.halfscreen {
-  min-height: 50vh !important;
-  height: 50vh !important;
+  min-height: 70vh !important;
+  height: 70vh !important;
 }
 
 .hero-block.fullscreen {
