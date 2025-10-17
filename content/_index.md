@@ -16,10 +16,10 @@ sections:
           filters:
             brightness: 1
           position: left
-          parallax: true
+          parallax: false
           size: contain
-        padding: ["20px", "0", "20px", "0"]
-      css_class: halfscreen
+        padding: ["40px", "0", "40px", "0"]
+      css_class: threequarter
 
   - block: markdown
     content:
