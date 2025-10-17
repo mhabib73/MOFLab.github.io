@@ -15,7 +15,7 @@ sections:
           filename: welcome.svg
           filters:
             brightness: 1
-          position: left
+          position: center
           parallax: false
           size: contain
         padding: ["40px", "0", "40px", "0"]
