@@ -17,6 +17,7 @@ sections:
 
     design:
       columns: '1'
+      height: "50vh"
       background:
         color: '#394B6E'
         #gradient_start: '#4bb4e3'
@@ -38,14 +39,14 @@ sections:
 
   - block: markdown
     content:
-      title:  "Microstructure Optical Fiber Lab"
+      title: |
         
-      image:
-        filename: welcome.svg
-        filters:
-          brightness: 1
-        position: center
-        size: cover
+      #image:
+        #filename: welcome.svg
+        #filters:
+          #brightness: 1
+        #position: center
+        #size: cover
       text: |
         <br>
         We investigate next-generation optical fiber technologies that redefine how light travels. Our work centers on innovative hollow-core fibers—engineered with microscopic air channels that let light propagate faster,
