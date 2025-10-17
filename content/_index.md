@@ -40,8 +40,8 @@ sections:
     content:
       title: |
         
-      #image:
-        #filename: welcome.png
+      image:
+        filename: fiber.gif
         #filters:
           #brightness: 1
         #position: center
