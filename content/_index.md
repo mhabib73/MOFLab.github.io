@@ -5,6 +5,7 @@ type: landing
 
 sections:
   - block: hero
+    css_class: screen-75
     content:
       title: '<div style="text-align: right; color: white;">Microstructure Optical Fiber Lab</div>'
     design:
