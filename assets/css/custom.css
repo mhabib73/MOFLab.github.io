@@ -54,3 +54,13 @@ body.page .hero-block .hero-bg {
   justify-content: center;
 }
 
+.hero-block.threequarter {
+  min-height: 75vh !important;
+  height: 75vh !important;
+}
+.hero-block.onequarter {
+  min-height: 25vh !important;
+  height: 25vh !important;
+}
+
+
