@@ -3,12 +3,14 @@ title:
 date: 2025-10-12
 type: landing
 
-banner:
-  image: 'welcome.svg'
-  #caption: 'Image credit: [**Geo**](https://github.com/gcushen/)'
+
 
 sections:
   - block: hero
+
+    banner:
+    image: 'welcome.svg'
+  #caption: 'Image credit: [**Geo**](https://github.com/gcushen/)'
 
     
     content:
