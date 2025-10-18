@@ -18,7 +18,7 @@ sections:
             brightness: 1
           position: left
           parallax: false
-          size: contain
+          size: 90%
         padding: ["4000px", "0", "40px", "0"]
       css_class: fullscreen
       
