@@ -5,6 +5,14 @@ type: landing
 
 sections:
   - block: hero
+
+  - block: markdown
+    content:
+      #title: Animated Content
+      image:
+        filename: welcome.gif
+        alt: Welcome animation
+        size: large
     
     content:
       title: '<div style="text-align: right; color: cyan;">Microstructure Optical Fiber Lab</div>'
@@ -24,13 +32,7 @@ sections:
         padding: ["40px", "0", "40px", "0"]
       css_class: threequarter
 
-  - block: markdown
-    content:
-      #title: Animated Content
-      image:
-        filename: welcome.gif
-        alt: Welcome animation
-        size: large 
+ 
       
   - block: markdown
     content:
