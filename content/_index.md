@@ -3,16 +3,14 @@ title:
 date: 2025-10-12
 type: landing
 
+banner:
+  image: "welcome.gif"
+  alt: "Welcome animation"
+
 
 
 sections:
-  - block: hero
-
-    banner:
-    image: 'welcome.svg'
-  #caption: 'Image credit: [**Geo**](https://github.com/gcushen/)'
-
-    
+  - block: hero  
     content:
       title: '<div style="text-align: right; color: cyan;">:heart: Microstructure Optical Fiber Lab :heart:</div>'
     design:
