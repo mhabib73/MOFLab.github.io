@@ -16,10 +16,10 @@ sections:
           filters:
             brightness: 1
           position: left
-          parallax: false
+          parallax: true
           size: contain
         padding: ["40px", "0", "40px", "0"]
-      css_class: threequarter
+      css_class: fullscreen
 
  
       
