@@ -19,7 +19,7 @@ sections:
           position: left
           parallax: false
           size: cover
-        padding: ["40px", "0", "40px", "0"]
+        padding: ["4000px", "0", "40px", "0"]
       css_class: fullscreen
       
   - block: markdown
