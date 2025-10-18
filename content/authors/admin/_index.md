@@ -70,7 +70,7 @@ social:
     link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'mhabib@fit.edu'
+email: mhabib@fit.edu
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
