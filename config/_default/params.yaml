@@ -10,7 +10,7 @@ custom_css:
 
 appearance:
   #theme_day: minimal
-  theme_day: ocean
+  theme_day: nautical
   theme_night: aurora
   font: Sans-serif
   font_size: L
