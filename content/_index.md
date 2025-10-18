@@ -10,12 +10,12 @@ sections:
     content:
       #title: Animated Content
       image:
-        filename: welcome.gif
+        filename: ![screen reader text](welcome.jpg "caption")
         alt: Welcome animation
         size: large
     
     content:
-      title: '<div style="text-align: right; color: cyan;">Microstructure Optical Fiber Lab</div>'
+      title: '<div style="text-align: right; color: cyan;">:heart: Microstructure Optical Fiber Lab :heart:</div>'
     design:
       height: "75vh"
       css_class: threequarter
