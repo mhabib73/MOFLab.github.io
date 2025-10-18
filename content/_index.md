@@ -6,7 +6,7 @@ type: landing
 sections:
   - block: hero  
     content:
-      title: '<div style="text-align: right; color: cyan;">:heart: Microstructure Optical Fiber Lab :heart:</div>'
+      title: '<div style="text-align: right; color: cyan;">Microstructure Optical Fiber Lab</div>'
     design:
       height: "75vh"
       css_class: threequarter
