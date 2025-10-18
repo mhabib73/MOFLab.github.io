@@ -22,8 +22,8 @@ main:
   - name: Contact
     url: contact
     weight: 60
-  - name: CV
-    url: "uploads/cv.pdf"
-    weight: 70
+  #- name: CV
+    #url: "uploads/cv.pdf"
+    #weight: 70
 
     
