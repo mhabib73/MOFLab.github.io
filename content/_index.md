@@ -9,6 +9,7 @@ sections:
     content:
       title: '<div style="text-align: right; color: cyan;">Microstructure Optical Fiber Lab</div>'
     design:
+      height: "75vh"
       columns: "1"
       background:
         color: "#394B6E"
