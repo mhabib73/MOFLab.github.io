@@ -23,6 +23,15 @@ sections:
           size: contain
         padding: ["40px", "0", "40px", "0"]
       css_class: threequarter
+
+- block: image
+  content:
+    title: Animated Content
+    image:
+      filename: welcome.gif
+      alt: Animation description
+      size: large  # or specific width like 800px
+    text: Optional caption text below the GIF
       
   - block: markdown
     content:
