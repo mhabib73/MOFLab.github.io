@@ -25,14 +25,7 @@ bio: Hollow-core fibers; Fiber sensors; Ultrafast nonlinear optics
 interests:
   - Computional Electromagnetics
   - Advanced Optical Fibers Design, Fabrication, and Characterization
-  - Ultrafast Nonlinear Optics
-
-links:
-  - icon_pack: fab
-    icon: twitter
-    name: Follow
-    url: 'https://twitter.com/Twitter'
-    
+  - Ultrafast Nonlinear Optics    
 
 education:
   courses:
