@@ -28,10 +28,9 @@ sections:
     content:
       #title: Animated Content
       image:
-     
-      filename: welcome.gif
-      alt: Welcome animation
-      size: large 
+        filename: welcome.gif
+        alt: Welcome animation
+        size: large 
       
   - block: markdown
     content:
