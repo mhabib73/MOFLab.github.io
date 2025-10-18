@@ -14,10 +14,6 @@
   background-position: center center;
 }
 
-.screen-75 {
-    height: 75vh; /* 75% of viewport height */
-}
-
 
 /* 75% height hero section */
 .hero-block.threequarter {
@@ -28,6 +24,12 @@
   justify-content: center !important;
   overflow: hidden !important;
 }
+
+/* Custom size for sections */
+.threequarter {
+  height: 75vh; /* 75% of the viewport height */
+}
+
 
 /* Half-screen and full-screen height modes */
 .hero-block.halfscreen {
