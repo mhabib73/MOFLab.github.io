@@ -25,7 +25,8 @@ bio: Hollow-core fibers; Fiber sensors; Ultrafast nonlinear optics
 interests:
   - Computional Electromagnetics
   - Advanced Optical Fibers Design, Fabrication, and Characterization
-  - Ultrafast Nonlinear Optics    
+  - Ultrafast Nonlinear Optics
+  - Fiber Sensors    
 
 education:
   courses:
