@@ -20,7 +20,7 @@ sections:
             brightness: 1
           position: left
           parallax: false
-          size: 90%
+          size: contain
         padding: ["40px", "0", "40px", "0"]
       css_class: threequarter
       
