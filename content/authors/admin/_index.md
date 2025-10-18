@@ -32,7 +32,7 @@ links:
     icon: twitter
     name: Follow
     url: 'https://twitter.com/Twitter'
-    {{% staticref "uploads/cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+    
 
 education:
   courses:
