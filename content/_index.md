@@ -10,6 +10,7 @@ sections:
       title: '<div style="text-align: right; color: cyan;">Microstructure Optical Fiber Lab</div>'
     design:
       height: "75vh"
+      css_class: threequarter
       columns: "1"
       background:
         color: "#394B6E"
@@ -20,8 +21,8 @@ sections:
           position: left
           parallax: false
           size: 90%
-        padding: ["4000px", "0", "40px", "0"]
-      css_class: fullscreen
+        padding: ["40px", "0", "40px", "0"]
+      css_class: threequarter
       
   - block: markdown
     content:
