@@ -11,6 +11,8 @@ superuser: true
 
 # Role/position
 role: Assistant Professor of Electrical Engineering
+{{% staticref "uploads/cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+
 
 # Organizations/Affiliations
 organizations:
