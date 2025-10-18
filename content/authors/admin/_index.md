@@ -17,7 +17,7 @@ role: Assistant Professor of Electrical Engineering
 # Organizations/Affiliations
 organizations:
   - name: Florida Institute of Technology
-    url: ''
+    url: https://www.fit.edu/faculty-profiles/h/habib-md/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Hollow-core fibers; Fiber sensors; Ultrafast nonlinear optics
