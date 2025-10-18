@@ -26,12 +26,7 @@ sections:
 
   - block: markdown
     content:
-      title: Animated Content
-      image:
-        filename: welcome.gif
-        #alt: Animation description
-        size: large  # or specific width like 800px
-      #text: Optional caption text below the GIF
+      ![](welcome.gif) 
       
   - block: markdown
     content:
