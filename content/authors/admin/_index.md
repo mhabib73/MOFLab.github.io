@@ -27,6 +27,13 @@ interests:
   - Advanced Optical Fibers Design, Fabrication, and Characterization
   - Ultrafast Nonlinear Optics
 
+links:
+  - icon_pack: fab
+    icon: twitter
+    name: Follow
+    url: 'https://twitter.com/Twitter'
+    {{% staticref "uploads/cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+
 education:
   courses:
     - course: PhD in Electrical and Photonics Engineering
