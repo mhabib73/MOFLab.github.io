@@ -3,12 +3,6 @@ title:
 date: 2025-10-12
 type: landing
 
-banner:
-  image: "welcome.gif"
-  alt: "Welcome animation"
-
-
-
 sections:
   - block: hero  
     content:
