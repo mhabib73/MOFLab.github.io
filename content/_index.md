@@ -26,7 +26,12 @@ sections:
 
   - block: markdown
     content:
-      ![](welcome.gif) 
+      #title: Animated Content
+      image:
+     
+      filename: welcome.gif
+      alt: Welcome animation
+      size: large 
       
   - block: markdown
     content:
