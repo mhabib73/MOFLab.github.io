@@ -29,9 +29,9 @@ sections:
     design:
       columns: "1"
       background:
-        color: "#394B6E"
-      image:
-        filename: welcome.gif
+        #color: "#394B6E"
+        image:
+          filename: welcome.gif
         
       #image:
         #filename: welcome.png
