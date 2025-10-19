@@ -20,19 +20,20 @@ sections:
           parallax: false
           size: contain
         padding: ["40px", "0", "40px", "0"]
-      css_class: halfscreen
+      css_class: screen-75
 
 
   - block: markdown
     content:
-      title: |        
+      title: |
+        
       #image:
         #filename: welcome.png
         #filters:
           #brightness: 1
         #position: center
         #size: cover
-    text: |
+      text: |
         <br>
         We investigate next-generation optical fiber technologies that redefine how light travels. Our work centers on innovative hollow-core fibers—engineered with microscopic air channels that let light propagate faster,
         over longer distances, and with exceptionally low loss. Through advanced microstructured designs, we aim to achieve ultra-low transmission loss, minimal latency, and broad bandwidth, opening new possibilities for
