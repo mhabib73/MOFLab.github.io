@@ -56,7 +56,7 @@ sections:
   
   - block: collection
     content:
-      title: '<div style="text-align: left; color: black;">Microstructure Optical Fiber Lab</div>'
+      title: '<div style="text-align: left; color: black;">Featured articles</div>'
       text: ""
       count: 5
       filters:
