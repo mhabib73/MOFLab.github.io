@@ -35,15 +35,7 @@ sections:
       columns: "1"
       background:
         #color: "#394B6E"
-        image:
-          filename: welcome.gif
-          filters:
-            brightness: 1
-          position: left
-          parallax: false
-          size: contain
-        padding: ["40px", "0", "40px", "0"]
-      css_class: screen-75 animated-gif-hero
+
         
       #image:
         #filename: welcome.png
