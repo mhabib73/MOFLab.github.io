@@ -10,7 +10,7 @@ design:
       filename: welcome.svg
 
 sections:
-  - block: about.avatar
+  - block: markdown
     content:
       # The user's folder name in content/authors/
       username: admin
