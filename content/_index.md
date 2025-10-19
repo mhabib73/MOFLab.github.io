@@ -13,7 +13,7 @@ sections:
       background:
         color: "#394B6E"
         image:
-          filename: welcome.gif
+          filename: welcome.svg
           filters:
             brightness: 1
           position: left
@@ -26,6 +26,12 @@ sections:
   - block: markdown
     content:
       title: |
+    design:
+      columns: "1"
+      background:
+        color: "#394B6E"
+      image:
+        filename: welcome.gif
         
       #image:
         #filename: welcome.png
