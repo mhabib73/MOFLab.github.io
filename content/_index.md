@@ -38,7 +38,7 @@ sections:
           parallax: false
           size: contain
         padding: ["40px", "0", "40px", "0"]
-      css_class: screen-75 animated-gif
+      css_class: screen-75 animated-gif-hero
         
       #image:
         #filename: welcome.png
