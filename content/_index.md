@@ -2,7 +2,10 @@
 title:
 date: 2025-10-12
 type: landing
-
+image:
+  filename: welcome.svg
+  caption: NASA
+---
 sections:
   - block: hero  
     content:
@@ -79,4 +82,4 @@ sections:
 
   
 
----
+
