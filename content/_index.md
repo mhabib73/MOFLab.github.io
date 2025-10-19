@@ -2,9 +2,10 @@
 title:
 date: 2025-10-12
 type: landing
----
+
 sections:
-  - block: hero  
+  - block: hero
+    
     content:
       title: '<div style="text-align: right; color: cyan;">Microstructure Optical Fiber Lab</div>'
     design:
@@ -16,19 +17,18 @@ sections:
           filters:
             brightness: 1
           position: left
-          parallax: true
-          size: 70%
+          parallax: false
+          size: contain
         padding: ["40px", "0", "40px", "0"]
-      css_class: fullscreen
+      css_class: screen-75
 
- 
-      
+
   - block: markdown
     content:
       title: |
         
       #image:
-        #filename: welcome.svg
+        #filename: welcome.png
         #filters:
           #brightness: 1
         #position: center
@@ -68,14 +68,6 @@ sections:
       columns: '1'
       text_align: left
 
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
----
-
   
+
+---
