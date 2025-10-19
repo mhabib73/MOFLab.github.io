@@ -25,18 +25,7 @@ sections:
 
   - block: markdown
     content:
-      title: |
-      text: |
-        <div style="position: relative; min-height: 400px; overflow: hidden;">
-          <img src="welcome.gif" style="position: absolute; left: 0; top: 0; height: 100%; width: auto; object-fit: contain; z-index: 0;" alt="">
-        <div style="position: relative; z-index: 1; text-align: right; color: cyan;">Microstructure Optical Fiber Lab</div>
-        </div>
-    design:
-      columns: "1"
-      background:
-        #color: "#394B6E"
-
-        
+      title: |        
       #image:
         #filename: welcome.png
         #filters:
