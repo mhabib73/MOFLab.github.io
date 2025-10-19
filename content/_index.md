@@ -13,7 +13,7 @@ sections:
       background:
         color: "#394B6E"
         image:
-          filename: welcome.svg
+          filename: welcome.gif
           filters:
             brightness: 1
           position: left
