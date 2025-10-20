@@ -19,6 +19,8 @@ tags:
   - THz fibers
   - Metamaterial fibers
   - Surface plasmon fibers
-- Machine learing in fiber optics 
+- Machine learing in fiber optics
+  - loss prediction using different ML algorithms
+  - Optimize complex geometry of advanced optical fibers
 
 #<!--more-->
