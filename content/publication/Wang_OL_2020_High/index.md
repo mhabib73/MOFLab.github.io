@@ -36,7 +36,7 @@ abstract: In this Letter, we demonstrate a high pulse energy and linearly polari
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Hollow-core fibers; high power fiber lasers; low-loss fibers
+- Hollow-core fibers; Raman lasers; low-loss fibers
 
 featured: true
 
