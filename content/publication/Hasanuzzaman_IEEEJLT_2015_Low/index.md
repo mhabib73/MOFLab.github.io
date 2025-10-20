@@ -32,7 +32,7 @@ abstract: A novel porous-core kagome lattice photonic crystal fiber (PCF) is des
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- supercontinuum-generation; soliton; nonlinear optics
+- THz fibers
 
 featured: false
 
