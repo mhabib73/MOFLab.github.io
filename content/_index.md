@@ -19,7 +19,7 @@ sections:
           position: left
           parallax: false
           size: contain
-        padding: ["40px", "0", "40px", "0"]
+        padding: ["4000px", "4000px", "4000px", "4000px"]
       css_class: fullscreen
 
 
