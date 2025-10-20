@@ -2,7 +2,7 @@
 title: Design and modeling for advanced optical fibers
 date: 2025-10-20
 links:
-  - type: site
+  - type: home
     #url: https://github.com/pandas-dev/pandas
 tags:
   - Hollow-core fibers
@@ -19,5 +19,6 @@ tags:
   - THz fibers
   - Metamaterial fibers
   - Surface plasmon fibers
+- Machine learing in fiber optics 
 
 #<!--more-->
