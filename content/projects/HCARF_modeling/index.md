@@ -1,6 +1,6 @@
 ---
 title: Hollow-core anti-resonant fiber - design and modeling
-date: 2023-10-26
+date: 2025-10-20
 links:
   - type: site
     url: https://github.com/pandas-dev/pandas
