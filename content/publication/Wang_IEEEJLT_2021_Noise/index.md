@@ -35,7 +35,7 @@ abstract: Stimulated Raman scattering (SRS) enabled by the emerging gas-filled l
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Hollow-core fibers; low-loss fibers
+- Hollow-core fibers; Raman lasers
 
 featured: false
 
