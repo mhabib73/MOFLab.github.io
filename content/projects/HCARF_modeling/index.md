@@ -1,8 +1,6 @@
 ---
-title: "Projects"
-subtitle: "Our ongoing and completed research efforts"
-summary: "Explore the current and past projects conducted in our lab."
-type: "page"
-layout: "projects"  # optional – depends on your theme
+title: "Hollow-core anti-resonant fiber: design and modeling"
+date: 2025-10-20
+summary: "Design and modeling of hollow-core anti-resonant fibers for low-loss transmission."
+image: "fiber_diagram.png"
 ---
-![Hollow-core fiber structure](featured.jpg)
