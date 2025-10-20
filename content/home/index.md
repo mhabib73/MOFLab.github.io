@@ -15,8 +15,8 @@ sections:
           image:
             filename: welcome.svg
             filters:
-              brightness: 0.7
-          position: right
+              brightness: 1
+          position: center
           color: '#666'
       - title: Lunch & Learn ☕️
         content: 'Share your knowledge with the group and explore exciting new topics together!'
@@ -25,17 +25,17 @@ sections:
           image:
             filename: welcome.svg
             filters:
-              brightness: 0.7
+              brightness: 1
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: World-Class Fiber Optics Lab
+        #content: 'Just opened last month!'
         align: right
         background:
           image:
             filename: welcome.svg
             filters:
-              brightness: 0.5
+              brightness: 1
           position: center
           color: '#333'
         link:
@@ -46,9 +46,9 @@ sections:
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
-      is_fullscreen: true
+      is_fullscreen: false
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
       interval: 2000
 ---
