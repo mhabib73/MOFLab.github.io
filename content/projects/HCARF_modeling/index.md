@@ -10,6 +10,10 @@ tags:
   #- Markdown
 ---
 
-Accurate modeling of complex hollow-core anti-resonant fibers.
+- Accurate modeling of complex hollow-core anti-resonant fibers.
+  - Confinement loss
+  - Surface scattering loss
+  - Microbend loss
+- Modeling speciality optical fibers
 
 <!--more-->
