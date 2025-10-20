@@ -28,7 +28,7 @@ abstract: We report on numerical design optimization of hollow-core anti-resonan
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- THz fibers
+- Hollow-core fibers
 
 featured: false
 
