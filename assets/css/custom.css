@@ -33,13 +33,13 @@
 
 /* Half-screen and full-screen height modes */
 .hero-block.halfscreen {
-  min-height: 70vh !important;
-  height: 70vh !important;
+  min-height: 100vh !important;
+  height: 100vh !important;
 }
 
 .hero-block.fullscreen {
-  min-height: 100vh !important;
-  height: 100vh !important;
+  min-height: 70vh !important;
+  height: 70vh !important;
 }
 
 /* Responsive image inside hero */
