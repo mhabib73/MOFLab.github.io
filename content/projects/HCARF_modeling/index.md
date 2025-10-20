@@ -1,21 +1,15 @@
 ---
-# Leave the homepage title empty to use the site title
-title:
-date: 2022-10-24
-type: landing
-
-sections:
-  - block: hero
-    content:
-      title: |
-        Wowchemy
-        Research Group
-      image:
-        filename: welcome.svg
-      text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-
-
+title: Pandas
+date: 2023-10-26
+links:
+  - type: site
+    url: https://github.com/pandas-dev/pandas
+tags:
+  - Hugo
+  - HugoBlox
+  - Markdown
 ---
+
+Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+
+<!--more-->
