@@ -30,7 +30,7 @@ abstract: Hollow-core fibers with a single ring of circular anti-resonant tubes 
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- THz fibers
+- Hollow-core fibers
 
 featured: false
 
