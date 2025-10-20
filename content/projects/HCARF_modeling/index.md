@@ -1,5 +1,5 @@
 ---
-title: Hollow-core anti-resonant fiber: design and modeling
+title: Hollow-core anti-resonant fiber - design and modeling
 date: 2023-10-26
 links:
   - type: site
