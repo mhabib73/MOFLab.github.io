@@ -17,7 +17,7 @@ sections:
             filters:
               brightness: 1
           position: center
-          color: '#666'
+          #color: '#666'
       - title: Lunch & Learn ☕️
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
@@ -27,7 +27,7 @@ sections:
             filters:
               brightness: 1
           position: center
-          color: '#555'
+          #color: '#555'
       - title: World-Class Fiber Optics Lab
         #content: 'Just opened last month!'
         align: right
@@ -37,7 +37,7 @@ sections:
             filters:
               brightness: 1
           position: center
-          color: '#333'
+          #color: '#333'
         link:
           icon: graduation-cap
           icon_pack: fas
