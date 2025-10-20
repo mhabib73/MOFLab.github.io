@@ -19,14 +19,9 @@ sections:
     design:
       view: article-grid
       fill_image: false
-      columns: 2
+      columns: 1
       show_date: false
       show_read_time: false
       show_read_more: false
       show_description: false
-      image:
-        filename: welcome.svg
-        size: cover
-        position: center
-        parallax: true
 ---
