@@ -39,7 +39,7 @@ abstract: Few-mode EDFAs with low channel crosstalk can replace multiple paralle
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Hollow-core fibers; high power fiber lasers; low-loss fibers
+- Single-mode fiber
 
 featured: true
 
