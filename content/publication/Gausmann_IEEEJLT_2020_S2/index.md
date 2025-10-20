@@ -29,7 +29,7 @@ publishDate: "2023-10-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Journal of Lightwave Technology **38**, 1953 (20220)"
+publication: "IEEE Journal of Lightwave Technology **38**, 1953 (2020)"
 publication_short: ""
 
 abstract: 
