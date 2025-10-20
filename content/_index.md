@@ -19,8 +19,8 @@ sections:
           position: left
           parallax: false
           size: contain
-        padding: ["4000px", "4000px", "4000px", "4000px"]
-      css_class: fullscreen
+        padding: ["0px", "0px", "0px", "0px"]
+      #css_class: fullscreen
 
 
   - block: markdown
