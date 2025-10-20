@@ -1,6 +1,6 @@
 ---
 title: Design and modeling for advanced optical fibers
-#date: 2025-10-20
+date: 2025-10-20
 links:
   - type: site
     #url: https://github.com/pandas-dev/pandas
