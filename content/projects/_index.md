@@ -5,20 +5,20 @@ type: landing
 
 design:
   # Section spacing
-  spacing: '10rem'
+  spacing: '5rem'
 
 # Page sections
 sections:
   - block: collection
     content:
       title: Projects
-      #text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: Here are a selection of projects that our research group are currently working.
       filters:
         folders:
           - projects
     design:
       view: article-grid
-      fill_image: true
+      fill_image: false
       columns: 5
       show_date: false
       show_read_time: false
