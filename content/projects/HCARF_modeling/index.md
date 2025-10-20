@@ -5,11 +5,11 @@ links:
   - type: site
     url: https://github.com/pandas-dev/pandas
 tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+  - Hollow-core fibers
+  #- HugoBlox
+  #- Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Accurate modeling of complex hollow-core anti-resonant fibers.
 
 <!--more-->
