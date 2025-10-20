@@ -1,5 +1,5 @@
 ---
-title: Hollow-core anti-resonant fiber - design and modeling
+title: Design and modeling for advanced optical fibers
 date: 2025-10-20
 links:
   - type: site
