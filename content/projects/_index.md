@@ -24,4 +24,5 @@ sections:
       show_read_time: false
       show_read_more: false
       show_description: false
+      show_date: false
 ---
