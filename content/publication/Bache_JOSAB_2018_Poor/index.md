@@ -30,7 +30,7 @@ abstract: We investigate various methods for extending the simple analytical cap
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Surface Plasmon
+- Hollow-core fibers; nonlinear optics
 
 featured: false
 
