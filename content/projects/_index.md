@@ -1,6 +1,6 @@
 ---
 title: 'Projects'
-#date: 2025-10-20
+date: 2025-10-20
 type: landing
 
 design:
@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Projects
-      text: Here are a selection of projects that our research group are currently working.
+      #text: Here are a selection of projects that our research group are currently working.
       filters:
         folders:
           - projects
