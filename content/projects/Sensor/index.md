@@ -1,8 +1,8 @@
 ---
-title: Design and modeling for advanced optical fibers
+title: Low-cost and energy-efficient fiber sensors
 date: 2025-10-20
-links:
-  - type: home
+#links:
+  #- type: home
     #url: https://github.com/pandas-dev/pandas
 tags:
   - Hollow-core fibers
@@ -10,15 +10,6 @@ tags:
   #- Markdown
 ---
 
-- Accurate modeling of complex hollow-core anti-resonant fibers
-  - Confinement loss
-  - Surface scattering loss
-  - Microbend loss
-- Modeling speciality optical fibers
-  - Higher power fiber lasers
-  - THz fibers
-  - Metamaterial fibers
-  - Surface plasmon fibers
-- Machine learing in fiber optics 
+- Develop low-cost and energy-efficient optical fiber sensors 
 
 #<!--more-->
