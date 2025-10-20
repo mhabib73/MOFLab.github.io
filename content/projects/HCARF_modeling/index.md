@@ -5,3 +5,4 @@ summary: "Explore the current and past projects conducted in our lab."
 type: "page"
 layout: "projects"  # optional – depends on your theme
 ---
+![Hollow-core fiber structure](featured.jpg)
