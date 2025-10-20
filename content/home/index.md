@@ -1,54 +1,73 @@
 ---
-title: Tour
-date: 2022-10-24
-
+title:
+date: 2025-10-12
 type: landing
 
 sections:
-  - block: slider
+  - block: hero
+    
     content:
-      slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
-        align: center
-        background:
-          image:
-            filename: welcome.svg
-            filters:
-              brightness: 1
-          position: center
-          #color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
-        background:
-          image:
-            filename: welcome.svg
-            filters:
-              brightness: 1
-          position: center
-          #color: '#555'
-      - title: World-Class Fiber Optics Lab
-        #content: 'Just opened last month!'
-        align: right
-        background:
-          image:
-            filename: welcome.svg
-            filters:
-              brightness: 1
-          position: center
-          #color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
+      title: '<div style="text-align: right; color: cyan;">Microstructure Optical Fiber Lab</div>'
     design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
-      is_fullscreen: true
-      # Automatically transition through slides?
-      loop: false
-      # Duration of transition between slides (in ms)
-      interval: 2000
+      columns: "1"
+      background:
+        color: "#394B6E"
+        image:
+          filename: welcome.svg
+          filters:
+            brightness: 1
+          position: left
+          parallax: false
+          size: contain
+        padding: ["0px", "0px", "0px", "0px"]
+      #css_class: fullscreen
+
+
+  - block: markdown
+    content:
+      title: |
+        
+      #image:
+        #filename: welcome.png
+        #filters:
+          #brightness: 1
+        #position: center
+        #size: cover
+      text: |
+        <br>
+        We investigate next-generation optical fiber technologies that redefine how light travels. Our work centers on innovative hollow-core fibers—engineered with microscopic air channels that let light propagate faster,
+        over longer distances, and with exceptionally low loss. Through advanced microstructured designs, we aim to achieve ultra-low transmission loss, minimal latency, and broad bandwidth, opening new possibilities for
+        the future of high-speed communication, data networks, and beyond.
+        <br><br>
+        By combining theory, simulation, and experimental fabrication, we aim to understand the underlying physics of light propagation in complex fiber geometries. Our insights drive the development of practical fiber
+        designs with transformative applications in AI data centers, quantum communication, ultrafast data transmission, advanced laser systems, fiber-optic sensing, and biomedical imaging.
+        <br><br>
+        We welcome collaborations with academic groups, industry partners, and students interested in shaping the next generation of photonic technologies.
+        <br><br>
+        Our research group focuses on: <br>
+    
+        * Advanced optical fiber design, fabrication, and characterization
+        <br>
+        * Energy-efficient and low-cost fiber sensors
+        <br>
+        * Ultrafast nonlinear optics
+        <br>
+        * Light-matter interactions
+  
+  - block: collection
+    content:
+      title: '<div style="text-align: left; color: black;">Featured articles</div>'
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - publication
+        publication_type: 'featured-article'
+    design:
+      view: citation
+      columns: '1'
+      text_align: left
+
+  
+
 ---
