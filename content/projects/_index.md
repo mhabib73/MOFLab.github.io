@@ -9,14 +9,6 @@ design:
 
 # Page sections
 sections:
-  # Hero section at top
-  - block: hero
-    content:
-      title: "MOFLab Projects"
-      text: "Explore our research group's innovative projects"
-    design:
-      background:
-        color: 'primary'
   
   # Projects grid below
   - block: collection
