@@ -13,8 +13,8 @@ sections:
   # Projects grid below
   - block: collection
     content:
-      title: "Featured Projects"
-      #text: "Here are a selection of projects that our research group are currently working on."
+      #title: "Featured Projects"
+      text: "Featured Projects"
       filters:
         folders:
           - projects
