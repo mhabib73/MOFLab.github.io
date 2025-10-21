@@ -6,6 +6,8 @@ date: 2025-10-20
     #url: https://github.com/pandas-dev/pandas
 tags:
   - Hollow-core fibers
+  - Fiber sensors
+  - Plasmonic sensors
   #- HugoBlox
   #- Markdown
 ---
