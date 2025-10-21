@@ -33,7 +33,7 @@ abstract: In this paper, we present and compare two experimentally feasible phot
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- THz fiber
+- THz fibers
 
 featured: false
 
