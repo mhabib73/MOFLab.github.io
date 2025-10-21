@@ -11,19 +11,13 @@ tags:
   - Multi-mode fibers
   #- HugoBlox
   #- Markdown
-image:
-  # caption: Photo by rawpixel on Unsplash
-  focal_point: ''
-  preview_only: false
-  placement: 1
-  width: 100
-  #heigth: auto
+
 authors:
   - admin
   - Mahfuz
 
 ---
-<img src="featured.png" hidden="hidden">
+<img src="featured.png">
 
 - Accurate modeling of complex hollow-core anti-resonant fibers
   - Model various complex hollow-core fiber geometry
