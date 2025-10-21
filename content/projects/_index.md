@@ -20,9 +20,9 @@ sections:
           - projects
     design:
       background:
-        color: 'primary'
+        #color: 'primary'
       view: card
-      columns: '1'
+      columns: '3'
       show_description: false
       show_date: false
       show_read_time: false
