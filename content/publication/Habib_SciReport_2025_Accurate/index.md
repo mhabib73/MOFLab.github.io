@@ -34,7 +34,8 @@ abstract: In this paper, we systematically demonstrate the design and analysis o
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Metamaterial; machine learning
+- Metamaterial
+- Machine learning
 
 featured: true
 
