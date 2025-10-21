@@ -32,7 +32,7 @@ abstract: The lack of access to broadband services and speeds that allows urban 
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- broadband connectivity
+- Broadband connectivity
 
 featured: false
 
