@@ -1,7 +1,12 @@
 ---
-title:
-date: 2025-10-12
-type: landing
+title: "Design and modeling for advanced optical fibers"
+summary: "Accurate modeling of hollow-core anti-resonant fibers, specialty fibers, and ML-based optimization."
+date: 2025-10-20
+tags:
+  - soliton
+  - Hollow-core fibers
+  - Ultrafast nonlinear optics
+  - Supercontinuum generation
 
 sections:
 
