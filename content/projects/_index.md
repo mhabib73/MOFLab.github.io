@@ -1,6 +1,6 @@
 ---
 title: 'Projects'
-date: 2025-10-20
+date: ''
 type: landing
 
 design:
@@ -21,7 +21,7 @@ sections:
     design:
       background:
         #color: 'primary'
-      view: slider
+      view: showcase
       columns: '2'
       show_description: false
       show_date: false
