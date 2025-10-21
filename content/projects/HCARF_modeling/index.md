@@ -13,7 +13,7 @@ tags:
   #- Markdown
 image:
   # caption: Photo by rawpixel on Unsplash
-  focal_point: Left
+  focal_point: 'smart'
   preview_only: false
 authors:
   - admin
@@ -43,7 +43,7 @@ authors:
   - Loss characterization
   - Dispersion measurement
 
-### Subscribe
+### Interested 
 If you are interested in further updates on this project, you can leave your email here to stay updated.
 Don't worry, we won't spam you! You can unsubscribe at any time. [contattandoci](mailto:mhabib@fit.edu).
 <!-- Begin Mailchimp Signup Form -->
