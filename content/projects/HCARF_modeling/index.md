@@ -1,7 +1,7 @@
 ---
 title: "Design and modeling for advanced optical fibers"
 summary: "Accurate modeling of hollow-core anti-resonant fibers, specialty fibers, and ML-based optimization."
-date: 2025-10-18
+date: 2025-10-20
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 50px;">
