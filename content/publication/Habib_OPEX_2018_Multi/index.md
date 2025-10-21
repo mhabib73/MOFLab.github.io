@@ -31,7 +31,9 @@ publication_short: ""
 
 abstract: In this work, we numerically investigate an experimentally feasible design of a tapered Ne-filled hollow-core anti-resonant fiber and we report multi-stage generation of dispersive waves (DWs) in the range 90–120 nm, well into the extreme ultraviolet (UV) region. The simulations assume a 800 nm pump pulse with 30 fs 10 µJ pulse energy, launched into a 9 bar Ne-filled fiber with a 34 µm initial core diameter that is then tapered to a 10 µm core diameter. The simulations were performed using a new model that provides a realistic description of both loss and dispersion of the resonant and anti-resonant spectral bands of the fiber, and also importantly includes the material loss of silica in the UV. We show that by first generating solitons that emit DWs in the far-UV region in the pre-taper section, optimization of the following taper structure can allow re-collision with the solitons and further up-conversion of the far-UV DWs to the extreme-UV with energies up to 190 nJ in the 90–120 nm range. This process provides a new way to generate light in the extreme-UV spectral range using relatively low gas pressure.
 tags:
-- Hollow-core fiber, Soliton, Noninear Optics
+- Hollow-core fibers
+- Soliton
+- Ultrafast noninear optics
 
 featured: false
 
