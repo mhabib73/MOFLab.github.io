@@ -22,7 +22,7 @@ sections:
       background:
         #color: 'primary'
       view: card
-      columns: '3'
+      columns: '2'
       show_description: false
       show_date: false
       show_read_time: false
