@@ -21,7 +21,7 @@ sections:
     design:
       background:
         #color: 'primary'
-      view: citation
+      #view: citation
       columns: '3'
       show_description: true
       show_date: false
