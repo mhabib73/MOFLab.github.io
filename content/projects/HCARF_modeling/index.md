@@ -57,7 +57,7 @@ Don't worry, we won't spam you! You can unsubscribe at any time. [contattandoci]
     <form action="https://uniroma1.us21.list-manage.com/subscribe/post?u=ead8e66ef83dbcc3028d24ed9&amp;id=d015ac5ed8&amp;f_id=00a4a9e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
         <div id="mc_embed_signup_scroll">
 <div class="mc-field-group">
-	<label for="mce-EMAIL">Indirizzo Email </label>
+	<label for="mce-EMAIL">email address </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required>
 	<span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
 </div>
