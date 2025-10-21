@@ -34,7 +34,7 @@ abstract: Recent years have witnessed much progress in the development of fiber 
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Genetic-algorithm
+- Genetic algorithm
 
 featured: false
 
