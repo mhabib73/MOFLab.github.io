@@ -10,6 +10,8 @@ tags:
   - Plasmonic sensors
   #- HugoBlox
   #- Markdown
+authors:
+  - Mahfuz
 ---
 
 - Develop low-cost and energy-efficient optical fiber sensors 
