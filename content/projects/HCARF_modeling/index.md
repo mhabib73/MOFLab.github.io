@@ -10,7 +10,7 @@ tags:
 
 sections:
 
-  - block: markdown
+  - block: hero
     content:
       title: |
       text: |
