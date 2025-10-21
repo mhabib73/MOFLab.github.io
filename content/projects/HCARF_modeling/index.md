@@ -1,8 +1,8 @@
 ---
 title: Design and modeling for advanced optical fibers
 date: "2025-10-20T00:00:00Z"
-#links:
-  #- type: home
+links:
+  - type: projects
     #url: https://github.com/pandas-dev/pandas
 tags:
   - Hollow-core fibers
@@ -17,7 +17,7 @@ authors:
   - Mahfuz
 
 ---
-<img src="featured.png">
+
 
 - Accurate modeling of complex hollow-core anti-resonant fibers
   - Model various complex hollow-core fiber geometry
