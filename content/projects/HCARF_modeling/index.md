@@ -4,27 +4,10 @@ date: 2025-10-12
 type: landing
 
 sections:
-  - block: hero
-    
-    content:
-      title: '<div style="text-align: right; color: cyan;">Microstructure Optical Fiber Lab</div>'
-    design:
-      columns: "1"
-      background:
-        color: "#394B6E"
-
-
 
   - block: markdown
     content:
       title: |
-        
-      #image:
-        #filename: welcome.png
-        #filters:
-          #brightness: 1
-        #position: center
-        #size: cover
       text: |
         <br>
         We investigate next-generation optical fiber technologies that redefine how light travels. Our work centers on innovative hollow-core fibers—engineered with microscopic air channels that let light propagate faster,
@@ -46,18 +29,28 @@ sections:
         <br>
         * Light-matter interactions
   
-  - block: collection
-    content:
-      title: '<div style="text-align: left; color: black;">Featured articles</div>'
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'featured-article'
-    design:
-      view: citation
-      columns: '1'
-      text_align: left
 
 ---
+
+- Accurate modeling of complex hollow-core anti-resonant fibers
+  - Model various complex hollow-core fiber geometry
+    - Single-mode fiber
+    - Multi-mode fiber
+  - Understand and model various physical loss mechanisms 
+    - Confinement loss
+    - Surface scattering loss
+    - Micro-bend loss
+    - Macro-bend loss
+- Modeling speciality optical fibers
+  - THz fibers
+  - Hollow-core fiber sensors
+  - Metamaterial fibers
+  - Surface plasmon fibers
+  - Higher power fiber lasers
+- Machine learing in fiber optics
+  - loss prediction using different ML algorithms
+  - Optimize complex geometry of advanced optical fibers
+- Characterize hollow-core fibers
+  - Loss characterization
+  - Dispersion measurement
+
