@@ -11,6 +11,8 @@ tags:
   - Supercontinuum generation
   #- HugoBlox
   #- Markdown
+authors:
+  - admin
 ---
 
 - Soliton pulse compression
