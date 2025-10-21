@@ -12,7 +12,7 @@ tags:
   #- HugoBlox
   #- Markdown
 
-external_link: "https://github.com/teelinsan/camoscio"
+#external_link: "https://github.com/teelinsan/camoscio"
 
 image:
   # caption: Photo by rawpixel on Unsplash
