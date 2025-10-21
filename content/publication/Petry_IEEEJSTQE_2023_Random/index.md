@@ -30,7 +30,9 @@ abstract: Hollow-core anti-resonant fibers (HC-ARFs) have earned great attention
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Hollow-core fibers; single-mode fibers; low-loss fibers
+- Hollow-core fibers
+- Single-mode fibers
+- Low-loss fibers
 
 featured: true
 
