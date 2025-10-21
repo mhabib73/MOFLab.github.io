@@ -28,5 +28,6 @@ sections:
       show_read_time: false
       show_read_more: false
       show_date: false
+      flip_alt_rows: true
 
 ---
