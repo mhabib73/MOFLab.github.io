@@ -33,7 +33,7 @@ date: 2025-10-18
   </div>
 
   <div style="flex: 1;">
-    <img src="featured.png" alt="Simulation triangle" style="width:150px; margin:0;">
+    <img src="featured.png" alt="Simulation triangle" style="width:1500px; margin:0;">
   </div>
 
 </div>
