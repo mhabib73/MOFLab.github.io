@@ -12,7 +12,7 @@ sections:
   # Hero section at top
   - block: hero
     content:
-      title: "Our Projects"
+      title: "MOFLab Projects"
       text: "Explore our research group's innovative projects"
     design:
       background:
