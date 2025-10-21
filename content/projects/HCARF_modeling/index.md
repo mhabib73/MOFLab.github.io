@@ -10,7 +10,7 @@ tags:
   #- Markdown
 
 sections:
-  - block: hero
+  - block: markdown
     
     content:
       title: '<div style="text-align: right; color: cyan;">Microstructure Optical Fiber Lab</div>'
