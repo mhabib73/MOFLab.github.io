@@ -21,8 +21,8 @@ sections:
     design:
       background:
         color: 'primary'
-      view: article-grid
-      columns: 2
+      view: card
+      columns: '1'
       show_description: false
       show_date: false
       show_read_time: false
