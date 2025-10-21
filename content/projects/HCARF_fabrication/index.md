@@ -12,6 +12,13 @@ tags:
   #- HugoBlox
   #- Markdown
 
+external_link: "https://github.com/teelinsan/camoscio"
+
+image:
+  # caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+  preview_only: true
+
 sections:
   - block: markdown
     
