@@ -29,7 +29,8 @@ publication_short: ""
 
 abstract: A hollow-core fiber with nested anti-resonant node-free cladding tubes suitable for broadband THz guidance with low transmission losses is proposed. It is shown that the tube separation and tube thickness of the inner elements have a significant effect on the confinement loss and effective material loss of the fiber in the THz band. Using TOPAS copolymer, the proposed fiber was optimized for operation at 1 THz and it is predicted from numerical simulations that loss can be reduced to as low as 0.05 dB/m with a 0.6 THz wide dispersion flattened bandwidth.
 tags:
-- Hollow-core fiber, THz fiber
+- Hollow-core fibers
+- THz fibers
 
 featured: false
 
