@@ -36,7 +36,7 @@ abstract: Deep-UV (DUV) supercontinuum (SC) sources based on gas-filled hollow-c
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Hollow-core fibers; supercontinuum-generation; soliton; nonlinear optics
+- Hollow-core fibers; Ultrafast nonlinear optics; supercontinuum generation; soliton
 
 featured: true
 
