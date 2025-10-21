@@ -4,7 +4,7 @@ summary: "Accurate modeling of hollow-core anti-resonant fibers, specialty fiber
 date: 2025-10-18
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 10px;">
+<div style="display: flex; align-items: flex-start; gap: 50px;">
 
   <div style="flex: 3;">
     <p><strong>Accurate modeling of complex hollow-core anti-resonant fibers</strong></p>
