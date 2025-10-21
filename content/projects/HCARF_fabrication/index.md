@@ -24,6 +24,6 @@ image:
 - State-of-the-art fiber fabrication
   - Fabricate various optical fibers
   - Fibers are fabricated in CREOL, Unviersity of Central Florida
-external_link: "https://creol.ucf.edu/person/rodrigo-amezcua-correa/"
+You can click [here](https://creol.ucf.edu/person/rodrigo-amezcua-correa/) to know about the CREOL group.
 
 #<!--more-->
