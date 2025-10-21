@@ -30,7 +30,7 @@ abstract: Broadband supercontinuum generation is numerically investigated in a X
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Supercontinuum generation; Ultrafast nonlinear optics
+- Hollow-core fibers; Ultrafast nonlinear optics
 
 featured: false
 
