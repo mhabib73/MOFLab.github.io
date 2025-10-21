@@ -1,6 +1,6 @@
 ---
 title: Low-cost and energy-efficient fiber sensors
-date: ''
+date: 2025-20-10
 #links:
   #- type: home
     #url: https://github.com/pandas-dev/pandas
