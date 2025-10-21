@@ -8,7 +8,7 @@ tags:
   - Multi-mode fibers
 
 sections:
-  - block: hero
+  - block: markdown
     content:
       title: |
         Wowchemy
@@ -38,5 +38,4 @@ sections:
 - Characterize hollow-core fibers
   - Loss characterization
   - Dispersion measurement
- 
----
+ ---
