@@ -1,6 +1,6 @@
 ---
 title: Investigate extreme light-matter interactions
-date: 2025-10-20
+date: "2021-06-14T00:00:00Z"
 #links:
   #- type: home
     #url: https://github.com/pandas-dev/pandas
