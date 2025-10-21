@@ -1,6 +1,6 @@
 ---
 title: Investigate extreme light-matter interactions
-date: 2025-20-10
+date: 2025-10-20
 #links:
   #- type: home
     #url: https://github.com/pandas-dev/pandas
@@ -13,9 +13,9 @@ tags:
   #- Markdown
 ---
 
-- Develop low-cost, compact and energy-efficient new laser source design
+- Soliton pulse compression
 - Supercontinuum generation
 - Efficient UV laser source design
-- Pulse compression
+- Develop low-cost, compact and energy-efficient new laser source design
 
 #<!--more-->
