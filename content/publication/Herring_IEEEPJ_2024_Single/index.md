@@ -30,7 +30,9 @@ abstract: In this paper, to the best of our knowledge, a new type of hollow-core
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Hollow-core fibers; single-mode fibers; low-loss fibers
+- Hollow-core fibers
+- Single-mode fibers
+- Low-loss fibers
 
 featured: false
 
