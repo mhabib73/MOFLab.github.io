@@ -37,7 +37,10 @@ abstract: Mode-selective fiber lasers have advantages in a number of application
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Hollow-core fibers; Ultrafast nonlinear optics; Raman lasers; low-loss fibers
+- Hollow-core fibers
+- Ultrafast nonlinear optics
+- Raman lasers
+- Low-loss fibers
 
 featured: true
 
