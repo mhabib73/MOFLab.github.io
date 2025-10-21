@@ -23,6 +23,7 @@ authors:
   - Mahfuz
 
 ---
+<img src="featured.png" hidden="hidden">
 
 - Accurate modeling of complex hollow-core anti-resonant fibers
   - Model various complex hollow-core fiber geometry
