@@ -18,6 +18,8 @@ image:
   # caption: Photo by rawpixel on Unsplash
   focal_point: Smart
   preview_only: true
+authors:
+  - admin
 
 ---
 
