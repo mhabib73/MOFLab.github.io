@@ -32,7 +32,9 @@ abstract: Hollow-core anti-resonant fibers (HC-ARFs) have proven to be an indisp
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Hollow-core fibers; low-loss fibers; machine learning
+- Hollow-core fibers
+- Low-loss fibers
+- Machine learning
 
 featured: true
 
