@@ -9,20 +9,25 @@ design:
 
 # Page sections
 sections:
+  # Hero section at top
   - block: hero
     content:
-      title: Projects
-      #text: Here are a selection of projects that our research group are currently working.
+      title: "Our Projects"
+      text: "Explore our research group's innovative projects"
+    design:
+      background:
+        color: 'primary'
+  
+  # Projects grid below
+  - block: collection
+    content:
+      title: "Featured Projects"
+      text: "Here are a selection of projects that our research group are currently working on."
       filters:
         folders:
           - projects
     design:
       view: article-grid
-      fill_image: false
-      columns: 1
-      show_date: false
-      show_read_time: false
-      show_read_more: false
-      show_description: false
-      show_date: false
+      columns: 3
+      show_description: true
 ---
