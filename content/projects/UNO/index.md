@@ -1,19 +1,16 @@
 ---
-title: Investigate extreme light-matter interactions
-date: "2021-06-14T00:00:00Z"
+title: "Design and modeling for advanced optical fibers"
+summary: "Accurate modeling of hollow-core anti-resonant fibers, specialty fibers, and ML-based optimization."
+date: 2025-10-20
+---
+
+#title: Investigate extreme light-matter interactions
+#date: "2021-06-14T00:00:00Z"
 #links:
   #- type: home
     #url: https://github.com/pandas-dev/pandas
-tags:
-  - Hollow-core fibers
-  - Ultrafast nonlinear optics
-  - Soliton
-  - Supercontinuum generation
-  #- HugoBlox
-  #- Markdown
-authors:
-  - admin
----
+
+
 
 - Soliton pulse compression
 - Supercontinuum generation
