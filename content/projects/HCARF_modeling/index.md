@@ -6,8 +6,17 @@ tags:
   - Hollow-core fibers
   - Low-loss fibers
   - Multi-mode fibers
----
 
+sections:
+  - block: hero
+    content:
+      title: |
+        Wowchemy
+        Research Group
+      image:
+        filename: featured.png
+      text: |
+        <br>
 - Accurate modeling of complex hollow-core anti-resonant fibers
   - Model various complex hollow-core fiber geometry
     - Single-mode fiber
@@ -29,3 +38,5 @@ tags:
 - Characterize hollow-core fibers
   - Loss characterization
   - Dispersion measurement
+ 
+---
