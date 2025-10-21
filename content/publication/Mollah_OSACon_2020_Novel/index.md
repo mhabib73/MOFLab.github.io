@@ -29,7 +29,7 @@ abstract: We report a novel hollow-core asymmetric conjoined-tube anti-resonant 
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- THz fiber
+- THz fibers
 
 featured: false
 
