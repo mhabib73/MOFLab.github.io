@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Phd Student
+role: Apple, Inc.
 
 # Organizations/Affiliations
 organizations:
