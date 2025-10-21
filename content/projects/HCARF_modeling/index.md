@@ -34,14 +34,20 @@ sections:
 ---
 
 - Accurate modeling of complex hollow-core anti-resonant fibers
-  - Confinement loss
-  - Surface scattering loss
-  - Microbend loss
+  - Model various complex hollow-core fiber geometry
+    - Single-mode fiber
+    - Multi-mode fiber
+  - Understand and model various physical loss mechanisms 
+    - Confinement loss
+    - Surface scattering loss
+    - Micro-bend loss
+    - Macro-bend loss
 - Modeling speciality optical fibers
-  - Higher power fiber lasers
   - THz fibers
+  - Hollow-core fiber sensors
   - Metamaterial fibers
   - Surface plasmon fibers
+  - Higher power fiber lasers
 - Machine learing in fiber optics
   - loss prediction using different ML algorithms
   - Optimize complex geometry of advanced optical fibers
