@@ -9,7 +9,7 @@ design:
 
 # Page sections
 sections:
-  - block: collection
+  - block: markdown
     content:
       title: Projects
       #text: Here are a selection of projects that our research group are currently working.
