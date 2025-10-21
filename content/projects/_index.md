@@ -27,6 +27,8 @@ sections:
         folders:
           - projects
     design:
+      background:
+        color: 'primary'
       view: article-grid
       columns: 2
       show_description: false
