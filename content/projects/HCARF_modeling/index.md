@@ -51,5 +51,8 @@ sections:
 - Machine learing in fiber optics
   - loss prediction using different ML algorithms
   - Optimize complex geometry of advanced optical fibers
+- Characterize hollow-core fibers
+  - Loss characterization
+  - Dispersion measurement
 
 #<!--more-->
