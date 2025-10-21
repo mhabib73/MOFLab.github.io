@@ -15,6 +15,9 @@ image:
   # caption: Photo by rawpixel on Unsplash
   focal_point: 'smart'
   preview_only: false
+  placement: 1
+  width: 200
+  heigth: auto
 authors:
   - admin
   - Mahfuz
