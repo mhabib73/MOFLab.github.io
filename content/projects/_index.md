@@ -22,12 +22,12 @@ sections:
       background:
         #color: 'primary'
       view: card
-      columns: '2'
+      columns: '1'
       show_description: false
       show_date: false
       show_read_time: false
       show_read_more: false
       show_date: false
-      flip_alt_rows: true
+      flip_alt_rows: false
 
 ---
