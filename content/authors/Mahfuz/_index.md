@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hollow-core fibers and fiber sensors.
+bio: Hollow-core fibers; fiber sensors
 
 interests:
   - Hollow-core fibers
