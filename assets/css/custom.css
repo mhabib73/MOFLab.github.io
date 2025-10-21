@@ -7,3 +7,10 @@
         background-color: lightgray;
         padding: 10px;
     }
+
+/* in assets/scss/custom.scss */
+    .article-grid img[src*=".svg"] {
+        width: 100%;
+        height: auto;
+        background: transparent;
+}
