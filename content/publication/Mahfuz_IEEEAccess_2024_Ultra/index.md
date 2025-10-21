@@ -34,7 +34,7 @@ abstract: In this paper, a relatively simple and ultra-sensitive Photonic crysta
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- fiber sensors
+- Fiber sensors
 
 featured: false
 
