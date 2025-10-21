@@ -30,7 +30,8 @@ abstract: We investigate various methods for extending the simple analytical cap
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Hollow-core fibers; Ultrafast nonlinear optics
+- Hollow-core fibers
+- Ultrafast nonlinear optics
 
 featured: false
 
