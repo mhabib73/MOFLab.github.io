@@ -30,7 +30,9 @@ abstract: In this letter, we demonstrate how the soliton-plasma interaction init
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Supercontinuum generation; soliton; ultrafast nonlinear optics
+- Supercontinuum generation
+- Soliton
+- Ultrafast nonlinear optics
 
 featured: false
 
