@@ -15,6 +15,9 @@ image:
   # caption: Photo by rawpixel on Unsplash
   focal_point: Left
   preview_only: false
+authors:
+  - admin
+  - Mahfuz
 
 ---
 
