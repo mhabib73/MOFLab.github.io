@@ -1,7 +1,13 @@
 ---
-title: "Design and modeling for advanced optical fibers"
-summary: "Accurate modeling of hollow-core anti-resonant fibers, specialty fibers, and ML-based optimization."
+title: "Investigate extreme light-matter interactions"
+summary: "Understand the extreme light-matter interactions in various medium."
 date: 2025-10-20
+tags:
+  - soliton
+  - Hollow-core fibers
+  - Ultrafast nonlinear optics
+  - Supercontinuum generation
+  - 
 ---
 
 #title: Investigate extreme light-matter interactions
