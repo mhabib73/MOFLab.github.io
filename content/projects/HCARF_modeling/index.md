@@ -43,30 +43,6 @@ authors:
   - Loss characterization
   - Dispersion measurement
 
-<img src="featured.jpg" hidden="hidden">
-
-# 🇮🇹🦙 Camoscio: un language model italiano addestrato a seguire le tue istruzioni
-
-### Contesto
-
-L'intelligenza artificiale ha rivoluzionato l'interazione dell'uomo con la tecnologia, in particolare nell'elaborazione del linguaggio naturale, come dimostrato dal successo dei language modes quali ChatGPT, in grado di dare risposte convincenti alle richieste dell’utente, anche in italiano, ad esempio per generare testi creativi, risolvere problemi matematici, prevedere strutture proteiche o rispondere a domande di comprensione.
-
-Questi modelli sono molto grandi, con miliardi di parametri, il che li rende poco fruibili dai ricercatori; inoltre, non sono accessibili poiché sotto controllo delle grandi corporazioni che li gestiscono. Ciò crea problemi di analisi, studio, efficienza, nonché di riduzione di noti problemi di bias e tossicità di questi modelli.
-
-Recentemente la comunità ha fatto piccoli progressi nello sviluppo di modelli più accessibili, come [LLaMA di Meta AI](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), un modello linguistico addestrato per predire la parola successiva in 20 lingue diverse. Un team di ricerca di Stanford ha poi sviluppato una versione di LLaMA ([Stanford Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)) addestrata per seguire istruzioni in inglese, dimostrando che è possibile ottenere performance simili al modello di OpenAI GPT-3 (`text-davinci-003`) pur essendo 25 volte più piccolo.
-
-### Camoscio
-
-In questo contesto, [Andrea Santilli](https://gladia.di.uniroma1.it/authors/santilli/), dottorando del gruppo di ricerca [GLADIA](https://gladia.di.uniroma1.it/) (Sapienza Università di Roma) guidato dal [Prof. Emanuele Rodolà](https://gladia.di.uniroma1.it/authors/rodola/), ha realizzato e condiviso con la comunità Camoscio: un modello addestrato specificamente per comprendere e seguire istruzioni in lingua italiana. Partendo dal lavoro fatto con Stanford Alpaca, traducendo il dataset di *instruction-tuning* in italiano e utilizzandolo per addestrare il modello LLaMA. Il contributo è particolarmente rilevante in quanto:
-- mettiamo a disposizione **il primo dataset Italiano** per addestrare modelli a seguire istruzioni;
-- rendiamo pubblico il modello addestrato su tale dataset, **completamente open source**, e che dovrebbe offrire prestazioni qualitativamente simili a GPT-3;
-- pubblichiamo inoltre la repository per **replicare tutti gli esperimenti**;
-- il modello è **piccolo e investigabile**, può essere eseguito su un Raspberry Pi, e si presta ad essere studiato senza necessitare di enormi risorse di calcolo.
-
-Pur con le dovute limitazioni, il modello è un primo passo verso lo **sviluppo di modelli open ed accessibili alla comunità** in grado di seguire istruzioni impartite in linguaggio naturale italiano.
-
-Una demo interattiva (per utenti esperti) è disponibile nei link qui sotto tramite Google Colab.
-
 ### ✉️ Subscribe
 Se sei interessato ad ulteriori aggiornamenti su questo progetto, puoi lasciare qui la tua email per essere aggiornato.
 Non ti preoccupare, non ti invieremo spam! Puoi eliminarti in qualsiasi momento [contattandoci](mailto:rodola@di.uniroma1.it).
