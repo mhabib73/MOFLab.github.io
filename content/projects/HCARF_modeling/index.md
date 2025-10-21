@@ -45,7 +45,7 @@ authors:
 
 ### Interested 
 If you are interested in further updates on this project, you can leave your email here to stay updated.
-Don't worry, we won't spam you! You can unsubscribe at any time. [contattandoci](mailto:mhabib@fit.edu).
+Don't worry, we won't spam you! You can unsubscribe at any time. [contact us](mailto:mhabib@fit.edu).
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
 <style type="text/css">
