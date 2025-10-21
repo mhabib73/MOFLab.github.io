@@ -30,7 +30,10 @@ abstract: We show that adiabatic down-conversion can be made the dominant four-w
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Hollow-core fibers; Ultrafast nonlinear optics; supercontinuum generation; soliton
+- Hollow-core fibers
+- Ultrafast nonlinear optics
+- Supercontinuum generation
+- Soliton
 
 featured: false
 
