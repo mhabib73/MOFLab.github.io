@@ -6,6 +6,9 @@ date: 2025-10-20
     #url: https://github.com/pandas-dev/pandas
 tags:
   - Hollow-core fibers
+  - Single-mode fibers
+  - Low-loss fibers
+  - Multi-mode fibers
   #- HugoBlox
   #- Markdown
 
