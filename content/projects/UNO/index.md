@@ -7,6 +7,8 @@ date: 2025-10-20
 tags:
   - Hollow-core fibers
   - Ultrafast nonlinear optics
+  - Soliton
+  - Supercontinuum generation
   #- HugoBlox
   #- Markdown
 ---
