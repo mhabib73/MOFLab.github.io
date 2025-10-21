@@ -30,7 +30,7 @@ abstract: We investigate numerically soliton-plasma interaction in a noble-gas-f
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Hollow-core fiber; soliton, ultrafast nonlinear optics
+- Hollow-core fibers; Ultrafast nonlinear optics; soliton
 
 featured: true
 
