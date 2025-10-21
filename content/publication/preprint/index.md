@@ -24,7 +24,8 @@ abstract: Next-generation sensing technologies require high-performance sensors 
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Hollow-core fibers; fiber sensors
+- Hollow-core fibers
+- Fiber sensors
 
 featured: true
 
