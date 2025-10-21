@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Section spacing
-  spacing: '3rem'
+  spacing: '5rem'
 
 # Page sections
 sections:
@@ -21,7 +21,7 @@ sections:
     design:
       background:
         #color: 'primary'
-      view: card
+      view: slider
       columns: '2'
       show_description: false
       show_date: false
