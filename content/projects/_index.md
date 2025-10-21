@@ -13,7 +13,7 @@ sections:
   # Projects grid below
   - block: collection
     content:
-      #title: "Featured Projects"
+      title: "Featured Projects"
       #text: "Here are a selection of projects that our research group are currently working on."
       filters:
         folders:
@@ -22,8 +22,8 @@ sections:
       background:
         #color: 'primary'
       view: card
-      columns: '1'
-      show_description: false
+      columns: '2'
+      show_description: true
       show_date: false
       show_read_time: false
       show_read_more: false
