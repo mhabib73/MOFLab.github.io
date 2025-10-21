@@ -13,8 +13,8 @@ tags:
   #- Markdown
 image:
   # caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-  preview_only: true
+  focal_point: Left
+  preview_only: false
 
 ---
 
