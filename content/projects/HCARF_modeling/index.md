@@ -13,11 +13,11 @@ tags:
   #- Markdown
 image:
   # caption: Photo by rawpixel on Unsplash
-  focal_point: 'smart'
+  focal_point: ''
   preview_only: false
   placement: 1
-  width: 200
-  heigth: auto
+  width: 100
+  #heigth: auto
 authors:
   - admin
   - Mahfuz
