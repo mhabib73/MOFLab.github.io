@@ -30,7 +30,9 @@ abstract: Understanding the interplay between the core-guided modes and tube-mod
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Hollow-core fibers; multi-mode fibers; low-loss fibers
+- Hollow-core fibers
+- Multi-mode fibers
+- Low-loss fibers
 
 featured: true
 
