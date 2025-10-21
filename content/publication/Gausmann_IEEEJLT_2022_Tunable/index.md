@@ -1,5 +1,5 @@
 ---
-title: "Genetic-algorithm-based design of large-mode-area all-solid anti-resonant fiber with normal dispersion and single-mode operation in the 2 μm wavelength region"
+title: "Tunable dispersion and supercontinuum generation in disordered glass-air anderson localization fiber"
 authors:
 
 - S. Gausmann
@@ -61,7 +61,7 @@ links:
  # url: https://youtube.com
 #- type: link
  - name: link
-   url: https://ieeexplore.ieee.org/abstract/document/9998068
+   url: https://ieeexplore.ieee.org/document/9998068
   #url_source: https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-10-1253
 
 # Featured image
