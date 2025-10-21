@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Section spacing
-  spacing: '5rem'
+  spacing: '3rem'
 
 # Page sections
 sections:
@@ -21,13 +21,18 @@ sections:
   # Projects grid below
   - block: collection
     content:
-      title: "Featured Projects"
-      text: "Here are a selection of projects that our research group are currently working on."
+      #title: "Featured Projects"
+      #text: "Here are a selection of projects that our research group are currently working on."
       filters:
         folders:
           - projects
     design:
       view: article-grid
-      columns: 3
-      show_description: true
+      columns: 2
+      show_description: false
+      show_date: false
+      show_read_time: false
+      show_read_more: false
+      show_date: false
+
 ---
