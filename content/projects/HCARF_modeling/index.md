@@ -8,6 +8,26 @@ tags:
   - Hollow-core fibers
   #- HugoBlox
   #- Markdown
+
+sections:
+  - block: hero
+    
+    content:
+      title: '<div style="text-align: right; color: cyan;">Microstructure Optical Fiber Lab</div>'
+    design:
+      columns: "1"
+      background:
+        color: "#394B6E"
+        image:
+          filename: welcome.svg
+          filters:
+            brightness: 1
+          position: left
+          parallax: false
+          size: contain
+        padding: ["0px", "0px", "0px", "0px"]
+      #css_class: fullscreen
+
 ---
 
 - Accurate modeling of complex hollow-core anti-resonant fibers
