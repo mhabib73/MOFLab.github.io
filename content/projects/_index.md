@@ -21,7 +21,7 @@ sections:
     design:
       background:
         #color: 'primary'
-      view: list
+      view: card
       columns: '2'
       show_description: false
       show_date: false
