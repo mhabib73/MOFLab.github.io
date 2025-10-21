@@ -12,7 +12,7 @@ tags:
   #- HugoBlox
   #- Markdown
 
-#external_link: "https://github.com/teelinsan/camoscio"
+
 
 image:
   # caption: Photo by rawpixel on Unsplash
@@ -24,6 +24,6 @@ image:
 - State-of-the-art fiber fabrication
   - Fabricate various optical fibers
   - Fibers are fabricated in CREOL, Unviersity of Central Florida
-
+external_link: "https://creol.ucf.edu/person/rodrigo-amezcua-correa/"
 
 #<!--more-->
