@@ -2,7 +2,7 @@
 title: Projects
 
 # Listing view
-view: card
+view: detailed
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
