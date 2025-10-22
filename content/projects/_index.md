@@ -17,7 +17,7 @@ sections:
           - projects
     design:
       view: showcase
-      columns: 2
+      columns: 1
       background: 
         color: "#ffffff"
   
