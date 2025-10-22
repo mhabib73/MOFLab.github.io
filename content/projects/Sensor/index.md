@@ -13,6 +13,12 @@ tags:
   #- Markdown
 authors:
   - Mahfuz
+  - Pravallika
+  - admin
+author_notes:
+  - Phd Student
+  - Graduate stduent
+  - Principal Investigator
 ---
 
 - Develop low-cost and energy-efficient optical fiber sensors 
