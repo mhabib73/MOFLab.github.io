@@ -16,6 +16,7 @@ tags:
 
 
 image:
+  placement: 1
   # caption: Photo by rawpixel on Unsplash
   focal_point: Smart
   preview_only: false
