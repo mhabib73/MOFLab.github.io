@@ -11,13 +11,13 @@ sections:
   - block: collection
     content:
       title: 'MOFLab projects'
-      #text: text: '<p style="text-align:center; font-size:1.1rem;">Exploring optical fiber design, ultrafast photonics, and nonlinear fiber dynamics.</p>'
+      text: '<div style="grid-column: 1 / -1; text-align:center; font-size:1.1rem;">Exploring optical fiber design, ultrafast photonics, and nonlinear fiber dynamics.</div>'
       filters:
         folders:
           - projects
     design:
       view: showcase
-      columns: 1
+      columns: 2
       background: 
         color: "#ffffff"
   
