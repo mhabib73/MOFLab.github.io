@@ -22,6 +22,8 @@ image:
   preview_only: false
 authors:
   - admin
+author_notes:
+  - Principal Investigator
 
 ---
 
