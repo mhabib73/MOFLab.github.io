@@ -9,6 +9,9 @@ tags:
 authors:
   - admin
   - Mahfuz
+author_notes:
+  - Principal Investigator
+  - Phd student
 
 ---
 **MOFlab focues on:**
