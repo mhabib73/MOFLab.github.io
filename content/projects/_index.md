@@ -25,8 +25,8 @@ sections:
     design:
       view: showcase
       columns: 2
-        background: 
-          color: "#ffffff"
+      background: 
+        color: "#ffffff"
   
     sort_by: 'Date'
     sort_ascending: false
