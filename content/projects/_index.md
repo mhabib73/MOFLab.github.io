@@ -7,7 +7,7 @@ header:
   caption: ""
   image: ""
 
-view: card
+view: detailed
 
 cascade:
   show_breadcrumb: true
