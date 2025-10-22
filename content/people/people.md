@@ -13,22 +13,20 @@ title: Meet the Team
 subtitle:
 
 content:
-      title: Meet the Team
-      # Choose which groups/teams of users to display.
-      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-      user_groups:
-          - Principal Investigator
-          - Researchers
-          - Graduate Students
-          - Administration
-          - Visitors
-          - Collaborators
-          - Alumni
-    
-      sort_by: Params.last_name
-      sort_ascending: true
-    design:
-      show_interests: true
-      show_role: true
-      show_social: true
+  # Choose which groups/teams of users to display.
+  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+  user_groups:
+    - Principal Investigator 
+    - Co-Investigator
+    - Researchers
+    - Research Fellows
+    - PhD students
+    - Graduate students
+    - Affiliated Members
+    - Visitors
+    - Alumni
+design:
+  show_interests: true
+  show_role: true
+  show_social: true
 ---
