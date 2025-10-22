@@ -20,8 +20,8 @@ content:
     - Co-Investigator
     - Researchers
     - Research Fellows
-    - PhD students
-    - Graduate students
+    - PhD Students
+    - Graduate Students
     - Affiliated Members
     - Visitors
     - Alumni
