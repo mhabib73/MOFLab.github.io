@@ -7,7 +7,7 @@ tags:
   - Low-loss fibers
 
 ---
-MOFlab focues on:
+**MOFlab focues on:**
 
 - Accurate modeling of complex hollow-core anti-resonant fibers
   - Model various complex hollow-core fiber geometry
