@@ -17,8 +17,8 @@ sections:
 
   - block: collection
     content:
-      title: "MOFLab Projects"
-      text: "Exploring optical fiber design, ultrafast photonics, and nonlinear fiber dynamics."
+      title: '<div style="text-align:center;">MOFLab <span style="font-weight:300;">Projects</span></div>'
+      text: '<div style="text-align:left;">Exploring optical fiber design, ultrafast photonics, and nonlinear fiber dynamics.</div>'
       filters:
         folders:
           - projects
