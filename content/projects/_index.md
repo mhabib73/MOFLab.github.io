@@ -1,5 +1,5 @@
 ---
-widget: pages # As of v5.8-dev, 'pages' is renamed 'collection'
+#widget: pages # As of v5.8-dev, 'pages' is renamed 'collection'
 
 # Put Your Section Options Here (title, background, etc.) ...
 title: Research Areas
