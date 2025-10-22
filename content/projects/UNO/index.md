@@ -1,6 +1,6 @@
 ---
 title: "Investigate extreme light-matter interactions"
-summary: "Understand the extreme light-matter interactions in various medium."
+summary: "We investigate extreme light–matter interactions in hollow-core fibers, where intense laser fields interact with gases or plasmas confined within microscopic channels. Our research explores new regimes of nonlinear optics, and ultrafast light control, advancing the frontiers of photonics and attosecond science."
 date: 2025-10-20
 tags:
   - soliton
