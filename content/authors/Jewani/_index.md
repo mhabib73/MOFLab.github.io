@@ -25,7 +25,7 @@ role: Data analyst scientist
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Machine learing in fiber optics
+  - Machine learning in fiber optics
  
 
 
