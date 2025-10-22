@@ -7,19 +7,11 @@ design:
   spacing: "5rem"
 
 sections:
-  - block: hero
-    content:
-      title: '<div style="text-align: left;">MOFLab <span style="font-size: 2rem;">Projects</span></div>'
-      text: '<p style="text-align:center; font-size:1.1rem;">Exploring optical fiber design, ultrafast photonics, and nonlinear fiber dynamics.</p>'
-    design:
-      columns: 1
-      background:
-        color: "#ffffff"
 
   - block: collection
     content:
-      #title: '<div style="text-align:center;">MOFLab <span style="font-weight:300;">Projects</span></div>'
-      #text: '<div style="text-align:left;">Exploring optical fiber design, ultrafast photonics, and nonlinear fiber dynamics.</div>'
+      title: '<div style="text-align:center;">MOFLab <span style="font-weight:300;">Projects</span></div>'
+      text: text: '<p style="text-align:center; font-size:1.1rem;">Exploring optical fiber design, ultrafast photonics, and nonlinear fiber dynamics.</p>'
       filters:
         folders:
           - projects
