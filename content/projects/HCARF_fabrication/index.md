@@ -2,26 +2,14 @@
 title: Advanced optical fiber fabrication
 date: "2021-06-14T00:00:00Z"
 type: landing
+tags:
+  - Hollow-core fibers
+  - Single-mode fibers
+  - Low-loss fibers
+  - Multi-mode fibers
+
 
 sections:
-  - block: hero
-    
-    content:
-      title: '<div style="text-align: right; color: cyan;">Microstructure Optical Fiber Lab</div>'
-    design:
-      columns: "1"
-      background:
-        color: "#394B6E"
-        image:
-          filename: welcome.svg
-          filters:
-            brightness: 1
-          position: left
-          parallax: false
-          size: contain
-        padding: ["0px", "0px", "0px", "0px"]
-      #css_class: fullscreen
-
 
   - block: markdown
     content:
@@ -53,19 +41,6 @@ sections:
         * Ultrafast nonlinear optics
         <br>
         * Light-matter interactions
-  
-  - block: collection
-    content:
-      title: '<div style="text-align: left; color: black;">Featured articles</div>'
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'featured-article'
-    design:
-      view: citation
-      columns: '1'
-      text_align: left
+
 
 ---
