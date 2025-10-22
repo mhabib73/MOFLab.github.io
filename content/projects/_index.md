@@ -14,6 +14,7 @@ sections:
       text: |
         <p style="color:cyan; font-size:1.5rem;">MOFLab Projects: Exploring state-of-the-art optical fiber design and fabrication, low-cost and energy-efficient fiber sensors, and nonlinear fiber dynamics.</p>
     design:
+      column: "1"
       background:
         color: "#385F85"
 
