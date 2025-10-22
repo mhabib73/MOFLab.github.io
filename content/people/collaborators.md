@@ -12,7 +12,7 @@ headless: true
 weight: 70
 
 title: 'Our Collaborators'
-subtitle: 'At MOFLab we work with leading universities, research gourps and industry partners worldwide. Some of our collaborators include:'
+subtitle: 'At MOFLab we work with leading universities, research gourps and industry partners worldwide. Some of our present and past collaborators include:'
 
 design:
   columns: '2'
@@ -25,6 +25,8 @@ design:
 
 - [Microstructured fibers and devices group, CREOL, University of Central Florida, USA](https://creol.ucf.edu/person/rodrigo-amezcua-correa/)
 - [Darren Hudson's group, CREOL, University of Central Florda, USA](https://creol.ucf.edu/person/darren-hudson/)
+- [Nonlinear & Quantum Optics Group, University of Miami, USA](https://sites.google.com/view/nlqopticsgroup/home)
+- [Relativity Networks Inc., Florida, USA](https://relativitynetworks.ai/)
 - [Neural Devices & Gas Photonics, Technical University of Denmark, Denmark](https://orbit.dtu.dk/en/persons/christos-markos)
 - [Fiber Sensors & Supercontinuum, Technical University of Denmark, Denmark](https://orbit.dtu.dk/en/organisations/fiber-sensors-supercontinuum-2/persons/)
-- [Relativity Networks Inc., Florida, USA](https://relativitynetworks.ai/)
+
