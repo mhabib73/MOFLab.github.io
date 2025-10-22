@@ -1,6 +1,6 @@
 ---
 widget: collection
-title: Projects
+title: Selected Projects
 cms_exclude: true
 
 # Optional header image (relative to `static/media/` folder).
@@ -10,8 +10,18 @@ header:
 
 view: detailed
 
+weight: 10
+
 content:
   # Filter content to display
+  filters:
+    # The folders to display content from
+    folders:
+      - projects
+    featured_only: false
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
 #    tag: ''
 #    category: ''
 #    publication_type: ''
