@@ -7,6 +7,9 @@ tags:
   - Hollow-core fibers
   - Ultrafast nonlinear optics
   - Supercontinuum generation
+
+authors:
+  - admin
 ---
 
 - Soliton pulse compression
