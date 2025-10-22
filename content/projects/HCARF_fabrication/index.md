@@ -15,12 +15,12 @@ sections:
     content:
       title: |
         
-      #image:
-        #filename: welcome.png
-        #filters:
-          #brightness: 1
-        #position: center
-        #size: cover
+      image:
+        filename: welcome.svg
+        filters:
+          brightness: 1
+        position: center
+        size: contain
       text: |
         <br>
         We investigate next-generation optical fiber technologies that redefine how light travels. Our work centers on innovative hollow-core fibers—engineered with microscopic air channels that let light propagate faster,
@@ -44,3 +44,10 @@ sections:
 
 
 ---
+
+- State-of-the-art fiber fabrication
+  - Fabricate various optical fibers
+  - Fibers are fabricated in CREOL, Unviersity of Central Florida
+  <br><br>
+You can click [here](https://creol.ucf.edu/person/rodrigo-amezcua-correa/) to know about the CREOL group.
+
