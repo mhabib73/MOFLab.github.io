@@ -11,10 +11,10 @@ sections:
   - block: hero
     content:
       #title: '<div style="grid-column: 1 / -1; text-align:left; font-size:1rem;">MOFLab projects</div>'
-      text: 'MOFLab Projects - Exploring optical fiber design, ultrafast photonics, and nonlinear fiber dynamics.'
+      text: 'MOFLab Projects - Exploring state-of-the-art optical fiber design and fabrication, ultrafast photonics, and nonlinear fiber dynamics.'
     design:
       background:
-        color: "#60D7F0"
+        color: "#71548C"
 
   - block: collection
     content:
