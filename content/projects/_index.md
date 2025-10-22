@@ -11,7 +11,7 @@ sections:
   - block: hero
     content:
       #title: '<div style="grid-column: 1 / -1; text-align:left; font-size:1rem;">MOFLab projects</div>'
-      text: '<p style="color:cyan; font-size:1.5rem;">Exploring optical fiber design, ultrafast photonics, and nonlinear fiber dynamics.</p>'
+      text: ''<p style="color:cyan; font-size:1.5rem;">MOFLab Projects: Exploring state-of-the-art optical fiber design and fabrication, low-cost and energy-efficient fiber sensors, and nonlinear fiber dynamics.</p>''
     design:
       background:
         color: "#385F85"
