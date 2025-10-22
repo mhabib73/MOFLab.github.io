@@ -17,15 +17,14 @@ sections:
 
   - block: collection
     content:
-      title: ""
-      text: ""
+      title: "MOFLab Projects"
+      text: "Exploring optical fiber design, ultrafast photonics, and nonlinear fiber dynamics."
       filters:
         folders:
           - projects
     design:
       view: showcase
       columns: 2
-    cascade:
   
     sort_by: 'Date'
     sort_ascending: false
