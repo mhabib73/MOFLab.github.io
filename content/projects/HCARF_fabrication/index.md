@@ -1,6 +1,6 @@
 ---
 title: Advanced optical fiber fabrication
-summary: "Fabrication of various speciality optical fibers."
+summary: "Optical fiber fabrication involves the precise creation of glass fibers that guide light with minimal loss. Using advanced techniques such as chemical vapor deposition and fiber drawing, high-purity silica preforms are heated and stretched into thin, flexible fibers that form the backbone of modern communication, sensing, and photonic technologies."
 date: "2021-06-14T00:00:00Z"
 #links:
   #- type: home
