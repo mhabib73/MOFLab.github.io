@@ -3,12 +3,11 @@ title: "Design and modeling for advanced optical fibers"
 summary: "Our research focuses on the design and numerical modeling of next-generation optical fibers with tailored microstructures for enhanced light confinement, dispersion control, and nonlinear performance. By combining computational simulations with theoretical analysis, we develop innovative fiber geometries to enable breakthroughs in sensing, communications, and high-power laser applications."
 date: 2025-10-20
 tags:
-  - soliton
   - Hollow-core fibers
-  - Ultrafast nonlinear optics
-  - Supercontinuum generation
+  - Low-loss fibers
 
 ---
+MOFlab focues on:
 
 - Accurate modeling of complex hollow-core anti-resonant fibers
   - Model various complex hollow-core fiber geometry
