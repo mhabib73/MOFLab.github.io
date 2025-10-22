@@ -27,3 +27,4 @@ design:
 - [Darren Hudson's group, CREOL, University of Central Florda, USA](https://creol.ucf.edu/person/darren-hudson/)
 - [Neural Devices & Gas Photonics, Technical University of Denmark, Denmark](https://orbit.dtu.dk/en/persons/christos-markos)
 - [Fiber Sensors & Supercontinuum, Technical University of Denmark, Denmark](https://orbit.dtu.dk/en/organisations/fiber-sensors-supercontinuum-2/persons/)
+- [Relativity Networks Inc., Florida, USA](https://relativitynetworks.ai/)
