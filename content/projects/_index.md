@@ -23,6 +23,6 @@ sections:
         folders:
           - projects
     design:
-      view: card
+      view: showcase
       columns: 2
 ---
