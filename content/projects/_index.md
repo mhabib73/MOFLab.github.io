@@ -10,7 +10,7 @@ sections:
   - block: hero
     content:
       title: '<div style="text-align: left;">MOFLab <span style="font-weight: 100;">Projects</span></div>'
-      text: '<div style="text-align: center;">Exploring optical fiber design, ultrafast photonics, and nonlinear fiber dynamics.</div>'
+      text: '<p style="text-align:center; font-size:1.1rem;">Exploring optical fiber design, ultrafast photonics, and nonlinear fiber dynamics.</p>'
     design:
       background:
         color: "#ffffff"
