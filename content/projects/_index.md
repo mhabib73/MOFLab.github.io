@@ -1,11 +1,16 @@
 ---
-title: Projects
+title: Proyectos
+cms_exclude: true
 
-# Listing view
+# Optional header image (relative to `static/media/` folder).
+header:
+  caption: ""
+  image: ""
+
 view: card
 
-# Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
+cascade:
+  show_breadcrumb: true
+  show_related: true
+  commentable: true
 ---
