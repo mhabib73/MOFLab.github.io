@@ -8,7 +8,7 @@ design:
 
 sections:
 
-  - block: hero
+  - block: markdown
     content:
       #title: '<div style="grid-column: 1 / -1; text-align:left; font-size:1rem;">MOFLab projects</div>'
       text: |
