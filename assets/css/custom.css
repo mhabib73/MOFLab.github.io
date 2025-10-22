@@ -14,3 +14,24 @@
         height: auto;
         background: transparent;
 }
+
+/* Make project grid resemble LUPO’s style */
+.card {
+  border: none;
+  box-shadow: none;
+}
+
+.card img {
+  max-height: 220px;
+  object-fit: contain;
+  margin-bottom: 1rem;
+}
+
+.card-title {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.card-text {
+  color: #555;
+}
