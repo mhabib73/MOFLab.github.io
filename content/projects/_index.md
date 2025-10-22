@@ -19,7 +19,7 @@ sections:
       view: showcase
       columns: 2
       background: 
-        color: "navy"
+        color: "white"
   
     sort_by: 'Date'
     sort_ascending: false
