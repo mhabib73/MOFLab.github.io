@@ -1,5 +1,5 @@
 ---
-widget: collection
+widget: hero
 title: Selected Projects
 cms_exclude: true
 
