@@ -8,6 +8,8 @@ tags:
   - Ultrafast nonlinear optics
   - Supercontinuum generation
 
+profile: true
+
 authors:
   - admin
 author_notes:
