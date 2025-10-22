@@ -1,4 +1,5 @@
 ---
+widget: collection
 title: Projects
 cms_exclude: true
 
