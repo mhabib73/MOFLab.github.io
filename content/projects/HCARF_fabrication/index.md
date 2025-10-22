@@ -1,5 +1,6 @@
 ---
 title: Advanced optical fiber fabrication
+summary: "Fabrication of various speciality optical fibers."
 date: "2021-06-14T00:00:00Z"
 #links:
   #- type: home
