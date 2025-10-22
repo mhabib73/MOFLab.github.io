@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc Student
+role: Data analyst scientist
 
 # Organizations/Affiliations
 #organizations:
