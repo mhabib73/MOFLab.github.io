@@ -10,8 +10,8 @@ sections:
 
   - block: collection
     content:
-      title: '<div style="grid-column: 1 / -1; text-align:center; font-size:3rem;">MOFLab projects</div>'
-      text: '<div style="grid-column: 1 / -1; text-align:center; font-size:2rem;">Exploring optical fiber design, ultrafast photonics, and nonlinear fiber dynamics.</div>'
+      title: '<div style="grid-column: 1 / -1; text-align:left; font-size:1.6rem;">MOFLab projects</div>'
+      text: '<div style="grid-column: 1 / -1; text-align:left; font-size:1.3rem;">Exploring optical fiber design, ultrafast photonics, and nonlinear fiber dynamics.</div>'
       filters:
         folders:
           - projects
