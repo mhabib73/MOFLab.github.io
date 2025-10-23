@@ -22,8 +22,8 @@ sections:
             brightness: 1
           position: center
           parallax: false
-          size: 70%
-          padding: ['40px', '0', '100px', '0']
+          size: 60%
+          padding: ['420px', '0', '20px', '0']
         
       #spacing:
         #padding: ['20px', '0', '20px', '0']
