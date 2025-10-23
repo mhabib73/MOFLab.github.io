@@ -50,8 +50,8 @@ sections:
 
 ---
 
-<div id='header-text' style="height: 30vh">
+#<div id='header-text' style="height: 30vh">
 
-</div>
+#</div>
 
 
