@@ -40,10 +40,10 @@ sections:
           filters:
             brightness: 1
           position: center
-          parallax: false
+          parallax: true
           size: contain
-      css_class: halfscreen
-      padding: ['0px', '0', '0px', '0']
+        css_class: fullscreen
+      #padding: ['0px', '0', '0px', '0']
 
 
   - block: markdown
