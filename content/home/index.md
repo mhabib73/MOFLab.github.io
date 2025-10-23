@@ -33,6 +33,7 @@ sections:
       alignment:
         horizontal: center
         vertical: middle
+      css_class: fullscreen
       background:
         color: "#394B6E"
         image:
@@ -41,8 +42,8 @@ sections:
             brightness: 1
           position: center
           parallax: false
-          size: contain
-    css_class: fullscreen
+          size: cover
+            
       #padding: ['0px', '0', '0px', '0']
 
 
