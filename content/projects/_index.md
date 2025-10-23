@@ -21,13 +21,12 @@ sections:
           filename: project.svg
           filters:
             brightness: 1
-          position: left
+          position: center
           parallax: false
-          size: 80%
+          size: 50%
         
       spacing:
         padding: ['20px', '0', '20px', '0']
-      css_class: halfscreen
         
 
   - block: collection
