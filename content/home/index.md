@@ -30,6 +30,9 @@ sections:
       text: |
     design:
       column: "1"
+      alignment:
+        horizontal: center
+        vertical: middle
       background:
         color: "#103B5C"
         image:
@@ -39,7 +42,7 @@ sections:
           position: center
           parallax: false
           size: contain
-          #padding: ['0px', '0', '0px', '0']
+      padding: ['80px', '0', '50px', '0']
 
 
   - block: markdown
