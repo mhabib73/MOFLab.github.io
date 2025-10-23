@@ -22,7 +22,7 @@ sections:
             brightness: 1
           position: center
           parallax: false
-          size: 80%
+          size: 70%
           #padding: ['20px', '0', '20px', '0']
         
       #spacing:
