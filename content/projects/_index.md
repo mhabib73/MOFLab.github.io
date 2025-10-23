@@ -15,7 +15,7 @@ sections:
     design:
       column: "1"
       background:
-        color: "#02121F"
+        color: "#10283B"
         image:
           filename: project.svg
           filters:
