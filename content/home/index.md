@@ -18,7 +18,7 @@ sections:
         vertical: middle
       #css_class: fullscreen
       background:
-        #color: "#394B6E"
+        color: "#394B6E"
         image:
           filename: home_page_v1.svg
           filters:
@@ -28,7 +28,10 @@ sections:
           size: contain
     content:
       title: |       
-      text: |            
+      text: |  
+      <br>
+      <br>
+      <br>
       #padding: ['0px', '0', '0px', '0']
 
 
@@ -36,7 +39,6 @@ sections:
     content:
       title: |       
       text: |
-        <br>
         We investigate next-generation optical fiber technologies that redefine how light travels. Our work centers on innovative hollow-core fibers—engineered with microscopic air channels that let light propagate faster,
         over longer distances, and with exceptionally low loss. Through advanced microstructured designs, we aim to achieve ultra-low transmission loss, minimal latency, and broad bandwidth, opening new possibilities for
         the future of high-speed communication, data networks, and beyond.
