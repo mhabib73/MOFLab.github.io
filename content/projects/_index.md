@@ -15,15 +15,15 @@ sections:
     design:
       column: "1"
       background:
-        color: "#103B5C"
+        color: "#02121F"
         image:
           filename: project.svg
           filters:
             brightness: 1
           position: center
           parallax: false
-          size: 60%
-          padding: ['420px', '0', '20px', '0']
+          size: 55%
+          #padding: ['420px', '0', '20px', '0']
         
       #spacing:
         #padding: ['20px', '0', '20px', '0']
