@@ -33,13 +33,13 @@ sections:
       background:
         color: "#163E82"
         image:
-          filename: project.svg
+          filename: home_page.svg
           filters:
             brightness: 1
           position: center
           parallax: false
           size: 80%
-          #padding: ['20px', '0', '20px', '0']
+          #padding: ['0px', '0', '0px', '0']
 
 
   - block: markdown
