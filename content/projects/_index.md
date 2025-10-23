@@ -22,12 +22,12 @@ sections:
           filters:
             brightness: 1
           position: left
-          parallax: true
-          size: cover
+          parallax: false
+          size: 80%
         
       spacing:
         padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+      css_class: halfscreen
         
 
   - block: collection
