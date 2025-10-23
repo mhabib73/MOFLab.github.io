@@ -20,7 +20,7 @@ sections:
         image:
           filename: project.svg
           filters:
-            brightness: .5
+            brightness: 1
           position: left
           parallax: false
           size: cover
