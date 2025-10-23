@@ -34,7 +34,7 @@ sections:
         horizontal: center
         vertical: middle
       background:
-        color: "#103B5C"
+        color: "#02121F"
         image:
           filename: home_page.svg
           filters:
