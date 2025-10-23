@@ -28,10 +28,7 @@ sections:
           size: contain
     content:
       title: |       
-      text: |
-        <br>
-        <br><br>
-            
+      text: |            
       #padding: ['0px', '0', '0px', '0']
 
 
