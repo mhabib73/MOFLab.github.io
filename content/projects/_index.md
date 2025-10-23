@@ -25,8 +25,8 @@ sections:
           parallax: false
           size: 50%
         
-      spacing:
-        padding: ['20px', '0', '20px', '0']
+      #spacing:
+        #padding: ['20px', '0', '20px', '0']
         
 
   - block: collection
