@@ -43,7 +43,7 @@ sections:
           parallax: false
           size: contain
       css_class: fullscreen
-      #padding: ['80px', '0', '50px', '0']
+      padding: ['0px', '0', '0px', '0']
 
 
   - block: markdown
