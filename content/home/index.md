@@ -28,11 +28,6 @@ sections:
           size: cover
             
       #padding: ['0px', '0', '0px', '0']
-
-
-  - block: markdown
-    content:
-      title: |
   
   - block: collection
     content:
