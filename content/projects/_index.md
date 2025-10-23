@@ -18,7 +18,7 @@ sections:
       background:
         color: "#16345C"
         image:
-          filename: welcome.svg
+          filename: project.svg
           filters:
             brightness: 1
           position: left
