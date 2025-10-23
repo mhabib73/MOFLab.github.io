@@ -4,22 +4,22 @@ date: 2025-10-12
 type: landing
 
 sections:
-  - block: hero
+  #- block: hero
     
-    content:
-      title: '<div style="text-align: right; color: cyan;">Microstructure Optical Fiber Lab</div>'
-    design:
-      columns: "1"
-      background:
-        color: "#394B6E"
-        image:
-          filename: project.svg
-          filters:
-            brightness: 1
-          position: center
-          parallax: false
-          size: contain
-        padding: ["0px", "0px", "0px", "0px"]
+    #content:
+      #title: '<div style="text-align: right; color: cyan;">Microstructure Optical Fiber Lab</div>'
+    #design:
+      #columns: "1"
+      #background:
+        #color: "#394B6E"
+        #image:
+          #filename: project.svg
+          #filters:
+            #brightness: 1
+          #position: center
+          #parallax: false
+          #size: contain
+        #padding: ["0px", "0px", "0px", "0px"]
       #css_class: fullscreen
 
 
