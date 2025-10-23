@@ -16,14 +16,14 @@ sections:
     design:
       column: "1"
       background:
-        color: "#112342"
+        color: "#163E82"
         image:
           filename: project.svg
           filters:
             brightness: .5
           position: left
           parallax: false
-          size: contain
+          size: cover
         padding: ["0px", "0px", "0px", "0px"]
         
 
