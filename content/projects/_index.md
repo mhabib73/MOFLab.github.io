@@ -12,11 +12,11 @@ sections:
     content:
       #title: '<div style="grid-column: 1 / -1; text-align:left; font-size:1rem;">MOFLab projects</div>'
       text: |
-        <p style="color:white; font-size:1.5rem;">MOFLab Projects: Exploring state-of-the-art optical fiber design and fabrication, low-cost and energy-efficient fiber sensors, and nonlinear fiber dynamics.</p> 
+        <p style="color:white; font-size:1.8rem;">MOFLab Projects: Exploring state-of-the-art optical fiber design and fabrication, low-cost and energy-efficient fiber sensors, and nonlinear fiber dynamics.</p> 
     design:
       column: "1"
       background:
-        color: "#10283B"
+        color: "#0A3452"
         #image:
           #filename: project.svg
           #filters:
