@@ -33,6 +33,8 @@ sections:
   - block: hero
     content:
       title: |
+    design:
+      column: "1"
         
       image:
         filename: home_page_v1.svg
