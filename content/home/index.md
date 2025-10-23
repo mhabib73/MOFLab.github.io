@@ -16,7 +16,7 @@ sections:
           filename: project.svg
           filters:
             brightness: 1
-          position: left
+          position: center
           parallax: false
           size: contain
         padding: ["0px", "0px", "0px", "0px"]
