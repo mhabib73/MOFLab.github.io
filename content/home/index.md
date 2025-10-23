@@ -29,9 +29,9 @@ sections:
     content:
       title: |       
       text: |  
-      <br>
-      <br>
-      <br>
+        <br>
+        <br>
+        <br>
       #padding: ['0px', '0', '0px', '0']
 
 
