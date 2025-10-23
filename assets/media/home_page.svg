@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="342.26764mm"
-   height="72.965492mm"
-   viewBox="0 0 342.26763 72.965494"
+   height="93.337822mm"
+   viewBox="0 0 342.26763 93.337824"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
@@ -246,54 +246,54 @@
        xlink:href="#linearGradient2310"
        id="linearGradient2312"
        x1="223.79503"
-       y1="74.092813"
+       y1="74.092812"
        x2="235.31889"
-       y2="74.092813"
+       y2="74.092812"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2310"
        id="linearGradient2314"
-       x1="281.99041"
-       y1="74.097119"
+       x1="281.99042"
+       y1="74.097122"
        x2="293.5401"
-       y2="74.097119"
+       y2="74.097122"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2310"
        id="linearGradient2316"
        x1="343.98773"
-       y1="74.092813"
+       y1="74.092812"
        x2="349.75827"
-       y2="74.092813"
+       y2="74.092812"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2310"
        id="linearGradient2318"
-       x1="400.13955"
-       y1="74.092813"
-       x2="405.94453"
-       y2="74.092813"
+       x1="400.13956"
+       y1="74.092812"
+       x2="405.94452"
+       y2="74.092812"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2310"
        id="linearGradient2320"
        x1="453.64734"
-       y1="74.092813"
-       x2="463.72425"
-       y2="74.092813"
+       y1="74.092812"
+       x2="463.72424"
+       y2="74.092812"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2310"
        id="linearGradient2322"
-       x1="515.79813"
-       y1="74.092813"
-       x2="522.81751"
-       y2="74.092813"
+       x1="515.79816"
+       y1="74.092812"
+       x2="522.8175"
+       y2="74.092812"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -304,7 +304,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="831.83723"
+     inkscape:cx="831.83721"
      inkscape:cy="101.49499"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -999,7 +999,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:17.6389px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#00f8ff;fill-opacity:1;opacity:1;"
+       style="font-size:17.6389px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;opacity:1;fill:#00f8ff;fill-opacity:1;stroke-width:0.264583"
        x="229.55696"
        y="80.26815"
        id="text2100"><tspan
@@ -1007,10 +1007,10 @@
          id="tspan2098"
          x="229.55696"
          y="80.26815"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.6389px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';stroke-width:0.264583;fill:#00f8ff;fill-opacity:1;">M</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.6389px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';fill:#00f8ff;fill-opacity:1;stroke-width:0.264583">M</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:17.6389px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#00f8ff;fill-opacity:1;opacity:1;"
+       style="font-size:17.6389px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;opacity:1;fill:#00f8ff;fill-opacity:1;stroke-width:0.264583"
        x="287.76526"
        y="80.26815"
        id="text2104"><tspan
@@ -1018,10 +1018,10 @@
          id="tspan2102"
          x="287.76526"
          y="80.26815"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.6389px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';stroke-width:0.264583;fill:#00f8ff;fill-opacity:1;">O</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.6389px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';fill:#00f8ff;fill-opacity:1;stroke-width:0.264583">O</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:17.6389px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#00f8ff;fill-opacity:1;opacity:1;"
+       style="font-size:17.6389px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;opacity:1;fill:#00f8ff;fill-opacity:1;stroke-width:0.264583"
        x="346.50266"
        y="80.26815"
        id="text2108"><tspan
@@ -1029,10 +1029,10 @@
          id="tspan2106"
          x="346.50266"
          y="80.26815"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.6389px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';stroke-width:0.264583;fill:#00f8ff;fill-opacity:1;">F</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.6389px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';fill:#00f8ff;fill-opacity:1;stroke-width:0.264583">F</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:17.6389px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#00f8ff;fill-opacity:1;opacity:1;"
+       style="font-size:17.6389px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;opacity:1;fill:#00f8ff;fill-opacity:1;stroke-width:0.264583"
        x="402.59418"
        y="80.26815"
        id="text2112"><tspan
@@ -1040,10 +1040,10 @@
          id="tspan2110"
          x="402.59418"
          y="80.26815"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.6389px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';stroke-width:0.264583;fill:#00f8ff;fill-opacity:1;">L</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.6389px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';fill:#00f8ff;fill-opacity:1;stroke-width:0.264583">L</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:17.6389px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#00f8ff;fill-opacity:1;opacity:1;"
+       style="font-size:17.6389px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;opacity:1;fill:#00f8ff;fill-opacity:1;stroke-width:0.264583"
        x="458.68579"
        y="80.26815"
        id="text2116"><tspan
@@ -1051,10 +1051,10 @@
          id="tspan2114"
          x="458.68579"
          y="80.26815"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.6389px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';stroke-width:0.264583;fill:#00f8ff;fill-opacity:1;">A</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.6389px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';fill:#00f8ff;fill-opacity:1;stroke-width:0.264583">A</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:17.6389px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#00f8ff;fill-opacity:1;opacity:1;"
+       style="font-size:17.6389px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;opacity:1;fill:#00f8ff;fill-opacity:1;stroke-width:0.264583"
        x="519.01068"
        y="80.26815"
        id="text2120"><tspan
@@ -1062,6 +1062,17 @@
          id="tspan2118"
          x="519.01068"
          y="80.26815"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.6389px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';stroke-width:0.264583;fill:#00f8ff;fill-opacity:1;">B</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.6389px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';fill:#00f8ff;fill-opacity:1;stroke-width:0.264583">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.6389px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;opacity:1;fill:#00f8ff;fill-opacity:1;stroke-width:0.264583"
+       x="373.29968"
+       y="156.99199"
+       id="text2344"><tspan
+         sodipodi:role="line"
+         id="tspan2342"
+         x="373.29968"
+         y="156.99199"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.6389px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';fill:#00f8ff;fill-opacity:1;stroke-width:0.264583">microstructure optical fiber lab</tspan></text>
   </g>
 </svg>
