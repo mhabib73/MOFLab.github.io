@@ -23,7 +23,7 @@ sections:
           position: center
           parallax: false
           size: 70%
-          #padding: ['0px', '0', '0px', '0']
+          padding: ['40px', '0', '100px', '0']
         
       #spacing:
         #padding: ['20px', '0', '20px', '0']
