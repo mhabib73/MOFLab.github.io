@@ -42,7 +42,7 @@ sections:
             brightness: 1
           position: center
           parallax: false
-          size: contain
+          size: cover
             
       #padding: ['0px', '0', '0px', '0']
 
