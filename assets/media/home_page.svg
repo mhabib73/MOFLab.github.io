@@ -22,6 +22,18 @@
   <defs
      id="defs2">
     <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2310">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2306" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop2308" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient2950"
        osb:paint="solid">
       <stop
@@ -229,6 +241,60 @@
          cy="1566.9664"
          r="62.670753" />
     </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2310"
+       id="linearGradient2312"
+       x1="223.79503"
+       y1="74.092813"
+       x2="235.31889"
+       y2="74.092813"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2310"
+       id="linearGradient2314"
+       x1="281.99041"
+       y1="74.097119"
+       x2="293.5401"
+       y2="74.097119"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2310"
+       id="linearGradient2316"
+       x1="343.98773"
+       y1="74.092813"
+       x2="349.75827"
+       y2="74.092813"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2310"
+       id="linearGradient2318"
+       x1="400.13955"
+       y1="74.092813"
+       x2="405.94453"
+       y2="74.092813"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2310"
+       id="linearGradient2320"
+       x1="453.64734"
+       y1="74.092813"
+       x2="463.72425"
+       y2="74.092813"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2310"
+       id="linearGradient2322"
+       x1="515.79813"
+       y1="74.092813"
+       x2="522.81751"
+       y2="74.092813"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -933,7 +999,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:17.6389px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       style="font-size:17.6389px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#009fff;fill-opacity:1;"
        x="229.55696"
        y="80.26815"
        id="text2100"><tspan
@@ -941,10 +1007,10 @@
          id="tspan2098"
          x="229.55696"
          y="80.26815"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.6389px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';stroke-width:0.264583">M</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.6389px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';stroke-width:0.264583;fill:#009fff;fill-opacity:1;">M</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:17.6389px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       style="font-size:17.6389px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#009fff;fill-opacity:1;"
        x="287.76526"
        y="80.26815"
        id="text2104"><tspan
@@ -952,10 +1018,10 @@
          id="tspan2102"
          x="287.76526"
          y="80.26815"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.6389px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';stroke-width:0.264583">O</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.6389px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';stroke-width:0.264583;fill:#009fff;fill-opacity:1;">O</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:17.6389px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       style="font-size:17.6389px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#009fff;fill-opacity:1;"
        x="346.50266"
        y="80.26815"
        id="text2108"><tspan
@@ -963,10 +1029,10 @@
          id="tspan2106"
          x="346.50266"
          y="80.26815"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.6389px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';stroke-width:0.264583">F</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.6389px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';stroke-width:0.264583;fill:#009fff;fill-opacity:1;">F</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:17.6389px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       style="font-size:17.6389px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#009fff;fill-opacity:1;"
        x="402.59418"
        y="80.26815"
        id="text2112"><tspan
@@ -974,10 +1040,10 @@
          id="tspan2110"
          x="402.59418"
          y="80.26815"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.6389px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';stroke-width:0.264583">L</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.6389px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';stroke-width:0.264583;fill:#009fff;fill-opacity:1;">L</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:17.6389px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       style="font-size:17.6389px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#009fff;fill-opacity:1;"
        x="458.68579"
        y="80.26815"
        id="text2116"><tspan
@@ -985,10 +1051,10 @@
          id="tspan2114"
          x="458.68579"
          y="80.26815"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.6389px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';stroke-width:0.264583">A</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.6389px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';stroke-width:0.264583;fill:#009fff;fill-opacity:1;">A</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:17.6389px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       style="font-size:17.6389px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#009fff;fill-opacity:1;"
        x="519.01068"
        y="80.26815"
        id="text2120"><tspan
@@ -996,6 +1062,6 @@
          id="tspan2118"
          x="519.01068"
          y="80.26815"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.6389px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';stroke-width:0.264583">B</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.6389px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Light';stroke-width:0.264583;fill:#009fff;fill-opacity:1;">B</tspan></text>
   </g>
 </svg>
