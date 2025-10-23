@@ -42,7 +42,7 @@ sections:
           position: center
           parallax: false
           size: contain
-      css_class: fullscreen
+      css_class: halfscreen
       padding: ['0px', '0', '0px', '0']
 
 
