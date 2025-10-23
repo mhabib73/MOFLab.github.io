@@ -2,8 +2,8 @@
 title:
 date: 2025-10-12
 type: landing
-design:
-  spacing: "5rem"
+#design:
+  #spacing: "5rem"
 
 sections:
 
