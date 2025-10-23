@@ -30,18 +30,9 @@ sections:
       #padding: ['0px', '0', '0px', '0']
 
 
-  - block: hero
+  - block: markdown
     content:
-      title: |
-    design:
-      column: "1"
-        
-      image:
-        filename: home_page_v1.svg
-        filters:
-          brightness: 1
-        position: center
-        size: cover
+      title: |       
       text: |
         <br>
         We investigate next-generation optical fiber technologies that redefine how light travels. Our work centers on innovative hollow-core fibers—engineered with microscopic air channels that let light propagate faster,
