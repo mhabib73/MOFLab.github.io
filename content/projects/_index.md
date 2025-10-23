@@ -17,6 +17,15 @@ sections:
       column: "1"
       background:
         color: "#16345C"
+        image:
+          filename: welcome.svg
+          filters:
+            brightness: 1
+          position: left
+          parallax: false
+          size: contain
+        padding: ["0px", "0px", "0px", "0px"]
+        
 
   - block: collection
     content:
