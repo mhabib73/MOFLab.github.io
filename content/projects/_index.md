@@ -24,6 +24,7 @@ sections:
           position: center
           parallax: false
           size: 100%
+          padding: ['20px', '0', '20px', '0']
         
       #spacing:
         #padding: ['20px', '0', '20px', '0']
