@@ -25,7 +25,7 @@ sections:
             brightness: 1
           position: center
           parallax: false
-          size: contain
+          size: cover
     content:
       title: |       
       text: |  
