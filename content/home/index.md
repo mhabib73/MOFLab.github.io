@@ -22,6 +22,23 @@ sections:
         #padding: ["0px", "0px", "0px", "0px"]
       #css_class: fullscreen
 
+  - block: markdown
+    content:
+      #title: '<div style="grid-column: 1 / -1; text-align:left; font-size:1rem;">MOFLab projects</div>'
+      text: |
+    design:
+      column: "1"
+      background:
+        color: "#163E82"
+        image:
+          filename: project.svg
+          filters:
+            brightness: 1
+          position: center
+          parallax: false
+          size: 80%
+          #padding: ['20px', '0', '20px', '0']
+
 
   - block: markdown
     content:
