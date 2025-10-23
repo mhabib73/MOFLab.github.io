@@ -24,7 +24,7 @@ sections:
         #padding: ["0px", "0px", "0px", "0px"]
       #css_class: fullscreen
 
-  - block: collection
+  - block: markdown
     content:
       #title: '<div style="grid-column: 1 / -1; text-align:left; font-size:1rem;">MOFLab projects</div>'
       text: |
@@ -42,6 +42,7 @@ sections:
           position: center
           parallax: false
           size: contain
+      css_class: fullscreen
       #padding: ['80px', '0', '50px', '0']
 
 
