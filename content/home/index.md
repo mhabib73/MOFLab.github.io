@@ -18,7 +18,7 @@ sections:
         vertical: middle
       #css_class: fullscreen
       background:
-        color: "#394B6E"
+        color: "#4C4B7D"
         image:
           filename: home_page_v4.svg
           filters:
