@@ -16,6 +16,8 @@ author_notes:
   - Principal Investigator
 ---
 
+Investigating extreme light–matter interactions in hollow-core fibers is crucial for advancing ultrafast nonlinear optics. By confining intense laser pulses within gas- or plasma-filled microstructures, these fibers provide a unique platform to explore phenomena such as soliton dynamics and strong-field ionization under precisely controlled conditions. The main goals of this project are to unveil new regimes of nonlinear light propagation, develop compact sources of coherent radiation from the ultraviolet to mid-infrared, and enable next-generation applications in attosecond science, quantum technologies, and high-field spectroscopy.
+
 - Soliton pulse compression
 - Supercontinuum generation
 - Efficient UV laser source design
