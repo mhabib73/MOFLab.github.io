@@ -11,7 +11,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 date: "2021-01-20T00:00:00Z"
-doi: 0.1109/JSTQE.2015.2512989
+doi: 10.1109/JSTQE.2015.2512989
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-10-01T00:00:00Z"
