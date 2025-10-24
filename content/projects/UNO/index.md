@@ -13,7 +13,7 @@ profile: true
 #image:
   #filename: featured.svg
   #alt_text: "Hollow-core fiber simulation"
-![Hollow-core fiber simulation](featured.svg)
+#![Hollow-core fiber simulation](featured.svg)
 
 authors:
   - admin
