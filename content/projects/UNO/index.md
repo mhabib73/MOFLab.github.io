@@ -10,10 +10,6 @@ tags:
 
 profile: true
 
-#image:
-  #filename: welcome.svg
-  #alt_text: "Hollow-core fiber simulation"
-![Hollow-core fiber simulation](welcome.svg)
 
 authors:
   - admin
