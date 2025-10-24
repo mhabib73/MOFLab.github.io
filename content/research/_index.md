@@ -36,7 +36,7 @@ sections:
       text: |
       filters:
         folders:
-          - projects
+          - research
     design:
       view: showcase
       columns: 2
