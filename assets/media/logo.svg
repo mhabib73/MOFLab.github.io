@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="283.26413mm"
-   height="49.53421mm"
-   viewBox="0 0 283.26413 49.534211"
+   width="253.41339mm"
+   height="49.16293mm"
+   viewBox="0 0 253.41339 49.16293"
    version="1.1"
    id="svg3333"
-   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    sodipodi:docname="logo.svg"
    inkscape:export-filename="C:\Users\selim\Downloads\welcome.png"
    inkscape:export-xdpi="500"
-   inkscape:export-ydpi="500">
+   inkscape:export-ydpi="500"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs3327">
     <linearGradient
@@ -255,23 +255,26 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="312.97167"
-     inkscape:cy="213.87404"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="837.41646"
+     inkscape:cy="-126.26907"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:lockguides="true"
-     inkscape:window-width="3440"
-     inkscape:window-height="1334"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata3330">
     <rdf:RDF>
@@ -280,7 +283,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -288,7 +290,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(830.79752,-868.19073)">
+     transform="translate(830.79752,-868.56201)">
     <g
        id="g999"
        transform="translate(0,-1.0583333)">
@@ -440,6 +442,6 @@
          id="tspan907-9"
          x="-626.01685"
          y="1014.2383"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.7713px;font-family:Castellar;-inkscape-font-specification:Castellar;fill:#0075ff;fill-opacity:0.643836;stroke-width:0">Lab</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.7713px;font-family:'Imprint MT Shadow';-inkscape-font-specification:'Imprint MT Shadow';fill:#0075ff;fill-opacity:0.643836;stroke-width:0">Lab</tspan></text>
   </g>
 </svg>
