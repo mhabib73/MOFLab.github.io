@@ -10,6 +10,11 @@ tags:
 
 profile: true
 
+image:
+  filename: featured.svg
+  alt_text: "Hollow-core fiber simulation"
+
+
 authors:
   - admin
 author_notes:
