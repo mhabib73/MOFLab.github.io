@@ -10,9 +10,9 @@ tags:
 
 profile: true
 
-#image:
-  #filename: featured.svg
-  #alt_text: "Hollow-core fiber simulation"
+image:
+  filename: welcome.svg
+  alt_text: "Hollow-core fiber simulation"
 #![Hollow-core fiber simulation](welcome.svg)
 
 authors:
@@ -20,7 +20,7 @@ authors:
 author_notes:
   - Principal Investigator
 ---
-![Hollow-core fiber simulation](welcome.svg)
+
 Investigating extreme light–matter interactions in hollow-core fibers is crucial for advancing ultrafast nonlinear optics. By confining intense laser pulses within gas- or plasma-filled microstructures, these fibers provide a unique platform to explore phenomena such as soliton dynamics and strong-field ionization under precisely controlled conditions. The main goals of this project are to unveil new regimes of nonlinear light propagation, develop compact sources of coherent radiation from the ultraviolet to mid-infrared, and enable next-generation applications in attosecond science, quantum technologies, and high-field spectroscopy.
 
 - Soliton pulse compression
