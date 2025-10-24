@@ -11,7 +11,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 'Our Collaborators'
+title: 'MOFLab Collaborators'
 subtitle: 'At MOFLab we work with leading universities, research gourps and industry partners worldwide. Some of our present and past collaborators include:'
 
 design:
