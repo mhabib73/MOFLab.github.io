@@ -20,7 +20,7 @@ sections:
       background:
         color: "#394B6E"
         image:
-          filename: home_page_v2.svg
+          filename: home_page_v3.svg
           filters:
             brightness: 1
           position: center
