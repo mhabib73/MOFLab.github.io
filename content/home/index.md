@@ -33,7 +33,6 @@ sections:
         <br>
         <br>
         <br>
-        <br>
       #padding: ['0px', '0', '0px', '0']
 
 
