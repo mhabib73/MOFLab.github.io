@@ -30,7 +30,6 @@ sections:
       title: |       
       text: |  
         <br>
-        <br>
       #padding: ['0px', '0', '0px', '0']
 
 
