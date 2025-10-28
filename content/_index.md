@@ -84,7 +84,7 @@ sections:
           - news
         #publication_type: 'featured-article'
     design:
-      view: citation
+      #view: citation
       columns: '1'
       text_align: left
 
