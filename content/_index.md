@@ -57,6 +57,8 @@ sections:
         * Ultrafast nonlinear optics
         <br>
         * Light-matter interactions
+        <br>
+        * Smart fiber-based nonlinear devices
   
   - block: collection
     content:
