@@ -59,6 +59,20 @@ sections:
         * Light-matter interactions
         <br>
         * Smart fiber-based nonlinear devices
+
+  - block: collection
+    content:
+      title: '<div style="text-align: left; color: black;">Research areas</div>'
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - research
+        #publication_type: 'featured-article'
+    design:
+      view: showcase
+      columns: '2'
+      text_align: left
   
   - block: collection
     content:
@@ -74,19 +88,7 @@ sections:
       columns: '1'
       text_align: left
 
-  - block: collection
-    content:
-      title: '<div style="text-align: left; color: black;">Research areas</div>'
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - research
-        #publication_type: 'featured-article'
-    design:
-      #view: citation
-      columns: '1'
-      text_align: left
+
 
   - block: collection
     content:
@@ -98,7 +100,7 @@ sections:
           - news
         #publication_type: 'featured-article'
     design:
-      view: list
+      #view: list
       columns: '1'
       text_align: left
 
