@@ -76,6 +76,20 @@ sections:
 
   - block: collection
     content:
+      title: '<div style="text-align: left; color: black;">Research areas</div>'
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - research
+        #publication_type: 'featured-article'
+    design:
+      #view: citation
+      columns: '1'
+      text_align: left
+
+  - block: collection
+    content:
       title: '<div style="text-align: left; color: black;">Latest news</div>'
       text: ""
       count: 5
@@ -84,7 +98,7 @@ sections:
           - news
         #publication_type: 'featured-article'
     design:
-      #view: citation
+      view: list
       columns: '1'
       text_align: left
 
