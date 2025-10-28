@@ -71,7 +71,7 @@ sections:
         #publication_type: 'featured-article'
     design:
       view: showcase
-      columns: '2'
+      columns: '1'
       text_align: left
   
   - block: collection
