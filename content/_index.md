@@ -35,7 +35,7 @@ sections:
       #padding: ['0px', '0', '0px', '0']
 
 
-  - block: markdown
+  - block: hero
     content:
       title: Welcome to Microstructure Optical Fiber Lab       
       text: |
