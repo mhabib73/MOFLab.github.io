@@ -37,7 +37,7 @@ sections:
 
   - block: markdown
     content:
-    style: "margin-top: 0; margin-bottom: 0; padding-top: 0; padding-bottom: 0;"
+      style: "margin-top: 0; margin-bottom: 0; padding-top: 0; padding-bottom: 0;"
       title: Welcome to Microstructure Optical Fiber Lab       
       text: |
         We investigate next-generation optical fiber technologies that redefine how light travels. Our work centers on innovative hollow-core fibers—engineered with microscopic air channels that let light propagate faster,
