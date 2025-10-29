@@ -24,7 +24,7 @@ sections:
           filters:
             brightness: 1
           position: center
-          parallax: false
+          parallax: true
           size: contain
     content:
       title: |       
