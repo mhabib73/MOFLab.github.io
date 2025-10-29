@@ -8,8 +8,7 @@ tags:
   - Low-loss fibers
 
 profile: true
-image:
-  featured: "featured.svg"
+
 
 authors:
   - admin
