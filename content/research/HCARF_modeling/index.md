@@ -8,11 +8,6 @@ tags:
 
 profile: true
 
-image:
-  filename: project.svg
-          
-
-
 authors:
   - admin
   - Mahfuz
