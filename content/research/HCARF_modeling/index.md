@@ -5,8 +5,6 @@ date: 2025-10-22
 tags:
   - Hollow-core fibers
   - Low-loss fibers
-image:
-  <img src="featured.svg" alt="HCARF fabrication" style="width:100%; max-width:600px;">
 
 profile: true
 
