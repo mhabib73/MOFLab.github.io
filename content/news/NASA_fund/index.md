@@ -1,6 +1,6 @@
 ---
 title: Dr. Habib wins highly competitive and prestigious NASA Research Initiation Award (RIA)
-date: 2025-06-01
+date: 2025-10-01
 image:
   focal_point: 'top'
 ---
