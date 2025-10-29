@@ -1,5 +1,5 @@
 ---
-title: "S2 measurements showing suppression of higher order modes in confined rare earth doped large core fibers"
+title: "S<sup>2</sup> measurements showing suppression of higher order modes in confined rare earth doped large core fibers"
 authors:
 
 - S. Gausmann
@@ -32,7 +32,7 @@ publication_types: ["article-journal"]
 publication: "IEEE Journal of Lightwave Technology **38**, 1953 (2020)"
 publication_short: ""
 
-abstract: 
+abstract: We present a detailed investigation on higher order mode suppression due to differential gain in large mode area step index fiber amplifiers with confined Yb doping using spatially and spectrally resolved imaging (S2). A novel active fiber with Yb doping confined to the central 30% of the core area is fabricated and its performance is directly compared to a fiber with a conventional homogeneously doped core with almost identical parameters. At high pump rates, S2 and beam pointing stability measurements clearly demonstrate fundamental mode operation of the confined doping few mode fiber, even under imperfect launching conditions and environmental perturbations. In addition, we discuss the mode content as a function of gain in co-pumped fiber amplifiers with and without confined rare earth core doping using a power propagation model for fibers with similar parameters to those used in our experiments. Our simulation results as well as amplification experiments indicate the great potential of the confined doping concept for single mode high power operation.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
