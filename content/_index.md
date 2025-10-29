@@ -3,7 +3,7 @@ title:
 date: 2025-10-12
 type: landing
 design:
-  spacing: "5rem"
+  spacing: "1rem"
 
 sections:
 
@@ -37,7 +37,8 @@ sections:
 
   - block: markdown
     content:
-      title: Welcome to Microstructure Optical Fiber Lab       
+      title: Welcome to Microstructure Optical Fiber Lab
+      <br>      
       text: |
         We investigate next-generation optical fiber technologies that redefine how light travels. Our work centers on innovative hollow-core fibers—engineered with microscopic air channels that let light propagate faster,
         over longer distances, and with exceptionally low loss. Through advanced microstructured designs, we aim to achieve ultra-low transmission loss, minimal latency, and broad bandwidth, opening new possibilities for
