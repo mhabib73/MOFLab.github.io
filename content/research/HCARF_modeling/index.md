@@ -6,6 +6,8 @@ tags:
   - Hollow-core fibers
   - Low-loss fibers
 
+<img src="featured.svg" alt="HCARF fabrication" style="width:100%; max-width:600px;">
+
 profile: true
 
 authors:
