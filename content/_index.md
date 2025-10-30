@@ -37,7 +37,7 @@ sections:
 
   - block: markdown
     content:
-      title: Welcome to Microstructure Optical Fiber Lab  <br> 
+      title: Welcome to Microstructure Optical Fiber Lab 
           
       text: |
         We investigate next-generation optical fiber technologies that redefine how light travels. Our work centers on innovative hollow-core fibers—engineered with microscopic air channels that let light propagate faster,
