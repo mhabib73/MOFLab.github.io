@@ -155,3 +155,14 @@ publications:
 params:
   custom_css: ["css/custom.css"]
 
+############################
+## Code folding
+############################
+
+# Set to true to disable code folding
+disable_codefolding: false
+# Set to show to show all by default, hide to hide all by default - don't put inside quotes
+codefolding_show: show
+# Set to true to exclude the "Show/hide all" button
+codefolding_nobutton: false
+
