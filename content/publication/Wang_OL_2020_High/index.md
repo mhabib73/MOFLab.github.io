@@ -1,5 +1,5 @@
 ---
-title: "High pulse energy and quantum efficiency mid-infrared gas Raman fiber laser targeting CO2 absorption at 4.2 µm"
+title: "High pulse energy and quantum efficiency mid-infrared gas Raman fiber laser targeting CO<sub>2</sub> absorption at 4.2 µm"
 authors:
 - Y. Wang
 - M. K. Dasa
@@ -30,7 +30,7 @@ publication_types: ["featured-article"]
 publication: "Optics Letters **45**, 1938 (2020)"
 publication_short: ""
 
-abstract: In this Letter, we demonstrate a high pulse energy and linearly polarized mid-infrared Raman fiber laser targeting the strongest absorption line of CO2 at 4.2 µm. This laser was generated from a hydrogen (H2)-filled antiresonant hollow-core fiber, pumped by a custom-made 1532.8 nm Er-doped fiber laser delivering 6.9 ns pulses and 11.6 kW peak power. A quantum efficiency as high as 74% was achieved, to yield 17.6 µJ pulse energy at 4.22 µm. Less than 20 bar H2 pressure was required to maximize the pulse energy since the transient Raman regime was efficiently suppressed by the long pump pulses.
+abstract: In this Letter, we demonstrate a high pulse energy and linearly polarized mid-infrared Raman fiber laser targeting the strongest absorption line of CO2 at 4.2 µm. This laser was generated from a hydrogen (H<sub>2</sub>)-filled antiresonant hollow-core fiber, pumped by a custom-made 1532.8 nm Er-doped fiber laser delivering 6.9 ns pulses and 11.6 kW peak power. A quantum efficiency as high as 74% was achieved, to yield 17.6 µJ pulse energy at 4.22 µm. Less than 20 bar H2 pressure was required to maximize the pulse energy since the transient Raman regime was efficiently suppressed by the long pump pulses.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

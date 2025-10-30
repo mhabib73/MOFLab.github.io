@@ -10,9 +10,13 @@ custom_css:
 
 appearance:
   #theme_day: minimal
-  theme_day: nautical
-  theme_night: aurora
-  font: Sans-serif
+  #theme_day: nautical
+  #theme_night: aurora
+  #font: Sans-serif
+  #font_size: L
+  theme_day: light
+  theme_night: persodark
+  font: custom_font
   font_size: L
   
 
@@ -92,6 +96,8 @@ locale:
 
 features:
   syntax_highlighter:
+    theme_light: github-light
+    theme_dark: dracula
     enable: false
     extra_languages:
       - r

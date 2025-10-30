@@ -3,7 +3,7 @@ title:
 date: 2025-10-12
 type: landing
 design:
-  spacing: "5rem"
+  spacing: "1rem"
 
 sections:
 
@@ -18,9 +18,9 @@ sections:
         vertical: middle
       #css_class: fullscreen
       background:
-        color: "#4C4B7D"
+        color: "#36454F"
         image:
-          filename: home_page_v4.svg
+          filename: home_page_v5.svg
           filters:
             brightness: 1
           position: center
@@ -32,13 +32,13 @@ sections:
         <br>
         <br>
         <br>
-        <br>
       #padding: ['0px', '0', '0px', '0']
 
 
   - block: markdown
     content:
-      title: |       
+      title: Welcome to Microstructure Optical Fiber Lab  <br> 
+          
       text: |
         We investigate next-generation optical fiber technologies that redefine how light travels. Our work centers on innovative hollow-core fibers—engineered with microscopic air channels that let light propagate faster,
         over longer distances, and with exceptionally low loss. Through advanced microstructured designs, we aim to achieve ultra-low transmission loss, minimal latency, and broad bandwidth, opening new possibilities for
@@ -58,6 +58,22 @@ sections:
         * Ultrafast nonlinear optics
         <br>
         * Light-matter interactions
+        <br>
+        * Smart fiber-based nonlinear devices
+
+  - block: collection
+    content:
+      title: '<div style="text-align: left; color: black;">Research areas</div>'
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - research
+        #publication_type: 'featured-article'
+    design:
+      view: showcase
+      columns: '1'
+      text_align: left
   
   - block: collection
     content:
@@ -70,6 +86,22 @@ sections:
         publication_type: 'featured-article'
     design:
       view: citation
+      columns: '1'
+      text_align: left
+
+
+
+  - block: collection
+    content:
+      title: '<div style="text-align: left; color: black;">Latest news</div>'
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - news
+        #publication_type: 'featured-article'
+    design:
+      #view: list
       columns: '1'
       text_align: left
 

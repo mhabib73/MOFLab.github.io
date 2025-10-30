@@ -28,7 +28,8 @@ publication_types: ["article-journal"]
 publication: "Optics Letters **41**, 440 (2016)"
 publication_short: ""
 
-abstract:
+abstract: In this Letter, we suggest a novel kind of porous-core photonic crystal fiber (PCF) (to the best of our knowledge) for efficient transportation of polarization maintaining (PM) terahertz (THz) waves. We introduce an asymmetry in both the porous-core and the porous-cladding of the structure to achieve an ultra-high birefringence. Besides, only circular air holes have been used to represent the structure, which makes the fiber remarkably simple. The transmission characteristics have been numerically examined based on an efficient finite element method (FEM). The numerical results confirm a high birefringence of ~0.045 and a very low effective absorption loss of 0.08cm<sup>-1</sup> 
+ for optimal design parameters at 1 THz. We have also thoroughly investigated some important modal properties such as bending loss, power fraction, dispersion, and fabrication possibilities to completely analyze the structure’s usability in a multitude of THz appliances. Moreover, physical insights of the proposed fiber have also been discussed.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
