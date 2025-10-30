@@ -66,3 +66,17 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+############################
+## CUSTOM
+############################
+
+cascade:
+  - _target:
+      path: /blog/**
+    share: false
+  - _target:
+      path: /publication/**
+    share: false
+
+lastmod: [":fileModTime", “:default”]
