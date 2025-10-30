@@ -105,18 +105,5 @@ sections:
       columns: '1'
       text_align: left
 
-  - block: collection
-    content:
-      title: '<div style="text-align: left; color: black;">Latest</div>'
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - latest
-        #publication_type: 'featured-article'
-    design:
-      #view: list
-      columns: '1'
-      text_align: left
 
 ---
