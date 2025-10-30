@@ -90,7 +90,6 @@ sections:
       text_align: left
 
 
-
   - block: collection
     content:
       title: '<div style="text-align: left; color: black;">Latest news</div>'
