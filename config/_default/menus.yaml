@@ -30,7 +30,7 @@ main:
     #weight: 70
 
   - name: Latest
-    url: latest
+    url: '#latest'
     weight: 70
 
     
