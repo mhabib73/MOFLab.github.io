@@ -5,13 +5,13 @@ type: landing
 
 design:
   # Section spacing
-  spacing: '5rem'
+  spacing: '10rem'
 
 # Page sections
 sections:
   - block: collection
     content:
-      title: Selected Projects
+      title: '<div style="grid-column: 1 / -1; text-align:left; font-size:1rem;">Research areas</div>'
       text: MOFLab explores state-of-the-art optical fiber design and fabrication, low-cost and energy-efficient fiber sensors, and ultrafast nonlinear fiber dynamics.
         <br>
         <br>
@@ -19,7 +19,7 @@ sections:
         folders:
           - research
     design:
-      view: article-grid
+      view: showcase
       fill_image: false
       columns: 2
       show_date: false
