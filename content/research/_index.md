@@ -12,12 +12,12 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: MOFLab explores state-of-the-art optical fiber design and fabrication, low-cost and energy-efficient fiber sensors, and ultrafast nonlinear fiber dynamics.
       filters:
         folders:
-          - projects
+          - research
     design:
-      view: article-grid
+      view: showcase
       fill_image: false
       columns: 3
       show_date: false
