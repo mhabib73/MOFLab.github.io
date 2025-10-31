@@ -42,6 +42,9 @@ sections:
       columns: 2
       background: 
         color: "white"
+      show_date: false
+      show_read_time: false
+      show_read_more: false
   
     sort_by: 'Date'
     sort_ascending: false
