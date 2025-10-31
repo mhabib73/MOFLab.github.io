@@ -11,8 +11,12 @@ design:
 sections:
   - block: collection
     content:
-      title: '<div style="grid-column: 1 / -1; text-align:left; font-size:1rem;">Research areas</div>'
+      title: '<div style="grid-column: 1 / -1; text-align:left; font-size:3rem;">Research areas</div>'
+        <br>
+        <br>
       text: MOFLab explores state-of-the-art optical fiber design and fabrication, low-cost and energy-efficient fiber sensors, and ultrafast nonlinear fiber dynamics.
+        <br>
+        <br>
         <br>
         <br>
       filters:
