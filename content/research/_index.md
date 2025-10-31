@@ -13,8 +13,8 @@ sections:
     content:
       title: Selected Projects
       text: MOFLab explores state-of-the-art optical fiber design and fabrication, low-cost and energy-efficient fiber sensors, and ultrafast nonlinear fiber dynamics.
-      <br>
-      <br>
+        <br>
+        <br>
       filters:
         folders:
           - research
