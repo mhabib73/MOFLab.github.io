@@ -1,6 +1,6 @@
 ---
 title: Nature Photonics News and Views article on "hollow-core Breakthrough"
-date: 2024-11-03
+date: 2025-11-03
 image:
   focal_point: 'top'
 ---
