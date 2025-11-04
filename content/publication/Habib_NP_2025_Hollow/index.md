@@ -20,7 +20,7 @@ publishDate: "2023-10-01T00:00:00Z"
 publication_types: ["featured-article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Nature Photonics (2025)"
+publication: "Nature Photonics **19**, 1160 (2025)"
 publication_short: ""
 
 abstract: A hollow-core optical fibre which surpasses silica fibre’s long-standing limits and provides an attenuation below 0.1 dB/km across a record-wide bandwidth, could yield more energy-efficient communications with lower latency and higher data capacity.
