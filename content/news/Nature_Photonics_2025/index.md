@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 ---
 
-We are extremely happy to share that our News & Views article on the recent "Hollow-core fiber breakthrough" has been published in Nature Photonics and now available online (https://www.nature.com/articles/s41566-025-01774-2). The new hollow-core fibres from Microsoft and ORC, Southampton break a 40-year limit on light transmission. 
+We are extremely happy to share that our News & Views article on the recent "Hollow-core fiber breakthrough" has been published in Nature Photonics and now available online. The new hollow-core fibres from Microsoft and ORC, Southampton break a 40-year limit on light transmission. 
 
 <!--more-->
 This work is special to me because hollow-core fibers represent a new way to carry light. Rather than trapping light inside glass, they let it move mostly through air, which greatly reduces loss and distortion. The latest progress brings this technology much closer to real applications  - faster internet connections, quicker data transfer, and new possibilities for AI data centers and high-power laser systems.
