@@ -16,7 +16,7 @@ sections:
       alignment:
         horizontal: center
         vertical: middle
-      #css_class: min-h-screen
+
       css_class: "bg-gray-100 dark:bg-gray-800"
       background:
         color: "#36454F"
@@ -27,6 +27,7 @@ sections:
           position: center
           parallax: false
           size: contain
+      css_class: min-h-screen
     content:
       title: |       
       text: |  
@@ -145,7 +146,7 @@ sections:
         #publication_type: 'featured-article'
     design:
       # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-800"
+      css_class: "bg-primary-700"
       #view: list
       columns: '1'
       text_align: left
