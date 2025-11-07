@@ -1,5 +1,5 @@
 ---
-title: Develop low-cost and energy-efficient fiber sensors
+title: Develop smart, low-cost and energy-efficient fiber sensors
 summary: "We focus on the modeling and fabrication of low-cost, energy-efficient fiber sensors designed for precise and scalable sensing applications. By combining advanced optical simulations with innovative fabrication techniques, our work aims to create sustainable fiber-based solutions for environmental, biomedical, industrial, and critical green-house gas emission monitoring."
 date: 2025-10-19
 #links:
