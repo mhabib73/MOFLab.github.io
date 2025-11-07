@@ -56,7 +56,7 @@ sections:
         padding: ["1rem", 0, "1rem", 0]
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
-      css_class: min-h-screen
+      #css_class: min-h-screen
       background:
         color: ""
         image:
