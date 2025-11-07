@@ -64,7 +64,7 @@ sections:
     design:
       no_padding: true
       spacing:
-        padding: [0, 0, 0, 0]
+        padding: ["3rem", 0, "3rem", 0]
         margin: [0, 0, 0, 0]
 
   - block: collection
