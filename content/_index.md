@@ -3,7 +3,7 @@ title:
 date: 2025-10-12
 type: landing
 
-  spacing: "1rem"
+spacing: "1rem"
 
 sections:
 
