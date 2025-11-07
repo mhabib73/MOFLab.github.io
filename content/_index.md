@@ -35,6 +35,36 @@ sections:
         <br>
       #padding: ['0px', '0', '0px', '0']
 
+  - block: hero
+    content:
+      title: Write Docs Fast, Focus on Your Content
+      text: The easy, no-code technical documentation solution your users will love 🎉
+      primary_action:
+        text: Get Started
+        url: https://hugoblox.com/templates/details/docs/
+        icon: rocket-launch
+      secondary_action:
+        text: Read the docs
+        url: /docs/
+      announcement:
+        text: "Announcing the release of version 2."
+        link:
+          text: "Read more"
+          url: ""
+    design:
+      spacing:
+        padding: ["1rem", 0, "1rem", 0]
+        margin: [0, 0, 0, 0]
+      # For full-screen, add `min-h-screen` below
+      css_class: min-h-screen
+      background:
+        color: ""
+        image:
+          # Add your image background to `assets/media/`.
+          filename: home_page_v5.svg
+          filters:
+            brightness: 1
+
 
   - block: markdown
     content:
