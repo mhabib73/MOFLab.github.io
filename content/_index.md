@@ -82,7 +82,7 @@ sections:
       count: 5
       filters:
         folders:
-          - publication
+          - publications
         publication_type: 'featured-article'
     design:
       view: citation
