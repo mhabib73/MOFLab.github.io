@@ -1,5 +1,5 @@
 ---
-title: "High pulse energy and quantum efficiency mid-infrared gas Raman fiber laser targeting CO<sub>2</sub> absorption at 4.2 µm"
+title: "High pulse energy and quantum efficiency mid-infrared gas Raman fiber laser targeting CO2 absorption at 4.2 µm"
 authors:
 - Y. Wang
 - M. K. Dasa
