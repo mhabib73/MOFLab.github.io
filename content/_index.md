@@ -17,7 +17,8 @@ sections:
         horizontal: center
         vertical: middle
       background:
-        color: "#36454F"
+        #color: "#36454F"
+        color: white
         image:
           filename: banner.svg
           filters:
