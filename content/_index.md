@@ -7,18 +7,6 @@ spacing: "1rem"
 
 sections:
 
-  - block: hero
-    content:
-      title: |
-        Wowchemy
-        Research Group
-      image:
-        filename: banner.svg
-      text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-    
   - block: markdown
     #content:
       #title: '<div style="grid-column: 1 / -1; text-align:left; font-size:1rem;">MOFLab projects</div>'
@@ -46,6 +34,18 @@ sections:
         <br>
         <br>
       #padding: ['0px', '0', '0px', '0']
+
+  - block: hero
+    content:
+      title: |
+        Microstructure Optical Fiber Lab
+      image:
+        filename: banner.svg
+      text: |
+        <br>
+        
+    
+
 
   - block: markdown
     content:
