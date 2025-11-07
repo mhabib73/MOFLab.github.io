@@ -50,11 +50,11 @@ sections:
         <br><br>
         Our research group focuses on: <br>
     
-        * Advanced optical fiber design, fabrication, and characterization
+        * Advanced optical fiber design/modeling, fabrication, and characterization
         <br>
-        * Energy-efficient and low-cost fiber sensors
+        * Smart, low-cost and energy-efficient fiber sensors
         <br>
-        * Ultrafast nonlinear optics
+        * Ultrafast nonlinear optics (single-mode and multi-mode regimes)
         <br>
         * Light-matter interactions
         <br>
@@ -85,7 +85,7 @@ sections:
   
   - block: collection
     content:
-      title: '<div style="text-align: left; color: black;">Featured articles</div>'
+      title: '<div style="text-align: left; color: black;">Featured journal articles</div>'
       text: ""
       count: 5
       filters:
