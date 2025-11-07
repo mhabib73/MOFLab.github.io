@@ -16,8 +16,8 @@ sections:
       alignment:
         horizontal: center
         vertical: middle
-      css_class: min-h-screen
-      #css_class: "bg-gray-100 dark:bg-gray-800"
+      #css_class: min-h-screen
+      css_class: "bg-gray-100 dark:bg-gray-800"
       background:
         color: "#36454F"
         image:
