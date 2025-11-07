@@ -14,14 +14,18 @@ sections:
       image:
         filename: banner.svg
       text: |
-        <br>
+      
+      design:
+        no_padding: true
+        spacing:
+          padding: ["1rem", 0, "1rem", 0]
+          margin: [0, 0, 0, 0]
 
-    
 
 
   - block: markdown
     content:
-      title: Welcome to Microstructure Optical Fiber Lab 
+      title: |
           
       text: |
         We investigate next-generation optical fiber technologies that redefine how light travels. Our work centers on innovative hollow-core fibers—engineered with microscopic air channels that let light propagate faster,
