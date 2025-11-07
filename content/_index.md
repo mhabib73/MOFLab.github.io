@@ -60,7 +60,6 @@ sections:
         * Light-matter interactions
         <br>
         * Smart fiber-based nonlinear devices
-        ## Citation
 
   - block: collection
     content:
