@@ -6,6 +6,18 @@ type: landing
 spacing: "1rem"
 
 sections:
+
+  - block: hero
+    content:
+      title: |
+        Wowchemy
+        Research Group
+      image:
+        filename: banner.jpg
+      text: |
+        <br>
+        
+        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
     
   - block: markdown
     #content:
@@ -20,7 +32,7 @@ sections:
         #color: "#36454F"
         color: white
         image:
-          filename: banner.svg
+          filename: home_page_v5.svg
           filters:
             brightness: 1
           position: center
