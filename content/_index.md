@@ -36,8 +36,8 @@ sections:
 
   - block: hero
     content:
-      title: Get Inspirated
-      text: 'Get inspired by exploring sites #MadeWithHugoBlox'
+      title: Microstructured Optical Fiber Lab
+      text: 'Welcome'
     design:
       no_padding: true
       spacing:
@@ -70,6 +70,11 @@ sections:
         * Light-matter interactions
         <br>
         * Smart fiber-based nonlinear devices
+    design:
+      no_padding: true
+      spacing:
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
 
   - block: collection
     content:
