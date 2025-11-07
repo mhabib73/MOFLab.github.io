@@ -13,7 +13,7 @@ sections:
         Wowchemy
         Research Group
       image:
-        filename: banner.jpg
+        filename: banner.svg
       text: |
         <br>
         
