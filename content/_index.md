@@ -34,23 +34,6 @@ sections:
         <br>
       #padding: ['0px', '0', '0px', '0']
 
-  - block: hero
-    content:
-      title: |
-        Microstructure Optical Fiber Lab
-        
-      image:
-        filename: home_page_v5.svg
-        filters:
-          brightness: 1
-        position: center
-        parallax: false
-        size: contain
-      text: |
-        <br>
-        
-        The **MOFLab** has been a center of excellence for advanced optical fiber design, fabrication, and characterization, fiber sensors, and ultrafast nonlinear optics.
-
   - block: markdown
     content:
       title: Welcome to Microstructure Optical Fiber Lab 
