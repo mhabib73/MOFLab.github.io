@@ -42,6 +42,10 @@ sections:
         folders:
           - research
     design:
+      no_padding: true
+      spacing:
+        padding: ["1rem", 0, "1rem", 0]
+        margin: [0, 0, 0, 0]
       view: showcase
       columns: 2
       background: 
