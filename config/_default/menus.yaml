@@ -14,7 +14,7 @@ main:
     url: research
     weight: 30
   - name: Publications
-    url: publication
+    url: publications
     weight: 40
   - name: News
     url: news
@@ -29,5 +29,8 @@ main:
     #url: "uploads/cv.pdf"
     #weight: 70
 
+  - name: Latest
+    url: latest
+    weight: 70
 
     
