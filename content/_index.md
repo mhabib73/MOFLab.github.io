@@ -41,6 +41,11 @@ sections:
         
       image:
         filename: home_page_v5.svg
+        filters:
+          brightness: 1
+        position: center
+        parallax: false
+        size: contain
       text: |
         <br>
         
