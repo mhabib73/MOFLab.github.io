@@ -19,7 +19,7 @@ sections:
       background:
         color: "#36454F"
         image:
-          filename: home_page_v5.svg
+          filename: banner.svg
           filters:
             brightness: 1
           position: center
