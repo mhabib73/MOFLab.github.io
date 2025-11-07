@@ -114,6 +114,8 @@ sections:
           - news
         #publication_type: 'featured-article'
     design:
+      # Section background color (CSS class)
+      css_class: "bg-gray-100 dark:bg-gray-800"
       #view: list
       columns: '1'
       text_align: left
