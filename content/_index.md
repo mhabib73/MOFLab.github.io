@@ -16,7 +16,7 @@ sections:
       alignment:
         horizontal: center
         vertical: middle
-      css_class: fullscreen
+      #css_class: fullscreen
       background:
         color: "#36454F"
         image:
