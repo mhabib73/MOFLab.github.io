@@ -62,14 +62,6 @@ sections:
         * Smart fiber-based nonlinear devices
         ## Citation
 
-        Here's an example of citing a publication using the cite shortcode:
-
-        {{< cite page="/publication/Habib_NP_2025_Hollow" view="citation" >}}
-
-        You can also use the default view by omitting the view parameter:
-
-        {{< cite page="/publication/Habib_NP_2025_Hollow" >}}
-
   - block: collection
     content:
       title: '<div style="text-align: left; color: black;">Research areas</div>'
