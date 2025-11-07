@@ -19,7 +19,7 @@ sections:
       background:
         color: "#36454F"
         image:
-          filename: Future_Technology.svg
+          filename: home_page_v5.svg
           filters:
             brightness: 1
           position: center
