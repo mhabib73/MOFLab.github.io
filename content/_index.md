@@ -16,7 +16,8 @@ sections:
       alignment:
         horizontal: center
         vertical: middle
-      #css_class: fullscreen
+      css_class: min-h-screen
+      #css_class: "bg-gray-100 dark:bg-gray-800"
       background:
         color: "#36454F"
         image:
@@ -33,16 +34,6 @@ sections:
         <br>
         <br>
       #padding: ['0px', '0', '0px', '0']
-
-  - block: hero
-    content:
-      title: Microstructured Optical Fiber Lab
-      text: 'Welcome'
-    design:
-      no_padding: true
-      spacing:
-        padding: [0, 0, 0, 0]
-        margin: [0, 0, 0, 0]
 
 
   - block: markdown
@@ -89,6 +80,10 @@ sections:
       view: showcase
       columns: '1'
       text_align: left
+      no_padding: true
+      spacing:
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
   
   - block: collection
     content:
@@ -103,6 +98,10 @@ sections:
       view: citation
       columns: '1'
       text_align: left
+      no_padding: true
+      spacing:
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
 
 
   - block: collection
@@ -118,6 +117,10 @@ sections:
       #view: list
       columns: '1'
       text_align: left
+      no_padding: true
+      spacing:
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
 
 
 ---
