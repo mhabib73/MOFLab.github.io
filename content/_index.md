@@ -3,7 +3,7 @@ title:
 date: 2025-10-12
 type: landing
 
-spacing: "1rem"
+spacing: "0.5rem"
 
 sections:
 
@@ -18,7 +18,7 @@ sections:
       design:
         no_padding: true
         spacing:
-          padding: ["1rem", 0, "1rem", 0]
+          padding: ["0.5rem", 0, "0.5rem", 0]
           margin: [0, 0, 0, 0]
 
 
