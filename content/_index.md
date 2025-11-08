@@ -15,11 +15,11 @@ sections:
         filename: banner_v1.svg
       text: |
       
-      design:
-        no_padding: true
-        spacing:
-          padding: ["0.5rem", 0, "0.5rem", 0]
-          margin: [0, 0, 0, 0]
+    design:
+      no_padding: true
+      spacing:
+        padding: ["1rem", 0, "1rem", 0]
+        margin: [0, 0, 0, 0]
 
 
 
