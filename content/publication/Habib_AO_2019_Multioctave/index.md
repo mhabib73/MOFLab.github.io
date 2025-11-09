@@ -73,7 +73,8 @@ links:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- UNO
+- HCARF_modeling
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
