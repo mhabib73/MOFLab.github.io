@@ -86,6 +86,8 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
 - UNO
+- HCARF_fabrication
+- HCARF_modeling
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
