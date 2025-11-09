@@ -79,6 +79,8 @@ links:
 #   Otherwise, set `projects: []`.
 projects:
 - internal-project
+research:
+- HCARF_fabrication
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
