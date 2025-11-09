@@ -61,7 +61,7 @@ sections:
       count: 5
       filters:
         folders:
-          - research
+          - projects
         #publication_type: 'featured-article'
     design:
       view: showcase
