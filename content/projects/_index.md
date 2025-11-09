@@ -12,8 +12,12 @@ sections:
     content:
       #title: '<div style="grid-column: 1 / -1; text-align:left; font-size:1rem;">MOFLab projects</div>'
       text: |
-        <p style="color:white; font-size:1.6rem;">MOFLab explores state-of-the-art optical fiber design and fabrication, low-cost and energy-efficient fiber sensors, and ultrafast nonlinear fiber dynamics.</p> 
+        <p style="color:white; font-size:1.6rem;">MOFLab explores state-of-the-art optical fiber design and fabrication, smart, low-cost and energy-efficient fiber sensors, and ultrafast nonlinear fiber dynamics.</p> 
     design:
+      no_padding: true
+      spacing:
+        padding: ["1rem", 0, "1rem", 0]
+        margin: [0, 0, 0, 0]
       column: "1"
       background:
         color: "#0A3452"
@@ -38,10 +42,14 @@ sections:
         folders:
           - research
     design:
+      no_padding: true
+      spacing:
+        padding: ["2rem", 0, "2rem", 0]
+        margin: [0, 0, 0, 0]
       view: showcase
       columns: 2
       background: 
-        color: "white"
+        color: ""
       show_date: false
       show_read_time: false
       show_read_more: false

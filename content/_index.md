@@ -2,45 +2,33 @@
 title:
 date: 2025-10-12
 type: landing
-design:
-  spacing: "1rem"
+
+spacing: "0.5rem"
 
 sections:
 
-  - block: markdown
-    #content:
-      #title: '<div style="grid-column: 1 / -1; text-align:left; font-size:1rem;">MOFLab projects</div>'
-      #text: |
+  - block: hero
+    content:
+      title: |
+        Microstructure Optical Fiber Lab
+      image:
+        filename: banner_v1.svg
+      text: |
+      
     design:
-      column: "1"
-      alignment:
-        horizontal: center
-        vertical: middle
-      #css_class: fullscreen
-      background:
-        color: "#36454F"
-        image:
-          filename: home_page_v5.svg
-          filters:
-            brightness: 1
-          position: center
-          parallax: false
-          size: contain
-    content:
-      title: |       
-      text: |  
-        <br>
-        <br>
-        <br>
-      #padding: ['0px', '0', '0px', '0']
+      no_padding: true
+      spacing:
+        padding: ["0.5rem", 0, "0.5rem", 0]
+        margin: [0, 0, 0, 0]
+
 
 
   - block: markdown
     content:
-      title: Welcome to Microstructure Optical Fiber Lab 
+      title: |
           
       text: |
-        We investigate next-generation optical fiber technologies that redefine how light travels. Our work centers on innovative hollow-core fibers—engineered with microscopic air channels that let light propagate faster,
+        We investigate next-generation optical fiber technologies that redefine how light travels. Our work centers on innovative hollow-core fibers: engineered with microscopic air channels that let light propagate faster,
         over longer distances, and with exceptionally low loss. Through advanced microstructured designs, we aim to achieve ultra-low transmission loss, minimal latency, and broad bandwidth, opening new possibilities for
         the future of high-speed communication, data networks, and beyond.
         <br><br>
@@ -51,15 +39,20 @@ sections:
         <br><br>
         Our research group focuses on: <br>
     
-        * Advanced optical fiber design, fabrication, and characterization
+        * Advanced optical fiber design/modeling, fabrication, and characterization
         <br>
-        * Energy-efficient and low-cost fiber sensors
+        * Smart, low-cost and energy-efficient fiber sensors
         <br>
-        * Ultrafast nonlinear optics
+        * Ultrafast nonlinear optics (single-mode and multi-mode regimes)
         <br>
         * Light-matter interactions
         <br>
         * Smart fiber-based nonlinear devices
+    design:
+      no_padding: true
+      spacing:
+        padding: ["1rem", 0, "1rem", 0]
+        margin: [0, 0, 0, 0]
 
   - block: collection
     content:
@@ -74,10 +67,14 @@ sections:
       view: showcase
       columns: '1'
       text_align: left
+      no_padding: true
+      spacing:
+        padding: ["1rem", 0, "1rem", 0]
+        margin: [0, 0, 0, 0]
   
   - block: collection
     content:
-      title: '<div style="text-align: left; color: black;">Featured articles</div>'
+      title: '<div style="text-align: left; color: black;">Featured journal articles</div>'
       text: ""
       count: 5
       filters:
@@ -88,6 +85,10 @@ sections:
       view: citation
       columns: '1'
       text_align: left
+      no_padding: true
+      spacing:
+        padding: ["1rem", 0, "1rem", 0]
+        margin: [0, 0, 0, 0]
 
 
   - block: collection
@@ -100,9 +101,15 @@ sections:
           - news
         #publication_type: 'featured-article'
     design:
+      # Section background color (CSS class)
+      css_class: "bg-primary-700"
       #view: list
       columns: '1'
       text_align: left
+      no_padding: true
+      spacing:
+        padding: ["1rem", 0, "1rem", 0]
+        margin: [0, 0, 0, 0]
 
 
 ---

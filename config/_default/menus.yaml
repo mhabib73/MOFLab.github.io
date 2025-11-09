@@ -29,8 +29,8 @@ main:
     #url: "uploads/cv.pdf"
     #weight: 70
 
-  - name: Latest
-    url: latest
-    weight: 70
+  #- name: Latest
+    #url: latest
+    #weight: 70
 
     

@@ -16,24 +16,24 @@ sections:
       alignment:
         horizontal: center
         vertical: middle
-      #css_class: fullscreen
       background:
-        color: "#4C4B7D"
+        #color: "#36454F"
+        color: white
         image:
-          filename: home_page_v4.svg
+          filename: home_page_v5.svg
           filters:
             brightness: 1
           position: center
           parallax: false
           size: contain
+      #css_class: min-h-screen
     content:
       title: |       
       text: |  
         <br>
         <br>
+        <br>
       #padding: ['0px', '0', '0px', '0']
-
-
   
 ---
 
