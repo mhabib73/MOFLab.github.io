@@ -80,11 +80,13 @@ links:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
+
 projects:
-- UNO
-- HCARF_fabrication
 - HCARF_modeling
+- HCARF_fabrication
+- UNO
 - Sensor
+
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -76,8 +76,8 @@ links:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- HCARF_fabrication
 - HCARF_modeling
+- HCARF_fabrication
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
