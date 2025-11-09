@@ -1,5 +1,5 @@
 ---
-title: "High pulse energy and quantum efficiency mid-infrared gas Raman fiber laser targeting CO2 absorption at 4.2 µm"
+title: "Mode-selective few-mode Brillouin fiber lasers based on intramodal and intermodal SBS"
 authors:
 - N. Wang
 - J. C. Alvarado-Zacarias
@@ -16,7 +16,7 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2020-04-20T00:00:00Z"
+date: "2020-04-09T00:00:00Z"
 doi: 10.1364/OL.385444
 
 # Schedule page publish date (NOT publication's date).
@@ -82,7 +82,7 @@ links:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- HC_ARF fabrication
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
