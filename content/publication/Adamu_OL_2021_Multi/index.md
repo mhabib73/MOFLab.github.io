@@ -79,6 +79,7 @@ links:
 #   Otherwise, set `projects: []`.
 projects:
 - UNO
+- HCARF_fabrication
 
 
 # Slides (optional).
