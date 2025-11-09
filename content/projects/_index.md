@@ -40,7 +40,7 @@ sections:
       text: |
       filters:
         folders:
-          - research
+          - projects
     design:
       no_padding: true
       spacing:
