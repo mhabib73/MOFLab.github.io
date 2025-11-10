@@ -1,5 +1,5 @@
 ---
-title: "S<sup>2</sup> measurements showing suppression of higher order modes in confined rare earth doped large core fibers"
+title: "S2 measurements showing suppression of higher order modes in confined rare earth doped large core fibers"
 authors:
 
 - S. Gausmann
