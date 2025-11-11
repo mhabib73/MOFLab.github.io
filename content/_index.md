@@ -3,12 +3,35 @@ title:
 date: 2025-10-12
 type: landing
 
-spacing: "0.5rem"
-banner:
-  caption: ''
-  image: fiber_3D.png
+#spacing: "0.5rem"
+
 
 sections:
+
+  - block: markdown
+    content:
+      title: |
+      
+      text: |
+        
+    design:
+      column: "1"
+      alignment:
+        horizontal: center
+        vertical: middle
+      background:
+        color: "#193769"
+        image:
+          filename: fiber_3D_v2.svg
+          filters:
+            brightness: 1
+          position: center
+          parallax: true
+          size: cover
+      #css_class: halfscreen
+      spacing:
+        padding: ["0rem", 0, "35em", 0]
+
 
   - block: markdown
     content:
