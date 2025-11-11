@@ -18,12 +18,12 @@ sections:
       css_class: fullscreen
       background:
         image:
-          filename: fiber_3D.png
+          filename: fiber_3D_v1.svg
           filters:
             brightness: 1
           position: contain
-          size: 50%
-        color: "#f8f9fa"  # Fallback color
+          size: 90%
+        color: "#1A445C"  # Fallback color
       spacing:
         padding: ["0", "0", "0", "0"]
       alignment:
