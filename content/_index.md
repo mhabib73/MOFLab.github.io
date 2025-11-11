@@ -10,18 +10,18 @@ sections:
   - block: markdown
     content:
       title: |
-        # Your Main Heading
+       
       text: |
-        Your banner text content here
+        
     design:
       columns: "1"
-      css_class: halfscreen
+      css_class: fullscreen
       background:
         image:
           filename: fiber_3D.png
           filters:
             brightness: 1
-          position: center
+          position: 80%
           size: cover
         color: "#f8f9fa"  # Fallback color
       spacing:
