@@ -22,8 +22,8 @@ sections:
           filters:
             brightness: 1
           position: contain
-          size: 90%
-        color: "#1A445C"  # Fallback color
+          size: cover
+        #color: "#1A445C"  # Fallback color
       spacing:
         padding: ["0", "0", "0", "0"]
       alignment:
