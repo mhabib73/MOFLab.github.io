@@ -11,7 +11,7 @@ sections:
   - block: markdown
     content:
       title: |
-        <br>
+
         <br>
         <span style="font-size: 3rem; color: white; white-space: nowrap;">Welcome to Microstructure Optical Fiber Lab</span>
       
