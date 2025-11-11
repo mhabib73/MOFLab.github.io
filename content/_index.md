@@ -17,6 +17,10 @@ sections:
       image:
         #filename: banner_v1.svg
         filename: fiber_3D.png
+        filters:
+          brightness: 1
+        position: center
+        size: contain
       text: |
       
     design:
