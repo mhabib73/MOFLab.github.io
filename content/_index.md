@@ -15,12 +15,12 @@ sections:
         Your banner text content here
     design:
       columns: "1"
-      css_class: fullscreen
+      css_class: halfscreen
       background:
         image:
           filename: fiber_3D.png
           filters:
-            brightness: 0.7
+            brightness: 1
           position: center
           size: cover
         color: "#f8f9fa"  # Fallback color
