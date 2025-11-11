@@ -11,6 +11,7 @@ sections:
   - block: markdown
     content:
       title: |
+        <span style="font-size: 3rem; color: white; white-space: nowrap;">Welcome to Microstructure Optical Fiber Lab</span>
       
       text: |
         
@@ -20,7 +21,7 @@ sections:
         horizontal: center
         vertical: middle
       background:
-        color: "#193769"
+        color: ""
         image:
           filename: fiber_3D.png
           filters:
