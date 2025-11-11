@@ -22,7 +22,7 @@ sections:
       background:
         color: "#193769"
         image:
-          filename: fiber_3D_v2.svg
+          filename: fiber_3D.png
           filters:
             brightness: 1
           position: center
@@ -30,7 +30,7 @@ sections:
           size: cover
       #css_class: halfscreen
       spacing:
-        padding: ["0rem", 0, "35em", 0]
+        padding: ["0rem", 0, "25em", 0]
 
 
   - block: markdown
