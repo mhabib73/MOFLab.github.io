@@ -4,6 +4,9 @@ date: 2025-10-12
 type: landing
 
 spacing: "0.5rem"
+banner:
+  caption: ''
+  image: fiber_3D.png
 
 sections:
 
