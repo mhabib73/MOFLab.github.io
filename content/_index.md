@@ -8,32 +8,27 @@ spacing: "0.5rem"
 
 sections:
   - block: markdown
-    #content:
-      #title: '<div style="grid-column: 1 / -1; text-align:left; font-size:1rem;">MOFLab projects</div>'
-      #text: |
+    content:
+      title: |
+        # Your Main Heading
+      text: |
+        Your banner text content here
     design:
-      column: "1"
-      alignment:
-        horizontal: center
-        vertical: middle
+      columns: "1"
+      css_class: fullscreen
       background:
-        #color: "#36454F"
-        color: white
         image:
           filename: fiber_3D.png
           filters:
-            brightness: 1
+            brightness: 0.7
           position: center
-          parallax: false
           size: cover
-      css_class: fullscreen
-    content:
-      title: |       
-      text: |  
-        <br>
-        <br>
-        <br>
-      #padding: ['0px', '0', '0px', '0']
+        color: "#f8f9fa"  # Fallback color
+      spacing:
+        padding: ["0", "0", "0", "0"]
+      alignment:
+        vertical: center
+        horizontal: center
 
 
   - block: markdown
