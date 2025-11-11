@@ -29,7 +29,7 @@ sections:
           size: cover
       spacing:
         padding: ["10rem", 0, "10rem", 0]
-      css_class: fullscreen
+      #css_class: halfscreen
 
 
   - block: markdown
