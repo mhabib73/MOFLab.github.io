@@ -8,27 +8,32 @@ spacing: "0.5rem"
 
 sections:
   - block: markdown
-    content:
-      title: |
-       
-      text: |
-        
+    #content:
+      #title: '<div style="grid-column: 1 / -1; text-align:left; font-size:1rem;">MOFLab projects</div>'
+      #text: |
     design:
-      columns: "1"
-      css_class: fullscreen
+      column: "1"
+      alignment:
+        horizontal: center
+        vertical: middle
       background:
+        #color: "#36454F"
+        color: white
         image:
           filename: fiber_3D_v1.svg
           filters:
             brightness: 1
-          position: contain
-          size: cover
-        #color: "#1A445C"  # Fallback color
-      spacing:
-        padding: ["0", "0", "0", "0"]
-      alignment:
-        vertical: center
-        horizontal: center
+          position: center
+          parallax: false
+          size: contain
+      #css_class: min-h-screen
+    content:
+      title: |       
+      text: |  
+        <br>
+        <br>
+        <br>
+      #padding: ['0px', '0', '0px', '0']
 
 
   - block: markdown
