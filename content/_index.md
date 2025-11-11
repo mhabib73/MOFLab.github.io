@@ -9,8 +9,8 @@ spacing: "0.5rem"
 sections:
   - block: markdown
     content:
-      title: |
-      Welcome to MOFLab
+      title: Welcome to MOFLab
+      
       text: |
         
     design:
