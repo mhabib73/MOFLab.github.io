@@ -197,7 +197,7 @@ collections:
         required: false
         widget: object
         fields:
-          - label: "Upload an image named `featured.jpg/png`"
+          - label: "Upload an image named `featured.jpg/png/svg/gif`"
             name: "filename"
             widget: "image"
             default: "featured"
