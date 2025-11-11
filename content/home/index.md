@@ -34,6 +34,25 @@ sections:
         <br>
         <br>
       #padding: ['0px', '0', '0px', '0']
+
+  - block: hero
+    content:
+      title: |
+        Microstructure Optical Fiber Lab
+      image:
+        #filename: banner_v1.svg
+        filename: fiber_3D.png
+        filters:
+          brightness: 1
+        position: center
+        size: contain
+      text: |
+      
+    design:
+      no_padding: true
+      spacing:
+        padding: ["0.5rem", 0, "0.5rem", 0]
+        margin: [0, 0, 0, 0]
   
 ---
 
