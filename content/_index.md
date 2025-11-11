@@ -26,7 +26,7 @@ sections:
           position: center
           parallax: false
           size: cover
-      #css_class: min-h-screen
+      css_class: fullscreen
     content:
       title: |       
       text: |  
