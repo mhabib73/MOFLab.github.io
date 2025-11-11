@@ -28,8 +28,8 @@ sections:
           parallax: false
           size: cover
       spacing:
-        padding: ["1rem", 0, "1rem", 0]
-      css_class: halfscreen
+        padding: ["0rem", 0, "0rem", 0]
+      #css_class: halfscreen
 
 
   - block: markdown
