@@ -24,11 +24,11 @@ sections:
           filename: fiber_3D_v2.svg
           filters:
             brightness: 1
-          position: right
+          position: center
           parallax: true
           size: cover
       spacing:
-        padding: ["15rem", 0, "15rem", 0]
+        padding: ["15rem", "10rem", "15rem", "5rem"]
       #css_class: fullscreen
 
 
