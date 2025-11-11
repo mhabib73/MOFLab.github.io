@@ -26,10 +26,10 @@ sections:
             brightness: 1
           position: center
           parallax: true
-          size: 70%
+          size: cover
       spacing:
         padding: ["12rem", 0, "12rem", 0]
-      #css_class: fullscreen
+      css_class: fullscreen
 
 
   - block: markdown
