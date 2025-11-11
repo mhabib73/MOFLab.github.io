@@ -21,7 +21,7 @@ sections:
           filename: fiber_3D.png
           filters:
             brightness: 1
-          position: 80%
+          position: contain
           size: cover
         color: "#f8f9fa"  # Fallback color
       spacing:
