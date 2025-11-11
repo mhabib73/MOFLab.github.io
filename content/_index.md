@@ -6,7 +6,7 @@ type: landing
 spacing: "0.5rem"
 banner:
   caption: ''
-  image: welcome.jpg
+  image: fiber_3D.png
 
 sections:
 
