@@ -24,7 +24,7 @@ sections:
           filename: fiber_3D_v1.svg
           filters:
             brightness: 1
-          position: center
+          position: left
           parallax: true
           size: cover
       spacing:
