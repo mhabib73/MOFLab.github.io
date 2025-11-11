@@ -22,7 +22,7 @@ sections:
           filters:
             brightness: 1
           position: contain
-          size: cover
+          size: 50%
         color: "#f8f9fa"  # Fallback color
       spacing:
         padding: ["0", "0", "0", "0"]
