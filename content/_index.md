@@ -26,7 +26,7 @@ sections:
             brightness: 1
           position: center
           parallax: true
-          size: 90% 90%
+          size: 80% 80%
       spacing:
         padding: ["15rem", 0, "15rem", 0]
       #css_class: fullscreen
