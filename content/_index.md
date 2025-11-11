@@ -26,10 +26,10 @@ sections:
             brightness: 1
           position: left
           parallax: true
-          size: contain
+          size: cover
       spacing:
         padding: ["10rem", 0, "10rem", 0]
-      #css_class: halfscreen
+      css_class: fullscreen
 
 
   - block: markdown
