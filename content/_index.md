@@ -28,7 +28,7 @@ sections:
           parallax: true
           size: cover
       spacing:
-        padding: ["15rem", 0, "15rem", 0]
+        padding: ["10rem", 0, "10rem", 0]
       #css_class: halfscreen
 
 
