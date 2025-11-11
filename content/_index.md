@@ -11,12 +11,13 @@ sections:
   - block: markdown
     content:
       title: |
-
         <br>
-        <span style="font-size: 3rem; color: white; white-space: nowrap;">Welcome to Microstructure Optical Fiber Lab</span>
+        <span style="font-size: 3rem; color: white; white-space: nowrap; text-align: left; display: block;">
+        Welcome to Microstructure Optical Fiber Lab </span>
       
       text: |
-        <span style="font-size: 2rem; color: white; text-align: left; white-space: nowrap;">advancng science of light for all</span>
+        <span style="font-size: 2rem; color: white; white-space: nowrap; text-align: left; display: block;">
+        advancing science of light for all </span>
         
     design:
       column: "1"
