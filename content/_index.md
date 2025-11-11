@@ -28,7 +28,7 @@ sections:
           parallax: true
           size: cover
       spacing:
-        padding: ["15rem", "10rem", "15rem", "5rem"]
+        padding: ["18rem", 0, "18rem", 0]
       #css_class: fullscreen
 
 
