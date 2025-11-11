@@ -12,7 +12,8 @@ sections:
       title: |
         Microstructure Optical Fiber Lab
       image:
-        filename: banner_v1.svg
+        #filename: banner_v1.svg
+        filename: fiber_3D.png
       text: |
       
     design:
