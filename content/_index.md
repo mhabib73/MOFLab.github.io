@@ -27,7 +27,7 @@ sections:
           position: center
           parallax: true
           size: cover
-      spacing:
+      #spacing:
         #padding: ["15rem", 0, "15rem", 0]
       css_class: fullscreen
 
