@@ -83,7 +83,7 @@ collections:
     fields:  # The fields each document in this collection have
       - {label: "Display name (such as your full name)", name: "title", widget: "string"}
       - {label: "Position or tagline (such as Professor of AI)", name: "role", widget: "string", required: false}
-      - label: "Avatar (upload an image named `avatar.jpg/png/svg`)"
+      - label: "Avatar (upload an image named `avatar.jpg/png`)"
         name: "avatar_filename"
         widget: "image"
         default: "avatar"
@@ -197,7 +197,7 @@ collections:
         required: false
         widget: object
         fields:
-          - label: "Upload an image named `featured.jpg/png/svg/gif`"
+          - label: "Upload an image named `featured.jpg/png`"
             name: "filename"
             widget: "image"
             default: "featured"
@@ -269,7 +269,7 @@ collections:
         required: false
         widget: object
         fields:
-          - label: "Upload an image named `featured.svg`"
+          - label: "Upload an image named `featured.jpg/png`"
             name: "filename"
             widget: "image"
             default: "featured"
@@ -349,7 +349,7 @@ collections:
         required: false
         widget: object
         fields:
-          - label: "Upload an image named `featured.jpg/png/svg/gif`"
+          - label: "Upload an image named `featured.jpg/png`"
             name: "filename"
             widget: "image"
             default: "featured"
@@ -429,7 +429,7 @@ collections:
         required: false
         widget: object
         fields:
-          - label: "Upload an image named `featured.jpg/png/svg/gif`"
+          - label: "Upload an image named `featured.jpg/png`"
             name: "filename"
             widget: "image"
             default: "featured"
@@ -476,7 +476,7 @@ collections:
         required: false
         widget: object
         fields:
-          - label: "Upload an image named `featured.jpg/png/svg/gif`"
+          - label: "Upload an image named `featured.jpg/png`"
             name: "filename"
             widget: "image"
             default: "featured"
