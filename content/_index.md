@@ -19,7 +19,7 @@ sections:
         horizontal: center
         vertical: middle
       background:
-        color: white
+        color: "#193769"
         image:
           filename: fiber_3D_v2.svg
           filters:
