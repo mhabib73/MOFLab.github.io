@@ -29,7 +29,7 @@ sections:
           size: cover
       css_class: halfscreen
       spacing:
-        padding: ["20rem", 0, "0em", 0]
+        padding: ["1rem", 0, "25em", 0]
 
 
 
