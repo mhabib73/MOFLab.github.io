@@ -10,9 +10,9 @@ sections:
   - block: markdown
     content:
       title: |
-      
+      Welcome to MOFLab
       text: |
-        Welcome to MOFLab
+        
     design:
       column: "1"
       alignment:
@@ -28,7 +28,7 @@ sections:
           parallax: false
           size: cover
       spacing:
-        padding: ["10rem", 0, "10rem", 0]
+        padding: ["15rem", 0, "15rem", 0]
       #css_class: halfscreen
 
 
