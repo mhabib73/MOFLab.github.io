@@ -269,11 +269,10 @@ collections:
         required: false
         widget: object
         fields:
-          - label: "Upload an image named `featured.jpg/png`"
+          - label: "Upload an image named `featured.svg`"
             name: "filename"
             widget: "image"
-            default: "featured.svg"
-            accept: "image/svg+xml"
+            default: "featured"
             required: false
             media_library:
               config:
