@@ -21,7 +21,7 @@ sections:
       background:
         color: white
         image:
-          filename: fiber_3D_v1.svg
+          filename: fiber_3D_v2.svg
           filters:
             brightness: 1
           position: center
