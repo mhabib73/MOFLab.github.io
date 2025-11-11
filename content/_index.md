@@ -34,7 +34,7 @@ sections:
           size: cover
       #css_class: halfscreen
       spacing:
-        padding: ["40rem", 0, "30em", 0]
+        padding: ["0rem", 0, "25em", 0]
 
 
   - block: markdown
