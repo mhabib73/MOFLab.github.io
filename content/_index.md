@@ -9,7 +9,7 @@ spacing: "0.5rem"
 sections:
   - block: markdown
     content:
-      title: Welcome to MOFLab
+      title: |
       
       text: |
         
@@ -25,7 +25,7 @@ sections:
           filters:
             brightness: 1
           position: center
-          parallax: false
+          parallax: true
           size: cover
       spacing:
         padding: ["15rem", 0, "15rem", 0]
