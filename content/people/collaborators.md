@@ -1,6 +1,6 @@
 ---
 # An instance of the blank widget
-widget: blank
+widget: portfolio
 
 # Activate this widget? true/false
 active: true
