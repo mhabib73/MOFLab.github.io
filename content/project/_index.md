@@ -1,7 +1,7 @@
 ---
 title: "Research"
-type: widget_page
-
+date: 2025-11-11
+type: landing
 design:
   spacing: "5rem"
 
