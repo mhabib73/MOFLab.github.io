@@ -69,7 +69,7 @@ sections:
         padding: ["1rem", 0, "1rem", 0]
         margin: [0, 0, 0, 0]
 
-  - block: collection
+  - block: portfolio
     content:
       title: '<div style="text-align: left; color: black;">Research areas</div>'
       text: ""
@@ -77,7 +77,7 @@ sections:
       filters:
         folders:
           - project
-        #publication_type: 'featured-article'
+       
     design:
       view: showcase
       columns: '1'
@@ -114,7 +114,7 @@ sections:
       filters:
         folders:
           - news
-        #publication_type: 'featured-article'
+        
     design:
       # Section background color (CSS class)
       css_class: "bg-primary-700"
