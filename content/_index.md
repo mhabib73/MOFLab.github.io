@@ -140,9 +140,6 @@ sections:
           filters:
             brightness: 1
           position: center
-          parallax: true
+          parallax: false
           size: contain
-      #css_class: halfscreen
-      spacing:
-        padding: ["0rem", 0, "0em", 0]
 ---
