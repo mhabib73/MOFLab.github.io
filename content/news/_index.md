@@ -1,11 +1,6 @@
 ---
 title: Latest news
 date: 2025-11-11
-type: landing
-widget: portfolio
-
-design:
-  spacing: "5rem"
 
 sections:
 
