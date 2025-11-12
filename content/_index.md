@@ -126,20 +126,7 @@ sections:
         padding: ["1rem", 0, "1rem", 0]
         margin: [0, 0, 0, 0]
 
-  - block: collection
-   
-    design:
-      column: "1"
-      alignment:
-        horizontal: center
-        vertical: middle
-      background:
-        color: ""
-        image:
-          filename: logos.png
-          filters:
-            brightness: 1
-          position: center
-          parallax: false
-          size: contain
+banner:
+  caption: ''
+  image: 'logos.png'
 ---
