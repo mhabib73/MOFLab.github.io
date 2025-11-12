@@ -1,7 +1,6 @@
 ---
 title: "Research"
-type: landing
-
+type: widget_type
 
 design:
   spacing: "5rem"
