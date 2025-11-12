@@ -126,12 +126,8 @@ sections:
         padding: ["1rem", 0, "1rem", 0]
         margin: [0, 0, 0, 0]
 
-  - block: markdown
-    content:
-      title: 
-      text: ""
-      count: 5
-
+  - block: collection
+   
     design:
       column: "1"
       alignment:
