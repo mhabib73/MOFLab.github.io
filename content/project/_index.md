@@ -1,6 +1,5 @@
 ---
 title: "Research"
-date: 2025-10-20
 widget = "portfolio"
 
 design:
