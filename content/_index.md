@@ -79,7 +79,7 @@ sections:
           - project
        
     design:
-      view: showcase
+      view: card
       columns: '1'
       text_align: left
       no_padding: true
