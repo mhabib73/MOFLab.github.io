@@ -2,7 +2,7 @@
 # An instance of the People widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 title: "People"
-widget: people
+widget: portfolio
 
 # This file represents a page section.
 headless: true
