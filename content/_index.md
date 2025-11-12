@@ -80,7 +80,7 @@ sections:
        
     design:
       view: card
-      columns: '1'
+      columns: '3'
       text_align: left
       no_padding: true
       spacing:
