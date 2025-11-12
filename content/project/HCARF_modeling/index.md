@@ -20,7 +20,7 @@ author_notes:
   <div style="flex: 1; min-width: 300px;">
     {{< figure src="HCARF_10tube.gif" caption="regular HCARF: optical fiber modes" >}}
   </div>
-  <div style="flex: 1; min-width: 300px;">
+  <div style="flex: 1; min-width: 100px;">
     {{< figure src="HCARF_12tube.gif" caption="nested HCARF: optical fiber modes" >}}
   </div>
 </div>
