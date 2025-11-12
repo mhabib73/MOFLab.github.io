@@ -69,6 +69,26 @@ sections:
         padding: ["1rem", 0, "1rem", 0]
         margin: [0, 0, 0, 0]
 
+  - block: collection
+    content:
+      title: '<div style="text-align: left; color: black;">Latest news</div>'
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - news
+        
+    design:
+      # Section background color (CSS class)
+      css_class: "bg-primary-700"
+      #view: list
+      columns: '1'
+      text_align: left
+      no_padding: true
+      spacing:
+        padding: ["1rem", 0, "1rem", 0]
+        margin: [0, 0, 0, 0]
+
   - block: portfolio
     content:
       title: '<div style="text-align: left; color: black;">Research areas</div>'
@@ -105,26 +125,6 @@ sections:
         padding: ["1rem", 0, "1rem", 0]
         margin: [0, 0, 0, 0]
 
-
-  - block: collection
-    content:
-      title: '<div style="text-align: left; color: black;">Latest news</div>'
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - news
-        
-    design:
-      # Section background color (CSS class)
-      css_class: "bg-primary-700"
-      #view: list
-      columns: '1'
-      text_align: left
-      no_padding: true
-      spacing:
-        padding: ["1rem", 0, "1rem", 0]
-        margin: [0, 0, 0, 0]
 
 
 ---
