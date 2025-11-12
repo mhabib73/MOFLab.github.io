@@ -69,20 +69,20 @@ sections:
         padding: ["1rem", 0, "1rem", 0]
         margin: [0, 0, 0, 0]
 
-  - block: portfolio
+  - block: collection
     content:
       title: '<div style="text-align: left; color: black;">Latest news</div>'
       text: ""
-      #count: 5
+      count: 5
       filters:
         folders:
           - news
-    count: 5
+
         
     design:
       # Section background color (CSS class)
       css_class: "bg-primary-700"
-      view: masonry
+      view: compact
       columns: '1'
       text_align: left
       no_padding: true
