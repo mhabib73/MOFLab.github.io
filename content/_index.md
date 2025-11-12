@@ -69,7 +69,7 @@ sections:
         padding: ["1rem", 0, "1rem", 0]
         margin: [0, 0, 0, 0]
 
-  - block: collection
+  - block: masonry
     content:
       title: '<div style="text-align: left; color: black;">Latest news</div>'
       text: ""
@@ -81,7 +81,7 @@ sections:
     design:
       # Section background color (CSS class)
       css_class: "bg-primary-700"
-      #view: list
+      view: masonry
       columns: '1'
       text_align: left
       no_padding: true
