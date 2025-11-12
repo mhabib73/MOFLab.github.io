@@ -19,10 +19,10 @@ author_notes:
 {{< figure src="HCARF_10tube.gif" caption="optical fiber modes" >}}
 
 <div style="display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap; margin: 30px 0;">
-  <div style="flex: 1; min-width: 450px;">
+  <div style="flex: 1; min-width: 350px;">
     {{< figure src="HCARF_10tube.gif" caption="optical fiber modes" >}}
   </div>
-  <div style="flex: 1; min-width: 450px;">
+  <div style="flex: 1; min-width: 350px;">
     {{< figure src="HCARF_10tube.gif" caption="optical fiber modes" >}}
   </div>
 </div>
