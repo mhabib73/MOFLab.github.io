@@ -80,7 +80,7 @@ sections:
        
     design:
       view: showcase
-      columns: '2'
+      columns: '1'
       text_align: left
       no_padding: true
       spacing:
