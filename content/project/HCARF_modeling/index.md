@@ -20,10 +20,10 @@ author_notes:
 
 <div style="display: flex; justify-content: space-between; gap: 25px; flex-wrap: wrap; margin: 30px 0;">
   <div style="flex: 1; min-width: 300px;">
-    {{< figure src="/images/HCARF_10tube.gif" caption="Figure 1: Steady-state mode distribution in the 10-tube structure" >}}
+    {{< figure src="HCARF_10tube.gif" caption="optical fiber modes" >}}
   </div>
   <div style="flex: 1; min-width: 300px;">
-    {{< figure src="/images/HCARF_10tube_response.gif" caption="Figure 2: Dynamic response after applying external stimulus" >}}
+    {{< figure src="HCARF_10tube.gif" caption="optical fiber modes" >}}
   </div>
 </div>
 
