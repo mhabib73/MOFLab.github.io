@@ -1,6 +1,6 @@
 ---
 title: "Research"
-type: widget_type
+type: widget_page
 
 design:
   spacing: "5rem"
