@@ -133,15 +133,20 @@ sections:
       count: 5
 
     design:
-      # Section background color (CSS class)
-      css_class: "bg-primary-700"
-      #view: list
-      columns: '1'
-      text_align: left
-      no_padding: true
+      column: "1"
+      alignment:
+        horizontal: center
+        vertical: middle
+      background:
+        color: ""
+        image:
+          filename: logos.png
+          filters:
+            brightness: 1
+          position: center
+          parallax: true
+          size: cover
+      #css_class: halfscreen
       spacing:
-        padding: ["1rem", 0, "1rem", 0]
-        margin: [0, 0, 0, 0]
-
-    ![UCL logo, CMIC logo, i4health logo, weiss logo](logos.png)
+        padding: ["0rem", 0, "0em", 0]
 ---
