@@ -18,12 +18,12 @@ author_notes:
 ---
 {{< figure src="HCARF_10tube.gif" caption="optical fiber modes" >}}
 
-<div style="display: flex; justify-content: space-between; gap: 5px; flex-wrap: wrap; margin: 50px 0;">
-  <div style="flex: 1; min-width: 350px;">
-    {{< figure src="HCARF_12tube.gif" caption="optical fiber modes" >}}
+<div style="display: flex; justify-content: space-between; gap: 15px; flex-wrap: wrap; margin: 50px 0;">
+  <div style="flex: 1; min-width: 300px;">
+    {{< figure src="HCARF_10tube.gif" caption="regular HCARF: optical fiber modes" >}}
   </div>
-  <div style="flex: 1; min-width: 350px;">
-    {{< figure src="HCARF_12tube.gif" caption="optical fiber modes" >}}
+  <div style="flex: 1; min-width: 300px;">
+    {{< figure src="HCARF_12tube.gif" caption="nested HCARF: optical fiber modes" >}}
   </div>
 </div>
 
