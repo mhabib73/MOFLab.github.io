@@ -1,6 +1,7 @@
 ---
 title: "Research"
-widget = "portfolio"
+type: landing
+
 
 design:
   spacing: "5rem"
