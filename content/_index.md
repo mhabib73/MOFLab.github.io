@@ -127,4 +127,3 @@ sections:
         margin: [0, 0, 0, 0]
 ---
 
-{{< figure src="logos.png" title=""  >}}
