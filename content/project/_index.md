@@ -1,7 +1,6 @@
 ---
 title: "Research"
 date: 2025-10-20
-type: landing
 widget = "portfolio"
 
 design:
