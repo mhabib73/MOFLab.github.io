@@ -43,3 +43,5 @@ Design and modeling of advanced optical fibers are crucial for driving innovatio
   - Loss characterization
   - Dispersion measurement
 
+{{< figure src="lungmask.gif" title="**Edinburgh Powder Tester**"  >}}
+
