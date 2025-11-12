@@ -18,7 +18,7 @@ author_notes:
 ---
 {{< figure src="HCARF_regular.gif" title=""  >}}
 
-Design and modeling of advanced optical fibers are crucial for driving innovation in modern photonics. By understanding and engineering fiber geometries, materials, and guiding mechanisms, one can tailor light propagation to achieve unprecedented performance in communication, sensing, and laser systems. This project enables the development of low-loss, high-power, and application-specific fibers—paving the way for breakthroughs in next-generation networks, biomedical diagnostics, and quantum technologies.
+Design and modeling of advanced optical fibers are crucial for driving innovation in modern photonics. By understanding and engineering fiber geometries, materials, and guiding mechanisms, one can tailor light propagation to achieve unprecedented performance in communication, sensing, and laser systems. This project enables the development of low-loss, high-power, and application-specific fibers which could pave the way for breakthroughs in next-generation networks, biomedical diagnostics, and quantum technologies.
 
 **MOFlab focues on:**
 
