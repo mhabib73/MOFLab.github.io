@@ -46,7 +46,7 @@ sections:
         padding: ["2rem", 0, "2rem", 0]
         margin: [0, 0, 0, 0]
       view: showcase
-      columns: 2
+      columns: 3
       background: 
         color: ""
       show_date: false
