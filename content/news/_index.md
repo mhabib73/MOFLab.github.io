@@ -1,6 +1,7 @@
 ---
 title: Latest news
 date: 2025-11-11
+widget: portfolio
 
 sections:
 
