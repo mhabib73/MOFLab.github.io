@@ -69,7 +69,7 @@ sections:
         padding: ["1rem", 0, "1rem", 0]
         margin: [0, 0, 0, 0]
 
-  - block: portfolio
+  - block: collection
     content:
       title: '<div style="text-align: left; color: black;">Research areas</div>'
       text: ""
@@ -79,8 +79,8 @@ sections:
           - project
        
     design:
-      view: card
-      columns: '3'
+      view: showcase
+      columns: '2'
       text_align: left
       no_padding: true
       spacing:
