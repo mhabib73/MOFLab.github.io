@@ -69,7 +69,7 @@ sections:
         padding: ["1rem", 0, "1rem", 0]
         margin: [0, 0, 0, 0]
 
-  - block: masonry
+  - block: portfolio
     content:
       title: '<div style="text-align: left; color: black;">Latest news</div>'
       text: ""
