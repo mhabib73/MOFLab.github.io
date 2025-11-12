@@ -126,7 +126,7 @@ sections:
         padding: ["1rem", 0, "1rem", 0]
         margin: [0, 0, 0, 0]
 
-  - block: collection
+  - block: markdown
     content:
       title: 
       text: ""
@@ -145,7 +145,7 @@ sections:
             brightness: 1
           position: center
           parallax: true
-          size: cover
+          size: contain
       #css_class: halfscreen
       spacing:
         padding: ["0rem", 0, "0em", 0]
