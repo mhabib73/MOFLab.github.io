@@ -45,8 +45,8 @@ sections:
       spacing:
         padding: ["2rem", 0, "2rem", 0]
         margin: [0, 0, 0, 0]
-      view: showcase
-      columns: 3
+      view: masonry
+      columns: 2
       background: 
         color: ""
       show_date: false
