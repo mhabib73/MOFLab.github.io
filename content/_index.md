@@ -73,10 +73,11 @@ sections:
     content:
       title: '<div style="text-align: left; color: black;">Latest news</div>'
       text: ""
-      count: 5
+      #count: 5
       filters:
         folders:
           - news
+    count: 5
         
     design:
       # Section background color (CSS class)
