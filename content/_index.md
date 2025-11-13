@@ -34,8 +34,8 @@ sections:
           parallax: true
           size: cover
       css_class: hero-section
-      spacing:
-        padding: ["0rem", 0, "0em", 0]
+      #spacing:
+        #padding: ["0rem", 0, "0em", 0]
 
   - block: hero
     content:
