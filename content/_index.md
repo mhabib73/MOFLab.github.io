@@ -33,9 +33,9 @@ sections:
           position: center
           parallax: true
           size: cover
-      #css_class: halfscreen
+      css_class: hero-section
       spacing:
-        padding: ["0rem", 0, "25em", 0]
+        padding: ["0rem", 0, "0em", 0]
 
   - block: hero
     content:
