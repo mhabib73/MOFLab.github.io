@@ -55,6 +55,7 @@ sections:
         <br>
         * Smart fiber-based nonlinear devices
     design:
+      css_class: "white"
       columns: '1'
       text_align: left
       no_padding: true
