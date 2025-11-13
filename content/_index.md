@@ -44,17 +44,20 @@ sections:
         filename: HCARF_12tube_trans.gif
         caption: "optical fiber modes"
       text: |
-        <div style="font-size: 1rem; line-height: 1.6;">
-        Our research group focuses on: <br>
-        * Advanced optical fiber design/modeling, fabrication, and characterization
+        <div style="text-align: center;">
+          <em style="font-size: 14px;">Figure 1: optical fiber modes</em>
+        </div>
         <br>
-        * Smart, low-cost and energy-efficient fiber sensors
-        <br>
-        * Ultrafast nonlinear optics (single-mode and multi-mode regimes)
-        <br>
-        * Light-matter interactions
-        <br>
-        * Smart fiber-based nonlinear devices
+        <div style="text-align: left; max-width: 600px; margin: 0 auto;">
+          Our research group focuses on:
+          <ul style="list-style-type: disc; padding-left: 20px;">
+            <li style="font-size: 16px;">Advanced optical fiber design/modeling, fabrication, and characterization</li>
+            <li style="font-size: 18px;">Smart, low-cost and energy-efficient fiber sensors</li>
+            <li style="font-size: 16px;">Ultrafast nonlinear optics (single-mode and multi-mode regimes)</li>
+            <li style="font-size: 16px;">Light-matter interactions</li>
+            <li style="font-size: 16px;">Smart fiber-based nonlinear devices</li>
+          </ul>
+        </div>
 
     design:
       css_class: white
