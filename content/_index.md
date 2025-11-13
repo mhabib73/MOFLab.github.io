@@ -45,7 +45,7 @@ sections:
       text: |
         <div style="overflow: auto;">
         <img src="/media/HCARF_12tube_trans.gif" alt="Research visualization"
-             style="float: left; margin: 0 50px 50px 0; width: 500px; height: auto; border-radius: 50px;">
+             style="float: left; margin: 0 50px 50px 0; width: 500px; height: 500px; border-radius: 50px;">
         <p>
         We investigate next-generation optical fiber technologies that redefine how light travels. Our work centers on innovative hollow-core fibers: engineered with microscopic air channels that let light propagate
         faster, over longer distances, and with exceptionally low loss. Through advanced microstructured designs, we aim to achieve ultra-low transmission loss, minimal latency, and broad bandwidth, opening new
