@@ -45,13 +45,13 @@ sections:
         caption: optical fiber modes
       text: |
         <div style="text-align: left; max-width: 1500px; margin: 0 auto;">
-          <strong style="display: block; margin-bottom: 0.1px;">What we do:</strong>
+          <strong >What we do in our lab:</strong>
           <br>
           <ul style="list-style-type: disc; padding-left: 50px;">
-            <li style="font-size: 23px;">Advanced optical fiber design, fabrication, and characterization</li>
+            <li style="font-size: 23px;">Advanced fiber design, fabrication, and characterization</li>
             <li style="font-size: 23px;">Smart, low-cost and energy-efficient fiber sensors</li>
             <li style="font-size: 23px;">Smart fiber-based nonlinear devices</li>
-            <li style="font-size: 23px;">Extreme light-matter interactions (single/multi-mode regimes)</li>
+            <li style="font-size: 23px;">Extreme light-matter interactions in fibers</li>
 
           </ul>
         </div>
