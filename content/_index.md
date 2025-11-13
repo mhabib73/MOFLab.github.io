@@ -47,11 +47,11 @@ sections:
         <div style="text-align: left; max-width: 600px; margin: 0 auto;">
           Our research group focuses on:
           <ul style="list-style-type: disc; padding-left: 20px;">
-            <li style="font-size: 20px;">Advanced optical fiber design/modeling, fabrication, and characterization</li>
-            <li style="font-size: 20px;">Smart, low-cost and energy-efficient fiber sensors</li>
-            <li style="font-size: 20px;">Ultrafast nonlinear optics (single-mode and multi-mode regimes)</li>
-            <li style="font-size: 20px;">Light-matter interactions</li>
-            <li style="font-size: 20px;">Smart fiber-based nonlinear devices</li>
+            <li style="font-size: 23px;">Advanced optical fiber design/modeling, fabrication, and characterization</li>
+            <li style="font-size: 23px;">Smart, low-cost and energy-efficient fiber sensors</li>
+            <li style="font-size: 23px;">Ultrafast nonlinear optics (single-mode and multi-mode regimes)</li>
+            <li style="font-size: 23px;">Light-matter interactions</li>
+            <li style="font-size: 23px;">Smart fiber-based nonlinear devices</li>
           </ul>
         </div>
 
