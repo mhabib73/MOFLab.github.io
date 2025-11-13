@@ -11,7 +11,6 @@ sections:
   - block: markdown
     content:
       title: |
-        <br>
         <span style="font-size: 3rem; color: white; white-space: nowrap; text-align: left; display: block;">
         Welcome to Microstructure Optical Fiber Lab </span>
       
@@ -52,7 +51,6 @@ sections:
             <li style="font-size: 23px;">Energy-efficient and low-cost fiber sensors</li>
             <li style="font-size: 23px;">Smart fiber-based nonlinear devices</li>
             <li style="font-size: 23px;">Extreme light-matter interactions in fibers</li>
-            <li style="font-size: 23px;">Ultrafast nonlinear optics in gases</li>
 
           </ul>
         </div>
@@ -65,7 +63,7 @@ sections:
       text_align: left
       no_padding: true
       spacing:
-        padding: ["1rem", 0, "1rem", 0]
+        padding: ["1rem", 0, "0rem", 0]
         margin: [0, 0, 0, 0]
 
   - block: markdown
