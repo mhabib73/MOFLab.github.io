@@ -40,22 +40,9 @@ sections:
   - block: hero
     content:
       title: |
-
       image:
         filename: HCARF_12tube_trans.gif
       text: |
-          
-        Our research group focuses on: <br>
-    
-        * Advanced optical fiber design/modeling, fabrication, and characterization
-        <br>
-        * Smart, low-cost and energy-efficient fiber sensors
-        <br>
-        * Ultrafast nonlinear optics (single-mode and multi-mode regimes)
-        <br>
-        * Light-matter interactions
-        <br>
-        * Smart fiber-based nonlinear devices
 
 
   - block: markdown
