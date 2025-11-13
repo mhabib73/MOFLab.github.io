@@ -37,6 +37,22 @@ sections:
       spacing:
         padding: ["0rem", 0, "25em", 0]
 
+  - block: hero
+    content:
+      title: |
+        Wowchemy
+        Research Group
+      image:
+        filename: HCARF_12tube_trans.gif
+      text: |
+        <br>
+        <div style="display: flex; justify-content: center;">
+        <img src="HCARF_12tube_trans.gif" alt="Research visualization"
+             style="max-width: 80%; height: auto; border-radius: 10px;">
+        </div>
+        
+        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+
 
   - block: markdown
     content:
