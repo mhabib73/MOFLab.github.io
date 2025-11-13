@@ -42,6 +42,7 @@ sections:
       title: |
       image:
         filename: HCARF_12tube_trans.gif
+        caption: "optical fiber modes"
       text: |
         Our research group focuses on: <br>
         * Advanced optical fiber design/modeling, fabrication, and characterization
@@ -53,6 +54,13 @@ sections:
         * Light-matter interactions
         <br>
         * Smart fiber-based nonlinear devices
+    design:
+      columns: '1'
+      text_align: left
+      no_padding: true
+      spacing:
+        padding: ["1rem", 0, "1rem", 0]
+        margin: [0, 0, 0, 0]
 
 
   - block: markdown
@@ -69,17 +77,6 @@ sections:
         <br><br>
         We welcome collaborations with academic groups, industry partners, and students interested in shaping the next generation of photonic technologies.
         <br><br>
-        Our research group focuses on: <br>
-    
-        * Advanced optical fiber design/modeling, fabrication, and characterization
-        <br>
-        * Smart, low-cost and energy-efficient fiber sensors
-        <br>
-        * Ultrafast nonlinear optics (single-mode and multi-mode regimes)
-        <br>
-        * Light-matter interactions
-        <br>
-        * Smart fiber-based nonlinear devices
     design:
       no_padding: true
       spacing:
