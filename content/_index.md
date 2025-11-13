@@ -33,7 +33,7 @@ sections:
           position: center
           parallax: true
           size: cover
-      css_class: hero-section custom-aspect
+      css_class: hero-section 
       #spacing:
         #padding: ["0rem", 0, "0em", 0]
 
