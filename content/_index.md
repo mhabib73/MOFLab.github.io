@@ -42,8 +42,6 @@ sections:
       title: |
       image:
         filename: HCARF_12tube_trans.gif
-        alt_text: optical fiber modes
-        style: "width:400px; height:200px; border-radius:10px;"
       text: |
         <div style="text-align: left; max-width: 1500px; margin: 0 auto;">
           <strong >What we do in our lab:</strong>
