@@ -44,7 +44,7 @@ sections:
           
       text: |
         <div style="overflow: auto;">
-        <img src="{{< relURL \"assets/media/HCARF_12tube_trans.gif\" >}}"
+        <img src="{{HCARF_12tube_trans.gif\" >}}"
              alt="Research visualization"
              style="float: left; margin: 0 20px 10px 0; width: 300px; height: auto;">
         <p>
