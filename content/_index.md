@@ -40,18 +40,22 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+
       image:
         filename: HCARF_12tube_trans.gif
       text: |
+          
+        Our research group focuses on: <br>
+    
+        * Advanced optical fiber design/modeling, fabrication, and characterization
         <br>
-        <div style="display: flex; justify-content: center;">
-        <img src="HCARF_12tube_trans.gif" alt="Research visualization"
-             style="max-width: 80%; height: auto; border-radius: 10px;">
-        </div>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        * Smart, low-cost and energy-efficient fiber sensors
+        <br>
+        * Ultrafast nonlinear optics (single-mode and multi-mode regimes)
+        <br>
+        * Light-matter interactions
+        <br>
+        * Smart fiber-based nonlinear devices
 
 
   - block: markdown
