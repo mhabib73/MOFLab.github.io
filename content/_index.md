@@ -45,7 +45,8 @@ sections:
         caption: optical fiber modes
       text: |
         <div style="text-align: left; max-width: 900px; margin: 0 auto;">
-          Our research group focuses on:
+          **Our research group focuses on:**
+          <br>
           <ul style="list-style-type: disc; padding-left: 40px;">
             <li style="font-size: 23px;">Advanced optical fiber design/modeling, fabrication, and characterization</li>
             <li style="font-size: 23px;">Smart, low-cost and energy-efficient fiber sensors</li>
