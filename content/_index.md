@@ -43,9 +43,7 @@ sections:
       title: |
           
       text: |
-        <div style="display: flex; align-items: flex-start; gap: 1.5rem;">
-        <div style="flex: 1;">
-          <img src="HCARF_12tube_trans.gif" alt="Research visualization" style="float: left; margin: 0 1rem 1rem 0; max-width: 300px; height: auto;">
+        {{< figure src="HCARF_12tube_trans.gif" caption="optical fiber modes" >}}
         We investigate next-generation optical fiber technologies that redefine how light travels. Our work centers on innovative hollow-core fibers: engineered with microscopic air channels that let light propagate
         faster, over longer distances, and with exceptionally low loss. Through advanced microstructured designs, we aim to achieve ultra-low transmission loss, minimal latency, and broad bandwidth, opening new
         possibilities for the future of high-speed communication, data networks, and beyond.
