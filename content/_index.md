@@ -7,6 +7,7 @@ type: landing
 
 
 sections:
+
   - block: markdown
     content:
       title: |
@@ -66,30 +67,6 @@ sections:
       spacing:
         padding: ["1rem", 0, "1rem", 0]
         margin: [0, 0, 0, 0]
-    
-  - block: hero
-  content:
-    title: |
-    text: |
-      <div class="hero-content">
-        <div class="hero-text">
-          <strong>What we do in our lab:</strong>
-          <ul>
-            <li>Computational photonics</li>
-            <li>Advanced fiber design, fabrication, and characterization</li>
-            <li>Energy-efficient and low-cost fiber sensors</li>
-            <li>Smart fiber-based nonlinear devices</li>
-            <li>Extreme light-matter interactions in fibers</li>
-            <li>Ultrafast nonlinear optics in gases</li>
-          </ul>
-        </div>
-
-        <figure class="hero-image">
-          <img src="HCARF_12tube_trans.gif" alt="Optical fiber modes">
-          <figcaption>Optical fiber modes</figcaption>
-        </figure>
-      </div>
-
 
 
   - block: markdown
