@@ -18,8 +18,7 @@ author_notes:
 
 ---
 <div class="project-svg-container">
-  <img src="/images/project_logo.svg" alt="Advanced Fiber Project Logo" />
-  <figcaption class="project-svg-caption">Advanced Fiber Project Logo</figcaption>
+  <img src="simulation_logo.svg" alt="Advanced Fiber Project Logo" />
 </div>
 
 
