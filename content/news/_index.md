@@ -8,8 +8,6 @@ sections:
   - block: portfolio
     content:
       title: '<div style="grid-column: 1 / -1; text-align:left; font-size:2rem;">Latest news</div>'
-      <br>
-      <br>
       text: |
       filters:
         folders:
@@ -17,7 +15,7 @@ sections:
     design:
       no_padding: true
       spacing:
-        padding: ["2rem", 0, "2rem", 0]
+        padding: ["5rem", 0, "2rem", 0]
         margin: [0, 0, 0, 0]
       view: masonry
       columns: 1
