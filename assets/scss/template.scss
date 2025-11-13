@@ -93,3 +93,47 @@
 }
 
 
+/* Hide the default featured image from Hugo Research theme */
+.project-card img[src$="featured.png"],
+.project-featured img[src$="featured.png"] {
+  display: none !important;
+}
+
+/* Container for the SVG */
+.project-svg-container {
+  text-align: center;
+  margin: 20px auto;
+}
+
+/* SVG styling */
+.project-svg-container img {
+  width: 250px;      /* adjust size */
+  max-width: 100%;   /* responsive */
+  height: auto;
+  border-radius: 8px;
+}
+
+/* SVG caption styling */
+.project-svg-caption {
+  font-size: 16px;
+  color: #555;
+  margin-top: 8px;
+  display: block;
+  text-align: center;
+  font-style: italic;
+}
+
+/* Optional: grid view SVG styling */
+.project-svg-grid {
+  text-align: center;
+}
+
+.project-svg-grid img {
+  width: 200px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+
+
