@@ -8,6 +8,8 @@ sections:
   - block: portfolio
     content:
       title: '<div style="grid-column: 1 / -1; text-align:left; font-size:2rem;">Latest news</div>'
+      <br>
+      <br>
       text: |
       filters:
         folders:
