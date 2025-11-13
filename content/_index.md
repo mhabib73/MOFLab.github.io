@@ -43,35 +43,27 @@ sections:
       title: |
           
       text: |
-        <figure src="HCARF_12tube_trans.gif" alt="Research visualization"
-             style="float: left; margin: 0 20px 20px 0; width: 300px; height: 300px; border-radius: 20px;">
-        <p>
+        {{< figure src="HCARF_12tube_trans.gif" alt="Research visualization" style="float: left; margin: 0 20px 10px 0; width: 300px; height: auto;" >}}
         We investigate next-generation optical fiber technologies that redefine how light travels. Our work centers on innovative hollow-core fibers: engineered with microscopic air channels that let light propagate
         faster, over longer distances, and with exceptionally low loss. Through advanced microstructured designs, we aim to achieve ultra-low transmission loss, minimal latency, and broad bandwidth, opening new
         possibilities for the future of high-speed communication, data networks, and beyond.
-        </p>
-
-        <p>
+        <br><br>
         By combining theory, simulation, and experimental fabrication, we aim to understand the underlying physics of light propagation in complex fiber geometries. Our insights drive the development of practical fiber
         designs with transformative applications in AI data centers, quantum communication, ultrafast data transmission, advanced laser systems, fiber-optic sensing, and biomedical imaging.
-        </p>
-
-        <p>
+        <br><br>
         We welcome collaborations with academic groups, industry partners, and students interested in shaping the next generation of photonic technologies.
-        </p>
-
-        <p>
-        Our research group focuses on:
-        </p>
-
-        <ul>
-          <li>Advanced optical fiber design/modeling, fabrication, and characterization</li>
-          <li>Smart, low-cost and energy-efficient fiber sensors</li>
-          <li>Ultrafast nonlinear optics (single-mode and multi-mode regimes)</li>
-          <li>Light-matter interactions</li>
-          <li>Smart fiber-based nonlinear devices</li>
-        </ul>
-        </div>
+        <br><br>
+        Our research group focuses on: <br>
+    
+        * Advanced optical fiber design/modeling, fabrication, and characterization
+        <br>
+        * Smart, low-cost and energy-efficient fiber sensors
+        <br>
+        * Ultrafast nonlinear optics (single-mode and multi-mode regimes)
+        <br>
+        * Light-matter interactions
+        <br>
+        * Smart fiber-based nonlinear devices
     design:
       no_padding: true
       spacing:
