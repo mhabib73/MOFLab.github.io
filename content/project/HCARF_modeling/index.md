@@ -17,10 +17,6 @@ author_notes:
   - Phd student
 
 ---
-<div class="project-svg-container">
-  <img src="simulation_logo.svg" alt="Advanced Fiber Project Logo" />
-</div>
-
 
 {{< figure src="HCARF_12tube_trans.gif" caption="optical fiber modes" >}}
 
