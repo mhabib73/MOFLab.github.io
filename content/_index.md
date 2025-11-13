@@ -30,7 +30,7 @@ sections:
           filename: fiber_3D.png
           filters:
             brightness: 1
-          position: center
+          position: top center
           parallax: true
           size: cover
       css_class: hero-section
