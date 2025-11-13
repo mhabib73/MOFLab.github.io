@@ -99,7 +99,7 @@ sections:
        
     design:
       view: masonry
-      columns: '1'
+      columns: '2'
       text_align: left
       no_padding: true
       spacing:
