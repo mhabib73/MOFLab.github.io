@@ -36,4 +36,60 @@
     height: 60vh;  /* shorter on mobile */
   }
 }
+// hero contents adjustments
+
+/* Container for hero content */
+.hero-content {
+  display: flex;
+  flex-direction: row;       /* side-by-side layout */
+  align-items: center;       /* vertical alignment */
+  justify-content: center;
+  gap: 50px;                 /* space between text and image */
+  flex-wrap: wrap;           /* wrap on small screens */
+  max-width: 1500px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Text block styling */
+.hero-text {
+  flex: 1 1 500px;           /* grow/shrink, minimum width */
+  font-size: 23px;
+}
+
+/* Image block styling */
+.hero-image {
+  flex: 0 0 400px;           /* fixed width for image */
+  text-align: center;
+}
+
+.hero-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+/* Caption styling */
+.hero-image figcaption {
+  font-size: 16px;
+  color: #555;
+  margin-top: 10px;
+}
+
+/* Responsive for small screens */
+@media (max-width: 768px) {
+  .hero-content {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .hero-text {
+    font-size: 20px;
+  }
+
+  .hero-image {
+    flex: 1 1 100%;
+  }
+}
+
 
