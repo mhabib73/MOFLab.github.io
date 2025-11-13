@@ -43,7 +43,6 @@ sections:
       title: |
           
       text: |
-        <div style="overflow: auto;">
         <figure src="HCARF_12tube_trans.gif" alt="Research visualization"
              style="float: left; margin: 0 20px 20px 0; width: 300px; height: 300px; border-radius: 20px;">
         <p>
