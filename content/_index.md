@@ -72,7 +72,7 @@ sections:
           <li>Light-matter interactions</li>
           <li>Smart fiber-based nonlinear devices</li>
         </ul>
-      </div>
+        </div>
     design:
       no_padding: true
       spacing:
