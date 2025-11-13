@@ -60,9 +60,9 @@ sections:
         </div>
 
     design:
+      css_class: "custom-hero-size"
       background:
         color: white
-      css_class: white
       columns: '1'
       text_align: left
       no_padding: true
@@ -102,7 +102,7 @@ sections:
        
     design:
       view: masonry
-      columns: '2'
+      columns: '1'
       text_align: left
       no_padding: true
       spacing:
