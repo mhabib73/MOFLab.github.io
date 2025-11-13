@@ -45,7 +45,7 @@ sections:
         caption: optical fiber modes
       text: |
         <div style="text-align: left; max-width: 900px; margin: 0 auto;">
-          **Our research group focuses on:**
+          <strong style="display: block; margin-bottom: 15px;">Our research group focuses on:</strong>
           <br>
           <ul style="list-style-type: disc; padding-left: 40px;">
             <li style="font-size: 23px;">Advanced optical fiber design/modeling, fabrication, and characterization</li>
