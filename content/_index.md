@@ -44,7 +44,7 @@ sections:
         filename: HCARF_12tube_trans.gif
         caption: "optical fiber modes"
       text: |
-        <div style="font-size: 0.5rem; line-height: 1.6;">
+        <div style="font-size: 1rem; line-height: 1.6;">
         Our research group focuses on: <br>
         * Advanced optical fiber design/modeling, fabrication, and characterization
         <br>
@@ -55,9 +55,9 @@ sections:
         * Light-matter interactions
         <br>
         * Smart fiber-based nonlinear devices
-        <div>
+
     design:
-      css_class: "white"
+      css_class: white
       columns: '1'
       text_align: left
       no_padding: true
