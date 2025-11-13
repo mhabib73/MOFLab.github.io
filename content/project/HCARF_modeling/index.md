@@ -16,14 +16,7 @@ author_notes:
   - Phd student
 
 ---
-<div style="display: flex; justify-content: space-between; gap: 15px; flex-wrap: wrap; margin: 50px 0;">
-  <div style="flex: 1; min-width: 300px;">
-    {{< figure src="HCARF_10tube.gif" caption="regular HCARF: optical fiber modes" >}}
-  </div>
-  <div style="flex: 1; min-width: 100px;">
-    {{< figure src="HCARF_12tube.gif" caption="nested HCARF: optical fiber modes" >}}
-  </div>
-</div>
+{{< figure src="HCARF_12tube_trans.gif" caption="optical fiber modes" >}}
 
 Design and modeling of advanced optical fibers are crucial for driving innovation in modern photonics. By understanding and engineering fiber geometries, materials, and guiding mechanisms, one can tailor light propagation to achieve unprecedented performance in communication, sensing, and laser systems. This project enables the development of low-loss, high-power, and application-specific fibers which could pave the way for breakthroughs in next-generation networks, biomedical diagnostics, and quantum technologies.
 
