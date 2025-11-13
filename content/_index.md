@@ -38,12 +38,12 @@ sections:
         padding: ["0rem", 0, "25em", 0]
 
 
-- block: markdown
-  content:
-    title: ""
-
-    text: |
-      <div style="overflow: auto;">
+  - block: markdown
+    content:
+      title: |
+          
+      text: |
+        <div style="overflow: auto;">
         <img src="HCARF_12tube_trans.gif" alt="Research visualization"
              style="float: left; margin: 0 20px 10px 0; width: 300px; height: auto; border-radius: 10px;">
         <p>
@@ -73,12 +73,11 @@ sections:
           <li>Smart fiber-based nonlinear devices</li>
         </ul>
       </div>
-  design:
-    no_padding: true
-    spacing:
-      padding: ["1rem", 0, "1rem", 0]
-      margin: [0, 0, 0, 0]
-
+    design:
+      no_padding: true
+      spacing:
+        padding: ["1rem", 0, "1rem", 0]
+        margin: [0, 0, 0, 0]
 
   - block: collection
     content:
