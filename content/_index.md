@@ -45,7 +45,7 @@ sections:
         caption: optical fiber modes
       text: |
         <div style="text-align: left; max-width: 1500px; margin: 0 auto;">
-          <strong style="display: block; margin-bottom: 1px;">Our research group focuses on:</strong>
+          <strong style="display: block; margin-bottom: 1px;">What we do:</strong>
           <br>
           <ul style="list-style-type: disc; padding-left: 50px;">
             <li style="font-size: 23px;">Advanced optical fiber design/modeling, fabrication, and characterization</li>
@@ -88,6 +88,24 @@ sections:
         padding: ["1rem", 0, "1rem", 0]
         margin: [0, 0, 0, 0]
 
+  - block: portfolio
+    content:
+      title: '<div style="text-align: left; color: black;">Research areas</div>'
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - project
+       
+    design:
+      view: masonry
+      columns: '1'
+      text_align: left
+      no_padding: true
+      spacing:
+        padding: ["1rem", 0, "1rem", 0]
+        margin: [0, 0, 0, 0]
+
   - block: collection
     content:
       title: '<div style="text-align: left; color: black;">Latest news</div>'
@@ -109,23 +127,6 @@ sections:
         padding: ["1rem", 0, "1rem", 0]
         margin: [0, 0, 0, 0]
 
-  - block: portfolio
-    content:
-      title: '<div style="text-align: left; color: black;">Research areas</div>'
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - project
-       
-    design:
-      view: masonry
-      columns: '1'
-      text_align: left
-      no_padding: true
-      spacing:
-        padding: ["1rem", 0, "1rem", 0]
-        margin: [0, 0, 0, 0]
   
   - block: collection
     content:
