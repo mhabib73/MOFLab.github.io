@@ -2,6 +2,7 @@
 title: "Design and modeling of advanced optical fibers"
 summary: "Our research focuses on the design and numerical modeling of next-generation optical fibers with tailored microstructures for enhanced light confinement, dispersion control, and nonlinear performance. By combining computational simulations with theoretical analysis, we develop innovative fiber geometries to enable breakthroughs in sensing, communications, and high-power laser applications."
 date: 2025-10-22
+featured: "featured.png"  # required by Hugo theme, will hide via CSS
 tags:
   - Hollow-core fibers
   - Low-loss fibers
@@ -16,6 +17,12 @@ author_notes:
   - Phd student
 
 ---
+<div class="project-svg-container">
+  <img src="/images/project_logo.svg" alt="Advanced Fiber Project Logo" />
+  <figcaption class="project-svg-caption">Advanced Fiber Project Logo</figcaption>
+</div>
+
+
 {{< figure src="HCARF_12tube_trans.gif" caption="optical fiber modes" >}}
 
 Design and modeling of advanced optical fibers are crucial for driving innovation in modern photonics. By understanding and engineering fiber geometries, materials, and guiding mechanisms, one can tailor light propagation to achieve unprecedented performance in communication, sensing, and laser systems. This project enables the development of low-loss, high-power, and application-specific fibers which could pave the way for breakthroughs in next-generation networks, biomedical diagnostics, and quantum technologies.
