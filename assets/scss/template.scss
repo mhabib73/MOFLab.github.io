@@ -37,33 +37,3 @@
   }
 }
 
-
-/* Hide all featured images in projects and hero blocks */
-.project-card .project-featured img,
-.project-featured img,
-img[src$="featured.png"] {
-  display: none !important;
-}
-
-/* Show SVG container instead */
-.project-svg-container {
-  display: block !important;
-  text-align: center;
-  margin: 10px auto;
-}
-
-.project-svg-container img {
-  width: 200px;       /* adjust as needed */
-  max-width: 100%;
-  height: auto;
-  border-radius: 8px;
-}
-
-.project-svg-caption {
-  font-size: 14px;
-  color: #555;
-  margin-top: 5px;
-  display: block;
-  text-align: center;
-  font-style: italic;
-}
