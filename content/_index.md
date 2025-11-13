@@ -45,7 +45,7 @@ sections:
         caption: optical fiber modes
       text: |
         <div style="text-align: left; max-width: 1500px; margin: 0 auto;">
-          <strong style="display: block; margin-bottom: 1px;">What we do:</strong>
+          <strong style="display: block; margin-bottom: 0.1px;">What we do:</strong>
           <br>
           <ul style="list-style-type: disc; padding-left: 50px;">
             <li style="font-size: 23px;">Advanced optical fiber design/modeling, fabrication, and characterization</li>
