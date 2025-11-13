@@ -48,6 +48,7 @@ sections:
           <strong >What we do in our lab:</strong>
           <br>
           <ul style="list-style-type: disc; padding-left: 50px;">
+            <li style="font-size: 23px;">Computational photonics</li>
             <li style="font-size: 23px;">Advanced fiber design, fabrication, and characterization</li>
             <li style="font-size: 23px;">Energy-efficient and low-cost fiber sensors</li>
             <li style="font-size: 23px;">Smart fiber-based nonlinear devices</li>
