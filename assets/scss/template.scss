@@ -36,104 +36,35 @@
     height: 60vh;  /* shorter on mobile */
   }
 }
-// hero contents adjustments
-
-/* Container for hero content */
-.hero-content {
-  display: flex;
-  flex-direction: row;       /* side-by-side layout */
-  align-items: center;       /* vertical alignment */
-  justify-content: center;
-  gap: 50px;                 /* space between text and image */
-  flex-wrap: wrap;           /* wrap on small screens */
-  max-width: 1500px;
-  margin: 0 auto;
-  padding: 2rem;
-}
-
-/* Text block styling */
-.hero-text {
-  flex: 1 1 500px;           /* grow/shrink, minimum width */
-  font-size: 23px;
-}
-
-/* Image block styling */
-.hero-image {
-  flex: 0 0 400px;           /* fixed width for image */
-  text-align: center;
-}
-
-.hero-image img {
-  width: 100%;
-  height: auto;
-  border-radius: 10px;
-}
-
-/* Caption styling */
-.hero-image figcaption {
-  font-size: 16px;
-  color: #555;
-  margin-top: 10px;
-}
-
-/* Responsive for small screens */
-@media (max-width: 768px) {
-  .hero-content {
-    flex-direction: column;
-    gap: 20px;
-  }
-
-  .hero-text {
-    font-size: 20px;
-  }
-
-  .hero-image {
-    flex: 1 1 100%;
-  }
-}
 
 
-/* Hide the default featured image from Hugo Research theme */
-.project-card img[src$="featured.png"],
-.project-featured img[src$="featured.png"] {
-  display: none !important;
-}
-
-/* Container for the SVG */
+/* SVG container styling */
 .project-svg-container {
   text-align: center;
-  margin: 20px auto;
+  margin: 10px auto;
 }
 
-/* SVG styling */
 .project-svg-container img {
-  width: 250px;      /* adjust size */
-  max-width: 100%;   /* responsive */
+  width: 200px;       /* size of SVG in grid */
+  max-width: 100%;    /* responsive */
   height: auto;
   border-radius: 8px;
 }
 
-/* SVG caption styling */
 .project-svg-caption {
-  font-size: 16px;
+  font-size: 14px;
   color: #555;
-  margin-top: 8px;
+  margin-top: 5px;
   display: block;
   text-align: center;
   font-style: italic;
 }
 
-/* Optional: grid view SVG styling */
-.project-svg-grid {
-  text-align: center;
+/* Front page / grid customization */
+.project-card img {
+  display: none;      /* hide any default featured image placeholder */
 }
 
-.project-svg-grid img {
-  width: 200px;
-  max-width: 100%;
-  height: auto;
-  border-radius: 8px;
+.project-card .project-svg-container {
+  display: block;     /* show SVG in the grid */
 }
-
-
-
