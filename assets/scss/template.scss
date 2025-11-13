@@ -28,18 +28,12 @@
 
 // screen size of the css_class
 .hero-section {
-  height: 78vh;   /* full screen */
+  height: 75vh;   /* full screen */
 }
 
 @media (max-width: 768px) {
   .hero-section {
     height: 60vh;  /* shorter on mobile */
   }
-}
-
-
-.custom-aspect {
-  aspect-ratio: 3/4; /* Adjust to match your image aspect ratio */
-  min-height: auto !important;
 }
 
