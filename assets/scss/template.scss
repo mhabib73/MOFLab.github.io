@@ -28,7 +28,7 @@
 
 // screen size of the css_class
 .hero-section {
-  height: 60vh;   /* full screen */
+  height: 90vh;   /* full screen */
 }
 
 @media (max-width: 768px) {
@@ -38,15 +38,23 @@
 }
 
 
-/* SVG container styling */
+/* Hide all featured images in projects and hero blocks */
+.project-card .project-featured img,
+.project-featured img,
+img[src$="featured.png"] {
+  display: none !important;
+}
+
+/* Show SVG container instead */
 .project-svg-container {
+  display: block !important;
   text-align: center;
   margin: 10px auto;
 }
 
 .project-svg-container img {
-  width: 200px;       /* size of SVG in grid */
-  max-width: 100%;    /* responsive */
+  width: 200px;       /* adjust as needed */
+  max-width: 100%;
   height: auto;
   border-radius: 8px;
 }
@@ -58,13 +66,4 @@
   display: block;
   text-align: center;
   font-style: italic;
-}
-
-/* Front page / grid customization */
-.project-card img {
-  display: none;      /* hide any default featured image placeholder */
-}
-
-.project-card .project-svg-container {
-  display: block;     /* show SVG in the grid */
 }
