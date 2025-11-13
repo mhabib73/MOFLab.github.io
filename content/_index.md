@@ -92,7 +92,7 @@ sections:
 
   - block: portfolio
     content:
-      title: '<div style="text-align: left; color: black;">Research areas</div>'
+      title: '<div style="text-align: left; color: black;">Research</div>'
       text: ""
       count: 5
       filters:
