@@ -24,7 +24,7 @@ sections:
         horizontal: center
         vertical: middle
       background:
-        color: "#2D283B"
+        color: "#686887"
         image:
           filename: fiber_3D.png
           filters:
