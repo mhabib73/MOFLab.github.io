@@ -9,6 +9,7 @@ tags:
   - Hollow-core fibers
   - Fiber sensors
   - Plasmonic sensors
+  - Sensors
   #- HugoBlox
   #- Markdown
 
