@@ -31,7 +31,7 @@ sections:
             brightness: 1
           position: center
           parallax: true
-          size: cover
+          size: contain
       css_class: hero-section 
       #spacing:
         #padding: ["0rem", 0, "0em", 0]
