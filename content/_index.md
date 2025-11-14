@@ -90,12 +90,7 @@ sections:
     content:
       page_type: project
       filter_default: 0
-      title: '<div style="text-align: left; color: black;">Research</div>'
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - project
+
       filter_button:
         - name: All
           tag: '*'
