@@ -88,25 +88,18 @@ sections:
 
   - block: portfolio
     content:
-      page_type: project
-      filter_default: 0
-      filter_button:
-        - name: All
-          tag: '*'
-        - name: Modeling
-          tag: 'Modeling'
-        - name: Fabrication
-          tag: 'Fabrication'
-        - name: 'Sensors'
-          tag: 'Sensors'
+      title: '<div style="text-align: left; color: black;">Research</div>'
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - project
        
     design:
       view: masonry
       columns: '1'
       text_align: left
       no_padding: true
-      flip_alt_rows: true
-      background: {}
       spacing:
         padding: ["1rem", 0, "1rem", 0]
         margin: [0, 0, 0, 0]
