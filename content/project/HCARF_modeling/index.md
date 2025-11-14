@@ -6,6 +6,7 @@ featured: "featured.png"  # required by Hugo theme, will hide via CSS
 tags:
   - Hollow-core fibers
   - Low-loss fibers
+  - Modeling
 
 profile: true
 
