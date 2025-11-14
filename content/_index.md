@@ -86,7 +86,7 @@ sections:
         padding: ["1rem", 0, "1rem", 0]
         margin: [0, 0, 0, 0]
 
-  - block: markdown
+  - block: portfolio
     content:
       page_type: project
       filter_default: 0
