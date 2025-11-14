@@ -40,6 +40,53 @@ education:
       institution: Rajshahi University of Engineering and Technology
       year: 2009
 
+# Add this experience section
+experience:
+  - title: Assistant Professor of Electrical Engineering
+    company: Florida Institute of Technology
+    company_url: https://www.fit.edu/faculty-profiles/h/habib-md/
+    location: Florida, USA
+    date_start: '2022-08-01'
+    date_end: ''
+    description: |
+      * Head of Microstructure Optical Fiber Lab (MOFLab)
+      * Lead cutting-edge research on next-generation optical fibers
+      * Teach photonics and electrical engineering courses
+      * Guide graduate and undergraduate students
+      
+  - title: Assistant Professor of Electrical and Computer Engineering
+    company: Florida Polytechnic University
+    company_url: ''
+    location: Florida, USA
+    date_start: '2019-01-01'
+    date_end: '2022-07-31'
+    description: |
+      * Conducted research in computational electromagnetics and optical fibers
+      * Taught electrical and computer engineering courses
+      * Supervised student research projects
+      
+  - title: Postdoctoral Research Associate
+    company: CREOL, The College of Optics and Photonics, University of Central Florida
+    company_url: https://creol.ucf.edu/
+    location: Florida, USA
+    date_start: '2017-01-01'
+    date_end: '2019-12-31'
+    description: |
+      * Research on ultrafast nonlinear optics
+      * Optical fiber design and characterization
+      * Collaborative research projects
+      
+  - title: Postdoctoral Researcher
+    company: Technical University of Denmark
+    company_url: https://www.dtu.dk/
+    location: Kongens Lyngby, Denmark
+    date_start: '2017-01-01'
+    date_end: '2017-12-31'
+    description: |
+      * Fiber Sensors and Supercontinuum Group
+      * Research on fiber sensors and nonlinear photonics
+      * Published research findings in peer-reviewed journals
+
 positions:
   - title: Assistant Professor
     company: Florida Institute of Technology
