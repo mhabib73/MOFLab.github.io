@@ -90,16 +90,16 @@ sections:
     content:
       page_type: project
       filter_default: 0
-
-      filter_button:
-        - name: All
-          tag: '*'
-        - name: Machine Learning
-          tag: ''
-        - name: Computer Vision
-          tag: ''
-        - name: ''
-          tag: ''
+      filters:
+        buttons:
+          - name: All
+            tag: '*'
+          - name: Machine Learning
+            tag: ''
+          - name: Computer Vision
+            tag: ''
+          - name: ''
+            tag: ''
        
     design:
       view: masonry
