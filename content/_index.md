@@ -90,16 +90,15 @@ sections:
     content:
       page_type: project
       filter_default: 0
-      filters:
-        buttons:
-          - name: All
-            tag: '*'
-          - name: Machine Learning
-            tag: ''
-          - name: Computer Vision
-            tag: ''
-          - name: ''
-            tag: ''
+      filter_button:
+        - name: All
+          tag: '*'
+        - name: Modeling
+          tag: 'Modeling'
+        - name: Fabrication
+          tag: 'Fabrication'
+        - name: 'Sensors'
+          tag: 'Sensors'
        
     design:
       view: masonry
