@@ -40,7 +40,7 @@ education:
       institution: Rajshahi University of Engineering and Technology
       year: 2009
 
-experience:
+positions:
   - title: Assistant Professor
     company: Florida Institute of Technology
     company_url: https://www.fit.edu/faculty-profiles/h/habib-md/
