@@ -69,11 +69,6 @@ body {
   background-color: rgb(26, 32, 44);
 }
 
-// more rounded cards and larger gap between cards
-.card-simple {
-  margin-top: 1.8rem;
-  border-radius: 15px;
-}
 
 .dark .card-simple {
   background: rgb(31, 39, 51);
@@ -89,9 +84,6 @@ body {
 .home-section.wg-about-avatar {
   padding: 0;
 }
-
-
-
 
 
 .dark .portrait-title h3 {
@@ -111,20 +103,9 @@ body {
 }
 
 .home-section header {
-  margin-bottom: 1em;
+  margin-bottom: 3em;
 }
 
-// Narrower container for Hello World sections (primarily Blank widget content).
-@media (min-width: 1200px) {
-  .home-section .container {
-    max-width: 880px;
-  }
-}
-@media (min-width: 992px) {
-  .home-section .container {
-    max-width: 880px;
-  }
-}
 
 
 
