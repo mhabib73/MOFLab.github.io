@@ -41,20 +41,16 @@ education:
       year: 2009
 
 experience:
-  roles:
-    - title: CEO
-      company: GenCoin
-      company_url: ''
-      company_logo: org-gc
-      location: California
-      date_start: '2021-01-01'
-      date_end: ''
-      description: |2-
-          Responsibilities include:
-          
-          * Analysing
-          * Modelling
-          * Deploying
+  - title: Assistant Professor
+    company: Florida Institute of Technology
+    company_url: https://www.fit.edu/faculty-profiles/h/habib-md/
+    location: Florida
+    date_start: '2022-08-01'
+    date_end: ''
+    description: |
+      * Teach photonics  
+      * Lead fiber work  
+      * Guide students
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
