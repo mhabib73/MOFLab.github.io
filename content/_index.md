@@ -86,7 +86,7 @@ sections:
         padding: ["1rem", 0, "1rem", 0]
         margin: [0, 0, 0, 0]
 
-  - block: portfolio
+  - widget: portfolio
     content:
       page_type: project
       filter_default: 0
@@ -95,11 +95,11 @@ sections:
         - name: All
           tag: '*'
         - name: Machine Learning
-          tag: ML
+          tag: ''
         - name: Computer Vision
-          tag: CV
-        - name: NLP
-          tag: NLP
+          tag: ''
+        - name: ''
+          tag: ''
        
     design:
       view: masonry
