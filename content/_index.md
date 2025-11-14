@@ -88,18 +88,31 @@ sections:
 
   - block: portfolio
     content:
+      page_type: project
+      filter_default: 0
       title: '<div style="text-align: left; color: black;">Research</div>'
       text: ""
       count: 5
       filters:
         folders:
           - project
+      filter_button:
+        - name: All
+          tag: '*'
+        - name: Machine Learning
+          tag: ML
+        - name: Computer Vision
+          tag: CV
+        - name: NLP
+          tag: NLP
        
     design:
       view: masonry
       columns: '1'
       text_align: left
       no_padding: true
+      flip_alt_rows: true
+      background: {}
       spacing:
         padding: ["1rem", 0, "1rem", 0]
         margin: [0, 0, 0, 0]
