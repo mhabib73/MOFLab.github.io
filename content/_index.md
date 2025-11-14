@@ -24,14 +24,14 @@ sections:
         horizontal: center
         vertical: middle
       background:
-        color: "#686887"
+        color: ""
         image:
           filename: fiber_3D.png
           filters:
             brightness: 1
           position: center
           parallax: true
-          size: contain
+          size: cover
       css_class: hero-section 
       #spacing:
         #padding: ["0rem", 0, "0em", 0]
