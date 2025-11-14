@@ -41,19 +41,20 @@ education:
       year: 2009
 
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+  roles:
+    - title: CEO
+      company: GenCoin
+      company_url: ''
+      company_logo: org-gc
+      location: California
+      date_start: '2021-01-01'
+      date_end: ''
+      description: |2-
+          Responsibilities include:
+          
+          * Analysing
+          * Modelling
+          * Deploying
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
