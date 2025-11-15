@@ -42,6 +42,17 @@ sections:
       filters:
         folders:
           - project
+    filter_button:
+      - name: All
+        tag: '*'
+      - name: Advanced Fiber Modeling
+        tag: Modeling
+      - name: Advanced Fiber Fabrication
+        tag: Fabrication
+      - name: Smart Sensors
+        tag: Sensor
+      - name: Ultrafast Optics
+        tag: UNO
     design:
       no_padding: true
       spacing:
