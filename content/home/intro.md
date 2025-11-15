@@ -5,10 +5,10 @@ type: landing  # it will be controlled from the home folder
 # Use the Intro widget of the Blog template
 
 # This file represents a page section.
-headless: true
+#headless: true
 
 # Order that this section will appear in.
-weight: 10
+#weight: 10
 #type: landing # if you want to control _index.md
 
 #spacing: "0.5rem"
