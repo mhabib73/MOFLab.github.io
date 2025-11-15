@@ -37,6 +37,31 @@
   }
 }
 
+// Custom avatar size on homepage
+.avatar {
+  width: auto;
+  height: auto;
+  max-width: 225px;
+  max-height: 225px;
+}
+
+// Prevent stretching on About page with narrow container
+.wg-about .avatar {
+  width: auto;
+  height: auto;
+  max-width: 200px;
+  max-height: 200px;
+}
+
+// Smaller Name and Role text on About page than in homepage `about.avatar` widget
+.wg-about .portrait-title h2 {
+  font-size: 1rem;
+}
+
+.wg-about .portrait-title h3 {
+  font-size: 0.8rem;
+}
+
 
 
 
