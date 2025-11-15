@@ -28,11 +28,13 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
+    - name: Advanced Fiber Modeling
       tag: Modeling
-    - name: Computer Vision
+    - name: Advanced Fiber Fabrication
       tag: Fabrication
-    - name: NLP
+    - name: Smart Sensors
+      tag: Sensor
+    - name: Ultrafast Optics
       tag: UNO
 
 design:
