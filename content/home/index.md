@@ -1,42 +1,7 @@
 ---
-title:
-date: 2025-10-12
-type: landing
+# Homepage
+type: widget_page
 
-#spacing: "0.5rem"
-
-
-sections:
-
-  - block: markdown
-    content:
-      title: |
-        <span style="font-size: 3rem; color: white; white-space: nowrap; text-align: left; display: block;">
-        Welcome to Microstructure Optical Fiber Lab </span>
-      
-      text: |
-        <span style="font-size: 2rem; color: white; white-space: nowrap; text-align: left; display: block;">
-        advancing science of light for all </span>
-        
-    design:
-      column: "1"
-      alignment:
-        horizontal: center
-        vertical: middle
-      background:
-        color: ""
-        image:
-          filename: fiber_3D.png
-          filters:
-            brightness: 1
-          position: center
-          parallax: true
-          size: cover
-      css_class: hero-section 
-      #spacing:
-        #padding: ["0rem", 0, "0em", 0]
-
- 
-
-
+# Homepage is headless, other widget pages are not.
+headless: true
 ---
