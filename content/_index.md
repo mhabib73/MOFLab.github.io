@@ -1,7 +1,7 @@
 ---
 title:
 date: 2025-10-12
-type: landing
+type: widget_page
 
 #spacing: "0.5rem"
 
