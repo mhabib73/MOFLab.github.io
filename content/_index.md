@@ -96,14 +96,14 @@ sections:
           - project
        
     design:
-      view: masonry
-      columns: '1'
+      view: card
+      columns: '4'
       text_align: left
       no_padding: true
       css_class: 'container-fluid'  # Or 'container' for fixed width
       spacing:
-        padding: ["1rem",0, 0, "1rem"]
-        margin: [0, "3rem", 0, "3rem"]
+        padding: ["2rem", "15%", "2rem", "15%"]
+        margin: [0, "2rem", 0, "2rem"]
 
   - block: collection
     content:
