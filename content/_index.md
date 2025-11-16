@@ -96,8 +96,8 @@ sections:
           - project
        
     design:
-      view: card
-      columns: '2'
+      view: masonry
+      columns: '1'
       text_align: left
       no_padding: true
       css_class: narrow-portfolio
