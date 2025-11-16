@@ -100,8 +100,9 @@ sections:
       columns: '1'
       text_align: left
       no_padding: true
+      css_class: 'container-fluid'  # Or 'container' for fixed width
       spacing:
-        padding: ["2rem","2rem", "2rem", "2rem"]
+        padding: ["1rem",0, 0, "1rem"]
         margin: [0, "3rem", 0, "3rem"]
 
   - block: collection
