@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Md Selim Habib
-type: widget
+type: ''
 
 # Full Name (for SEO)
 first_name: Md Selim
