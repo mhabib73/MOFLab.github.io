@@ -96,8 +96,8 @@ sections:
           - project
        
     design:
-      view: masonry
-      columns: '3'
+      view: showcase
+      columns: '1'
       text_align: left
       no_padding: true
       #css_class: 'custom-masonry'
