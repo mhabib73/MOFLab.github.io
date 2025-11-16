@@ -42,7 +42,7 @@ education:
       year: 2009
 
 # Add this experience section
-work:
+employment:
   - title: Assistant Professor of Electrical Engineering
     company: Florida Institute of Technology
     company_url: https://www.fit.edu/faculty-profiles/h/habib-md/
