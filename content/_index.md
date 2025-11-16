@@ -97,12 +97,12 @@ sections:
        
     design:
       view: card
-      columns: '4'
+      columns: '2'
       text_align: left
       no_padding: true
-      #css_class: 'container-fluid'  # Or 'container' for fixed width
+      css_class: narrow-portfolio
       spacing:
-        padding: ["2rem", "15%", "2rem", "15%"]
+        padding: ["2rem", "2rem", "2rem", "2rem"]
         margin: [0, "2rem", 0, "2rem"]
 
   - block: collection
