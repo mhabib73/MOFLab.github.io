@@ -55,6 +55,16 @@
   max-width: 800px;
 }
 
+.portfolio-card {
+  max-width: 600px !important;  // Adjust this value
+  margin: 0 auto !important;
+}
+
+// Or if that doesn't work, try:
+.card {
+  max-width: 600px !important;
+  margin: 0 auto !important;
+}
 
 
 
