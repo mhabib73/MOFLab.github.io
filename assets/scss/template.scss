@@ -41,23 +41,14 @@
 
 
 
-// Control masonry item width
-.masonry-item {
-  width: 300px !important;  // Set your desired width
+.custom-masonry .masonry-item {
+  width: 300px !important;
 }
 
-// Control masonry item height (affects container)
-.masonry-item .card {
-  min-height: 200px !important;
-  max-height: 400px !important;
+.custom-masonry .masonry-item .card {
+  height: 180px !important;
+  min-height: 180px !important;
 }
-
-// Or control image height specifically
-.masonry-item .card-img {
-  height: 150px !important;
-  object-fit: cover;
-}
-
 
 
 
