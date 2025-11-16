@@ -100,7 +100,7 @@ sections:
       columns: '4'
       text_align: left
       no_padding: true
-      css_class: 'container-fluid'  # Or 'container' for fixed width
+      #css_class: 'container-fluid'  # Or 'container' for fixed width
       spacing:
         padding: ["2rem", "15%", "2rem", "15%"]
         margin: [0, "2rem", 0, "2rem"]
