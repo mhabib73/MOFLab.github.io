@@ -96,13 +96,13 @@ sections:
           - project
        
     design:
-      view: card
+      view: masonry
       columns: '1'
       text_align: left
       no_padding: true
       spacing:
         padding: ["2rem","2rem", "2rem", "2rem"]
-        margin: [0, 0, "2rem", 0]
+        margin: [0, "3rem", 0, "3rem"]
 
   - block: collection
     content:
