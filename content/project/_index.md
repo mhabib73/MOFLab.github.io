@@ -53,15 +53,11 @@ sections:
         tag: Sensor
       - name: Ultrafast Optics
         tag: UNO
+
     design:
-      no_padding: true
-      spacing:
-        padding: ["2rem", 0, "2rem", 0]
-        margin: [0, 0, 0, 0]
-      view: showcase
-      columns: 2
-      background: 
-        color: "white"
+      view: article-grid
+      fill_image: false
+      columns: 3
       show_date: false
       show_read_time: false
       show_read_more: false
