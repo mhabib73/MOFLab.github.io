@@ -97,11 +97,10 @@ sections:
        
     design:
       view: masonry
-      columns: '4'
-      card_height: '150'
+      columns: '3'
       text_align: left
       no_padding: true
-      #css_class: narrow-portfolio
+      css_class: 'custom-masonry'
       spacing:
         padding: ["2rem", "2rem", "2rem", "2rem"]
         margin: [0, "2rem", 0, "2rem"]
