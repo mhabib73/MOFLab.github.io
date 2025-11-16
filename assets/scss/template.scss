@@ -41,29 +41,21 @@
 
 
 
-.narrow-portfolio {
-  max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto;
+// Control masonry item width
+.masonry-item {
+  width: 300px !important;  // Set your desired width
 }
 
-.narrow-portfolio .row {
-  justify-content: center;
+// Control masonry item height (affects container)
+.masonry-item .card {
+  min-height: 200px !important;
+  max-height: 400px !important;
 }
 
-.narrow-portfolio .col-12 {
-  max-width: 800px;
-}
-
-.portfolio-card {
-  max-width: 600px !important;  // Adjust this value
-  margin: 0 auto !important;
-}
-
-// Or if that doesn't work, try:
-.card {
-  max-width: 600px !important;
-  margin: 0 auto !important;
+// Or control image height specifically
+.masonry-item .card-img {
+  height: 150px !important;
+  object-fit: cover;
 }
 
 
