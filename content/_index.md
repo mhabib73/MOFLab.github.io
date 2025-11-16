@@ -96,7 +96,7 @@ sections:
           - project
        
     design:
-      view: masonry
+      view: card
       columns: '1'
       text_align: left
       no_padding: true
