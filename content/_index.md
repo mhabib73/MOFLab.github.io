@@ -101,8 +101,8 @@ sections:
       text_align: left
       no_padding: true
       spacing:
-        padding: ["1rem", 0, "1rem", 0]
-        margin: [0, 0, 0, 0]
+        padding: ["2rem","2rem", "2rem", "2rem"]
+        margin: [0, 0, "2rem", 0]
 
   - block: collection
     content:
