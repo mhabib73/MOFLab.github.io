@@ -102,8 +102,8 @@ sections:
       no_padding: true
       #css_class: 'custom-masonry'
       spacing:
-        padding: ["2rem", "2rem", "2rem", "2rem"]
-        margin: [0, "2rem", 0, "2rem"]
+        padding: ["1rem", 0, "1rem", 0]
+        margin: [0, 0, 0, 0]
 
   - block: collection
     content:
