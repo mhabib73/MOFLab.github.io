@@ -33,4 +33,8 @@ main:
     #url: latest
     #weight: 70
 
+  - name: Test
+    url: test
+    weight: 80
+
     
