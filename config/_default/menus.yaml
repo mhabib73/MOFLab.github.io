@@ -37,8 +37,6 @@ main:
     url: test
     weight: 30
 
-  - name: ResearchTest
-    url: researchfinal
-    weight: 100
+
 
     
