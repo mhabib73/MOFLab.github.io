@@ -40,7 +40,7 @@ content:
 design:
   columns: '1'
   background:
-    color: #DBF8FF
+    color: 'red'
   view: masonry
   flip_alt_rows: true
   background: {}
