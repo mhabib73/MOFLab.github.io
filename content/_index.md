@@ -88,7 +88,7 @@ sections:
         padding: ["1rem", 0, "1rem", 0]
         margin: [0, 0, 0, 0]
 
-  - block: markdown
+  - block: portfolio
     content:
       title: '<div style="text-align: left; color: black;">Research</div>'
       text: ""
@@ -101,7 +101,6 @@ sections:
       columns: '1'
       text_align: left
       no_padding: true
-      #css_class: 'custom-masonry'
       spacing:
         padding: ["1rem", 0, "1rem", 0]
         margin: [0, 0, 0, 0]
