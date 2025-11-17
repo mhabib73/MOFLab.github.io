@@ -41,15 +41,33 @@
 
 
 
-.custom-masonry .masonry-item {
-  width: 300px !important;
+
+
+.home-section > .content {
+  width: 45em;
+  max-width: calc(100% - 4em);
+  margin: 0 auto;
 }
 
-.custom-masonry .masonry-item .card {
-  height: 180px !important;
-  min-height: 180px !important;
+.home-section > .content > :last-child {
+  margin-bottom: 0;
 }
 
+.home-section header {
+  margin-bottom: 1em;
+}
+
+// Narrower container for Hello World sections (primarily Blank widget content).
+@media (min-width: 1200px) {
+  .home-section .container {
+    max-width: 880px;
+  }
+}
+@media (min-width: 992px) {
+  .home-section .container {
+    max-width: 880px;
+  }
+}
 
 
 
