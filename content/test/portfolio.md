@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 100
 
-title: '<div style="grid-column: 1 / -1; text-align:center; font-size:2rem;">Research areas</div>'
+title: '<div style="grid-column:1 / -1; text-align:center; font-size:2rem; margin-top:20px; margin-bottom:20px;">Research areas</div>'
 subtitle: ''
 
 content:
