@@ -38,12 +38,42 @@
 }
 
 
-// Adjust main container margins
+.container, 
+.container-lg, 
+.container-md, 
+.container-sm, 
+.container-xl, 
+.container-xxl {
+  max-width: 95% !important; /* Adjust percentage as needed */
+}
+
+/* Or for more specific control */
 .container {
-  margin-top: 1rem !important;
-  margin-bottom: 1rem !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
+
+/* Reduce padding in main content area */
+.article-container {
+  max-width: 95% !important;
+  padding: 0 1rem !important;
+}
+
+/* Adjust the main content wrapper */
+.wrap {
+  max-width: none !important;
+  margin: 0 2rem !important;
+}
+
+/* Reduce gutter space between columns */
+.row {
+  margin-left: -0.5rem;
+  margin-right: -0.5rem;
+}
+
+.col, [class*="col-"] {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
 }
 
 
