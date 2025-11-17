@@ -44,17 +44,17 @@
 
 
 .home-section > .content {
-  width: 100em;
-  #max-width: calc(100% - 4em);
+  width: 200em;
+  max-width: calc(100% - 4em);
   margin: 0 auto;
 }
 
 .home-section > .content > :last-child {
-  margin-bottom: 0;
+  margin-bottom: 1em;
 }
 
 .home-section header {
-  margin-bottom: 1em;
+  margin-bottom: 3em;
 }
 
 // Narrower container for Hello World sections (primarily Blank widget content).
