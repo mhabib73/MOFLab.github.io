@@ -39,6 +39,7 @@ content:
 
 design:
   columns: '1'
+  color: #DBF8FF
   view: masonry
   flip_alt_rows: true
   background: {}
