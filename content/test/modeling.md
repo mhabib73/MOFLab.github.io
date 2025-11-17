@@ -3,7 +3,7 @@
 title: "Robotic Arm Control System"
 date: 2024-01-15
 draft: false
-widget: portfolio
+
 
 # Project tags - these match your filter_button tags
 tags: 
