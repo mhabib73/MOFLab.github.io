@@ -1,40 +1,48 @@
 ---
-title: Advanced optical fiber fabrication
-summary: "Optical fiber fabrication involves the precise creation of glass fibers that guide light with minimal loss. Using advanced techniques such as chemical vapor deposition and fiber drawing, high-purity silica preforms are heated and stretched into thin, flexible fibers that form the backbone of modern communication, sensing, and photonic technologies."
-date: 2025-10-21
-#links:
-  #- type: home
-    #url: https://github.com/pandas-dev/pandas
+title: "Design and modeling of advanced optical fibers"
+summary: "Our research focuses on the design and numerical modeling of next-generation optical fibers with tailored microstructures for enhanced light confinement, dispersion control, and nonlinear performance. By combining computational simulations with theoretical analysis, we develop innovative fiber geometries to enable breakthroughs in sensing, communications, and high-power laser applications."
+date: 2025-10-22
+featured: "featured.png"  # required by Hugo theme, will hide via CSS
 tags:
   - Hollow-core fibers
-  - Single-mode fibers
   - Low-loss fibers
-  - Multi-mode fibers
-  - Fabrication
-  #- HugoBlox
-  #- Markdown
+  - Modeling
 
 profile: true
 
-
-
-image:
-  placement: 1
-  # caption: Photo by rawpixel on Unsplash
-  focal_point: "center"
-  preview_only: false
 authors:
   - admin
+  - Mahfuz
 author_notes:
   - Principal Investigator
+  - Phd student
 
 ---
-Advanced Optical Fiber Fabrication is crucial for low-loss optical fibers. By developing new fabrication techniques, we can create fibers with precisely engineered geometries and material compositions that enable lower losses, broader bandwidths, and enhanced nonlinear or sensing capabilities. The main goals of this projects are to design and fabricate next-generation fibers for high-speed data communications, ultrafast laser delivery, quantum communication, and environmental sensing — achieving higher performance, lower cost, and greater energy efficiency.
 
-- State-of-the-art fiber fabrication
-  - Fabricate various optical fibers
-  - Fibers are fabricated in CREOL, Unviersity of Central Florida
-  <br><br>
-You can click [here](https://creol.ucf.edu/person/rodrigo-amezcua-correa/) to know about the CREOL group.
+{{< figure src="HCARF_12tube_trans.gif" caption="optical fiber modes" >}}
 
-#<!--more-->
+Design and modeling of advanced optical fibers are crucial for driving innovation in modern photonics. By understanding and engineering fiber geometries, materials, and guiding mechanisms, one can tailor light propagation to achieve unprecedented performance in communication, sensing, and laser systems. This project enables the development of low-loss, high-power, and application-specific fibers which could pave the way for breakthroughs in next-generation networks, biomedical diagnostics, and quantum technologies.
+
+**MOFlab focues on:**
+
+- Accurate modeling of complex hollow-core anti-resonant fibers
+  - Model various complex hollow-core fiber geometry
+    - Single-mode fiber
+    - Multi-mode fiber
+  - Understand and model various physical loss mechanisms 
+    - Confinement loss
+    - Surface scattering loss
+    - Micro-bend loss
+    - Macro-bend loss
+- Modeling speciality optical fibers
+  - THz fibers
+  - Hollow-core fiber sensors
+  - Metamaterial fibers
+  - Surface plasmon fibers
+  - Higher power fiber lasers
+- Machine learing in fiber optics
+  - loss prediction using different ML algorithms
+  - Optimize complex geometry of advanced optical fibers
+- Characterize hollow-core fibers
+  - Loss characterization
+  - Dispersion measurement
