@@ -20,7 +20,7 @@ profile: true
 
 image:
   placement: 1
-  # caption: Photo by rawpixel on Unsplash
+  filename: project.svg
   focal_point: "center"
   preview_only: false
 authors:
