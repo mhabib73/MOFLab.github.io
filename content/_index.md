@@ -82,6 +82,7 @@ sections:
         We welcome collaborations with academic groups, industry partners, and students interested in shaping the next generation of photonic technologies.
         <br>
     design:
+      css_class: hbx-bg-gradient
       no_padding: true
       spacing:
         padding: ["1rem", 0, "1rem", 0]
