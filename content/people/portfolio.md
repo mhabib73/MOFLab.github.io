@@ -28,13 +28,13 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
+    - name: Modeling
       tag: Modeling
-    - name: Computer Vision
+    - name: Fabrication
       tag: Fabrication
-    - name: NLP
+    - name: Sensor
       tag: Sensor
-    - name: UNO
+    - name: Ultrafast nonlinear optics
       tag: UNO
 
 design:
