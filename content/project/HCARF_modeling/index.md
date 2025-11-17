@@ -2,7 +2,6 @@
 title: "Design and modeling of advanced optical fibers"
 summary: "Our research focuses on the design and numerical modeling of next-generation optical fibers with tailored microstructures for enhanced light confinement, dispersion control, and nonlinear performance. By combining computational simulations with theoretical analysis, we develop innovative fiber geometries to enable breakthroughs in sensing, communications, and high-power laser applications."
 date: 2025-10-22
-featured: "featured.png"  # required by Hugo theme, will hide via CSS
 tags:
   - Hollow-core fibers
   - Low-loss fibers
