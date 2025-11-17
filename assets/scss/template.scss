@@ -40,15 +40,28 @@
 
 // assets/scss/custom.scss
 
-.page-body {
-    // Adjust this value until it's as wide as you want.
-    // The default is often around 800px or 900px.
+// Target the main container and center it
+.container, 
+.page-body, 
+.article-container {
     max-width: 1200px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
 }
 
-/* Optional: Make the text content itself wider as well */
-.article-container {
+// Ensure content uses full width but remains centered
+.col-12.col-lg-10 {
     max-width: 100% !important;
+    flex: 0 0 100% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+// Center the entire page content
+.page {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
 }
 
 
