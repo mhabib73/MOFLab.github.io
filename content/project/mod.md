@@ -13,7 +13,7 @@ tags:
 # Featured image
 image:
   caption: "3D model of robotic arm"
-  filename: "project.svg"
+  filename: ""
   focal_point: "Center"
   preview_only: false
 
