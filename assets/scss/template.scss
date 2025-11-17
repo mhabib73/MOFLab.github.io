@@ -44,7 +44,7 @@
 .container-sm, 
 .container-xl, 
 .container-xxl {
-  max-width: 55% !important; /* Adjust percentage as needed */
+  max-width: 65% !important; /* Adjust percentage as needed */
 }
 
 /* Or for more specific control */
@@ -62,7 +62,7 @@
 /* Adjust the main content wrapper */
 .wrap {
   max-width: none !important;
-  margin: 0 2rem !important;
+  margin: 0 0 !important;
 }
 
 /* Reduce gutter space between columns */
