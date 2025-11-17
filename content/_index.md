@@ -94,7 +94,7 @@ sections:
       text: ""
       filters:
         folders:
-          - project
+          - test
        
     design:
       view: showcase
