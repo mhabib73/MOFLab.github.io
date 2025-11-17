@@ -30,7 +30,7 @@ content:
       tag: '*'
     - name: Modeling
       tag: Modeling
-    - name: Fabrication
+    - name: Characterization and fabrication
       tag: Fabrication
     - name: Sensor
       tag: Sensor
