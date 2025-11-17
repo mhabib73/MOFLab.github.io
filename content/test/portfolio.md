@@ -8,9 +8,9 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 100
 
-title: ''
+title: 'Research'
 subtitle: ''
 
 content:
@@ -28,13 +28,13 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
-    - name: UNO
+    - name: Modeling
+      tag: Modeling
+    - name: Fabrication
+      tag: Fabrication
+    - name: Sensor
+      tag: Sensor
+    - name: Ultrafast nonlinear optics
       tag: UNO
 
 design:
