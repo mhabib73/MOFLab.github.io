@@ -38,6 +38,19 @@
 }
 
 
+// assets/scss/custom.scss
+
+.page-body {
+    // Adjust this value until it's as wide as you want.
+    // The default is often around 800px or 900px.
+    max-width: 1200px !important;
+}
+
+/* Optional: Make the text content itself wider as well */
+.article-container {
+    max-width: 100% !important;
+}
+
 
 
 
