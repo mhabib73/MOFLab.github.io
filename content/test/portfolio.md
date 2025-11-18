@@ -41,7 +41,7 @@ design:
   columns: '1'
   background:
     color: 'red'
-  view: masonry
+  view: showcase
   flip_alt_rows: true
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
