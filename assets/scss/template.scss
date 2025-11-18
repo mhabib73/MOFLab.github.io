@@ -44,6 +44,20 @@
     border: 1px solid #border-color;
 }
 
+.project-card {
+  max-width: 220px;
+  padding: 12px;
+}
+
+.project-card img {
+  height: 110px;
+  object-fit: cover;
+}
+
+.project-card .article-style {
+  font-size: 0.85rem;
+}
+
 
 
 
