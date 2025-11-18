@@ -13,12 +13,6 @@ weight: 100
 title: '<div style="grid-column:1 / -1; text-align:center; font-size:2rem; margin-top:20px; margin-bottom:20px;">Research areas</div>'
 subtitle: ''
 
-design:
-  background:
-    gradient_start: '#4facfe'
-    gradient_end: '#00f2fe'
-    gradient_angle: 135
-
 content:
   # Page type to display. E.g. project.
   page_type: project
@@ -46,7 +40,7 @@ content:
 design:
   columns: '1'
   background:
-    color: 'red'
+    color: ''
   view: masonry
   card:
     image:
