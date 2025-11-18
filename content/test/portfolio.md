@@ -38,7 +38,7 @@ content:
       tag: UNO
 
 design:
-  columns: '1'
+  columns: '2'
   background:
     color: 'red'
   view: masonry
