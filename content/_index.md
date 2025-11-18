@@ -12,6 +12,12 @@ sections:
   - block: markdown
     content:
       title: |
+        <span style="font-size: 3rem; color: white; white-space: nowrap; text-align: left; display: block;">
+        Welcome to Microstructure Optical Fiber Lab </span>
+      
+      text: |
+        <span style="font-size: 2rem; color: white; white-space: nowrap; text-align: left; display: block;">
+        advancing science of light for all </span>
         
     design:
       column: "1"
@@ -34,20 +40,18 @@ sections:
   - block: hero
     content:
       title: |
-        <div style="text-align: left; font-size: 28px; max-width: 2000px; margin: 0 auto;">
-          <strong >Welcome to Microstructure Optical Fiber Lab</strong>
       image:
         filename: modes.gif
       text: |
-        <div style="text-align: font-size: 18px; left; max-width: 1500px; margin: 0 auto;">
+        <div style="text-align: font-size: 20px; left; max-width: 1500px; margin: 0 auto;">
           <strong >What we do in our lab?</strong>
           <br>
           <ul style="list-style-type: disc; padding-left: 50px;">
-            <li style="font-size: 20px;">Computational photonics</li>
-            <li style="font-size: 20px;">Advanced fiber design and characterization</li>
-            <li style="font-size: 20px;">Energy-efficient and low-cost fiber sensors</li>
-            <li style="font-size: 20px;">Smart fiber-based nonlinear devices</li>
-            <li style="font-size: 20px;">Extreme light-matter interactions in fibers</li>
+            <li style="font-size: 22px;">Computational photonics</li>
+            <li style="font-size: 22px;">Advanced fiber design and characterization</li>
+            <li style="font-size: 22px;">Energy-efficient and low-cost fiber sensors</li>
+            <li style="font-size: 22px;">Smart fiber-based nonlinear devices</li>
+            <li style="font-size: 22px;">Extreme light-matter interactions in fibers</li>
 
           </ul>
         </div>
