@@ -20,7 +20,6 @@ profile: true
 
 image:
   placement: 1
-  filename: project.svg
   focal_point: "center"
   preview_only: false
 design:
