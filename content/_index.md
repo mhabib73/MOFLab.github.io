@@ -12,12 +12,6 @@ sections:
   - block: markdown
     content:
       title: |
-        #<span style="font-size: 3rem; color: white; white-space: nowrap; text-align: left; display: block;">
-        #Welcome to Microstructure Optical Fiber Lab </span>
-      
-      text: |
-        #<span style="font-size: 2rem; color: white; white-space: nowrap; text-align: left; display: block;">
-        #advancing science of light for all </span>
         
     design:
       column: "1"
@@ -40,13 +34,13 @@ sections:
   - block: hero
     content:
       title: |
-        <div style="text-align: left; max-width: 1500px; margin: 0 auto;">
-          <strong >Welcome to Microstructure Optical Fiber Lab:</strong>
+        <div style="text-align: left; font-size: 30px; max-width: 1500px; margin: 0 auto;">
+          <strong >Welcome to Microstructure Optical Fiber Lab</strong>
       image:
         filename: modes.gif
       text: |
         <div style="text-align: left; max-width: 1500px; margin: 0 auto;">
-          <strong >What we do in our lab:</strong>
+          <strong >What we do in our lab?</strong>
           <br>
           <ul style="list-style-type: disc; padding-left: 50px;">
             <li style="font-size: 23px;">Computational photonics</li>
