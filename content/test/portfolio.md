@@ -38,10 +38,13 @@ content:
       tag: UNO
 
 design:
-  columns: '2'
+  columns: '1'
   background:
     color: 'red'
   view: masonry
+  card:
+    image:
+      height: 100
   flip_alt_rows: true
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
