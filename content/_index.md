@@ -27,7 +27,7 @@ sections:
       background:
         color: ""
         image:
-          filename: fiber_3D.png
+          filename: banner.png
           filters:
             brightness: 1
           position: center
