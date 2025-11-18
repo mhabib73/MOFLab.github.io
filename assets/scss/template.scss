@@ -45,35 +45,23 @@
 }
 
 .project-card {
-  max-width: 300px;
+  max-width: 310px;
   padding: 1px;
 }
 
 .project-card img {
-  height: 150px;
+  height: 200px;
   object-fit: cover;
 }
 
 .project-card .article-style {
-  font-size: 0.4rem;
+  font-size: 0.3rem;
 }
 
 
 
 
 
-.project-svg {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 1rem 0;
-}
-
-.project-svg img {
-  max-width: 600px;   /* adjust for your layout */
-  width: 100%;
-  height: auto;
-}
 
 
 
