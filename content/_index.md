@@ -34,7 +34,7 @@ sections:
   - block: hero
     content:
       title: |
-        <div style="text-align: left; font-size: 30px; max-width: 1500px; margin: 0 auto;">
+        <div style="text-align: left; font-size: 25px; max-width: 1500px; margin: 0 auto;">
           <strong >Welcome to Microstructure Optical Fiber Lab</strong>
       image:
         filename: modes.gif
