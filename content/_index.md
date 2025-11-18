@@ -12,12 +12,12 @@ sections:
   - block: markdown
     content:
       title: |
-        <span style="font-size: 3rem; color: white; white-space: nowrap; text-align: left; display: block;">
-        Welcome to Microstructure Optical Fiber Lab </span>
+        #<span style="font-size: 3rem; color: white; white-space: nowrap; text-align: left; display: block;">
+        #Welcome to Microstructure Optical Fiber Lab </span>
       
       text: |
-        <span style="font-size: 2rem; color: white; white-space: nowrap; text-align: left; display: block;">
-        advancing science of light for all </span>
+        #<span style="font-size: 2rem; color: white; white-space: nowrap; text-align: left; display: block;">
+        #advancing science of light for all </span>
         
     design:
       column: "1"
@@ -40,6 +40,8 @@ sections:
   - block: hero
     content:
       title: |
+        <div style="text-align: left; max-width: 1500px; margin: 0 auto;">
+          <strong >Welcome to Microstructure Optical Fiber Lab:</strong>
       image:
         filename: modes.gif
       text: |
