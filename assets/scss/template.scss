@@ -89,7 +89,7 @@ body {
 
 /* Bigger navigation bar with logo on left */
 .navbar {
-    height: 100px !important;
+    height: 50px !important;
     min-height: 80px !important;
     display: flex !important;
     justify-content: space-between !important;
@@ -105,7 +105,7 @@ body {
 
 .navbar-brand img {
     height: 200px !important;
-    width: auto !important;
+    width: 100px !important;
 }
 
 /* Navigation items on right */
