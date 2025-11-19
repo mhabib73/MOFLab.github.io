@@ -34,7 +34,7 @@ main:
     #weight: 70
 
   - name: Research
-    url: test
+    url: research
     weight: 30
 
 
