@@ -1,6 +1,6 @@
 ---
 # Display name
-title: James Annor
+title: Daniel Arana
 
 # Full name (for SEO)
 first_name: Daniel
