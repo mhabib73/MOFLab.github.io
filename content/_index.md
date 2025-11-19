@@ -33,7 +33,8 @@ sections:
           position: center
           parallax: true
           size: cover
-      css_class: hero-section 
+      #css_class: hero-section
+      css_class: fullscreen
       #spacing:
         #padding: ["0rem", 0, "0em", 0]
 
