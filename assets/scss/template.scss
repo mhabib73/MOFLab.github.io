@@ -94,7 +94,7 @@ body {
     display: flex !important;
     justify-content: space-between !important;
     align-items: center !important;
-    padding: 0 1rem !important;
+    padding: 0 0.5rem !important;
 }
 
 /* Logo on left */
@@ -104,7 +104,7 @@ body {
 }
 
 .navbar-brand img {
-    height: 80px !important;
+    height: 100px !important;
     width: auto !important;
 }
 
@@ -116,8 +116,8 @@ body {
 }
 
 .nav-link {
-    font-size: 22px !important;
-    padding: 10px 10px !important;
+    font-size: 20px !important;
+    padding: 5px 5px !important;
 }
 
 
