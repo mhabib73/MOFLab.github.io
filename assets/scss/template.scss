@@ -87,20 +87,37 @@ body {
 }
 
 
-/* For Academic theme */
+/* Bigger navigation bar with logo on left */
 .navbar {
-    min-height: 150px;
-    padding: 1rem 0;
+    height: 100px !important;
+    min-height: 80px !important;
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    padding: 0 2rem !important;
 }
 
+/* Logo on left */
 .navbar-brand {
-    font-size: 1.5rem;
-    padding: 25px 15px;
+    order: 1 !important;
+    margin-right: auto !important;
 }
 
-.navbar-nav .nav-link {
-    padding: 25px 15px;
-    font-size: 1.1rem;
+.navbar-brand img {
+    height: 50px !important;
+    width: auto !important;
+}
+
+/* Navigation items on right */
+.navbar-nav {
+    order: 2 !important;
+    display: flex !important;
+    gap: 2rem !important;
+}
+
+.nav-link {
+    font-size: 18px !important;
+    padding: 25px 15px !important;
 }
 
 
