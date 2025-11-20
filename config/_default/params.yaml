@@ -63,7 +63,7 @@ header:
       #text: "Get Started"
       #url: "https://hugoblox.com/templates/"
     # Let the user choose between light or dark mode?
-    show_theme_chooser: true
+    show_theme_chooser: false
     # Let the user search from the navigation bar?
     show_search: true
     # Attempt to automatically highlight the active menu link? Can be disabled for complex sites.
@@ -152,17 +152,4 @@ publications:
   date_format: January 2006
   citation_style: apa
 
-params:
-  custom_css: ["css/custom.css"]
-
-############################
-## Code folding
-############################
-
-# Set to true to disable code folding
-disable_codefolding: false
-# Set to show to show all by default, hide to hide all by default - don't put inside quotes
-codefolding_show: show
-# Set to true to exclude the "Show/hide all" button
-codefolding_nobutton: false
 
