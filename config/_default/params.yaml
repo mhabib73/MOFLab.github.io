@@ -58,9 +58,9 @@ header:
       #text: "Get Started"
       #url: "https://hugoblox.com/templates/"
     # Let the user choose between light or dark mode?
-    show_theme_chooser: false
+    #show_theme_chooser: false
     # Let the user search from the navigation bar?
-    show_search: false
+    show_search: true
     # Attempt to automatically highlight the active menu link? Can be disabled for complex sites.
     highlight_active_link: false
     # Show a language chooser (if you have translated your site content)?
@@ -126,7 +126,7 @@ features:
       app_id: ''
       api_key: ''
       index_name: ''
-      show_logo: true
+      show_logo: false
   map:
     provider: 'mapnik'
     api_key: ''
