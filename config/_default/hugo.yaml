@@ -70,12 +70,4 @@ sitemap:
 ## CUSTOM
 ############################
 
-cascade:
-  - _target:
-      path: /blog/**
-    share: false
-  - _target:
-      path: /publication/**
-    share: false
 
-lastmod: [":fileModTime", “:default”]
