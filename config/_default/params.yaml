@@ -3,11 +3,6 @@
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-# Appearance
-custom_css:
-  - css/custom.css
-
-
 appearance:
   #theme_day: minimal
   #theme_day: nautical
