@@ -160,7 +160,12 @@ body {
 
 .card:hover {
     transform: scale(1.1);
-    background: linear-gradient(135deg, #f0f4ff, #d4ddff);
+    background: radial-gradient(
+        circle at center,
+        rgba(90, 130, 255, 0.35),
+        rgba(0, 0, 0, 0)
+    );
+    box-shadow: 0 0 18px rgba(90, 130, 255, 0.55);
 }
 
 
