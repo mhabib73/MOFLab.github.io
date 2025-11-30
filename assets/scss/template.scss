@@ -127,7 +127,7 @@ body {
 .card {
     transition: 0.5s ease;
     cursor: pointer;
-    border: 2px solid #4a6cff;
+    border: 1.5px solid #4a6cff;
 }
 
 
@@ -137,7 +137,7 @@ body {
 
 .card:hover {
     transform: scale(1.1);
-    background-color: #e2e8ff;
+    background: linear-gradient(135deg, #f0f4ff, #d4ddff);
 }
 
 
