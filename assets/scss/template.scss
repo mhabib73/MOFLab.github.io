@@ -120,10 +120,36 @@ body {
 
 
 .card {
-    transition: 0.5s ease;
+    position: relative;
+    padding: 1rem;
+    border-radius: 12px;
+    overflow: hidden;
     cursor: pointer;
-    border: 1.5px solid #4a6cff;
+    transition: 0.5s ease;
+    z-index: 1;
 }
+
+/* glow border */
+.card::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    padding: 2px;
+    border-radius: inherit;
+    background: linear-gradient(135deg, #6a5cff, #4ac9ff, #6affb3);
+    -webkit-mask: 
+        linear-gradient(#fff 0 0) content-box, 
+        linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+            mask-composite: exclude;
+    z-index: -1;
+}
+
+/* hover boost */
+.card:hover::before {
+    filter: blur(4px);
+}
+
 
 
 .container:hover > :not(:hover) {
