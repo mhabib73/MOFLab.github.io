@@ -62,12 +62,40 @@
 
 
 body {
-  background-color: rgb(247, 250, 252);
+    position: relative;
+    min-height: 100vh;
+    margin: 0;
+    background: #0e1125;
+    overflow: hidden;
 }
 
-.dark .article-container {
-  background-color: rgb(31, 39, 51);
+body::before {
+    content: "";
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    width: 60vw;
+    height: 60vw;
+    transform: translateX(-50%);
+    border-radius: 50%;
+    background: radial-gradient(
+        circle,
+        rgba(120, 150, 255, 0.55),
+        rgba(0, 0, 0, 0)
+    );
+    filter: blur(60px);
+    pointer-events: none;
 }
+
+
+
+// body {
+  // background-color: rgb(247, 250, 252);
+// }
+
+// .dark .article-container {
+  // background-color: rgb(31, 39, 51);
+// }
 
 // custom footer color
 .page-footer {
