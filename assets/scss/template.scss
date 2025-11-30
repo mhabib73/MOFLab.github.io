@@ -63,6 +63,9 @@
 
 body {
   background-color: rgb(247, 250, 252);
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
 }
 
 .dark .article-container {
