@@ -45,7 +45,19 @@
 }
 
 
+.project-card {
+  max-width: 300px;
+  padding: .5px;
+}
 
+.project-card img {
+  height: 90px;
+  object-fit: cover;
+}
+
+.project-card .article-style {
+  font-size: 0.3rem;
+}
 
 
 
@@ -111,31 +123,22 @@ body {
 }
 
 
-
-
-
 .card {
-    flex: 1;
-    height: 100%;
-    transition: all 400ms;
+    transition: 0.5s ease;
     cursor: pointer;
+    border: 1.5px solid #4a6cff;
 }
 
-.card:nth-child(odd) {
-    translate: 0 -20px;
-}
 
-.card:nth-child(even) {
-    translate: 0 20px;
-}
-
-.container:hover .card:not(:hover) {
-    filter: grayscale(100%);
+.container:hover > :not(:hover) {
+    opacity: 0.3;
 }
 
 .card:hover {
-    flex: 3;
+    transform: scale(1.1);
+    background: linear-gradient(135deg, #f0f4ff, #d4ddff);
 }
+
 
 
 
