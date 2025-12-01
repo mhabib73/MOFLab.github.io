@@ -62,7 +62,7 @@ header:
     # Let the user search from the navigation bar?
     show_search: true
     # Attempt to automatically highlight the active menu link? Can be disabled for complex sites.
-    highlight_active_link: false
+    highlight_active_link: true
     # Show a language chooser (if you have translated your site content)?
     show_translations: false
     # If `show_translations` is enabled, do you wish to hide the current language name?
