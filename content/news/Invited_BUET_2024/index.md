@@ -3,6 +3,14 @@ title: Invited speaker at ICECE BUET
 date: 2024-12-18
 image:
   focal_point: 'top'
+
+tags:
+  - Hollow-core fibers
+  - Ultrafast nonlinear optics
+projects:
+- HCARF_modeling
+- HCARF_fabrication
+- UNO
 ---
 
 Dr. Habib has been invited to give a talk at the International conference on Electrical and Computer Engineering, BUET, 2024
