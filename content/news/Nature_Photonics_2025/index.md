@@ -3,6 +3,13 @@ title: Nature Photonics News and Views article on "hollow-core Breakthrough"
 date: 2025-11-03
 image:
   focal_point: 'top'
+
+tags:
+  - Hollow-core fibers
+projects:
+- HCARF_modeling
+- HCARF_fabrication
+- UNO
 ---
 
 We are extremely happy to share that our News & Views article on the recent "Hollow-core fiber breakthrough" has been published in Nature Photonics and now available online. The new hollow-core fibres from Microsoft and ORC, Southampton break a 40-year limit on light transmission. 
