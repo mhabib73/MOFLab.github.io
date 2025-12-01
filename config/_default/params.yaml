@@ -5,14 +5,15 @@
 
 appearance:
   #theme_day: minimal
-  #theme_day: nautical
-  #theme_night: aurora
-  #font: Sans-serif
-  #font_size: L
-  theme_day: light
-  theme_night: persodark
-  font: custom_font
+  theme_day: nautical
+  theme_night: aurora
+  font: Sans-serif
   font_size: L
+  
+  #theme_day: light
+  #theme_night: persodark
+  #font: custom_font
+  #font_size: L
   
 
 # SEO
@@ -49,16 +50,16 @@ header:
     fixed_to_top: true
     logo:
       # Logo text
-      text: ""
+      text: "MOFLab"
       # Logo filename in `assets/media/` folder
       filename: "logo.svg"
     # Shop a call-to-action button in the top right?
-    #button:
-      #enable: true
-      #text: "Get Started"
-      #url: "https://hugoblox.com/templates/"
+    button:
+      enable: true
+      text: "Get Started"
+      url: "https://hugoblox.com/templates/"
     # Let the user choose between light or dark mode?
-    #show_theme_chooser: false
+    show_theme_chooser: false
     # Let the user search from the navigation bar?
     show_search: true
     # Attempt to automatically highlight the active menu link? Can be disabled for complex sites.
