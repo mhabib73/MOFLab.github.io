@@ -11,8 +11,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 'MOFLab Collaborators'
-subtitle: 'At MOFLab we work with leading universities, research gourps and industry partners worldwide. Some of our present and past collaborators include:'
+title: 'OFSLab Collaborators'
+subtitle: 'At OFSLab we work with leading universities, research gourps and industry partners worldwide. Some of our present and past collaborators include:'
 
 design:
   columns: '2'
