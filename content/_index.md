@@ -64,7 +64,7 @@ sections:
       text_align: left
       no_padding: true
       spacing:
-        padding: ["1rem", 0, "0rem", 0]
+        padding: ["1rem", 0, "1rem", 0]
         margin: [0, 0, 0, 0]
 
   - block: markdown
