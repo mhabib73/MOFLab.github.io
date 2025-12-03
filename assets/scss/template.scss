@@ -18,6 +18,15 @@
 }
 
 
+#theme-toggle,
+.theme-switch,
+.theme-chooser,
+.navbar-item.theme-toggle,
+button#theme-toggle {
+  display: none !important;
+}
+
+
 
 /* Bigger navigation bar with logo on left */
 .navbar {
