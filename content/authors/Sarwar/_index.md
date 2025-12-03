@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mohammad Al Mahfuz
+title: Md Sarwar Hosen
 
 # Full name (for SEO)
 first_name: Md Sarwar
