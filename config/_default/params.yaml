@@ -60,7 +60,7 @@ header:
       #url: "https://hugoblox.com/templates/"
     # Let the user choose between light or dark mode?
     #show_theme_chooser: false
-    show_day_night: false
+    show_day_night: true
     # Let the user search from the navigation bar?
     show_search: true
     # Attempt to automatically highlight the active menu link? Can be disabled for complex sites.
