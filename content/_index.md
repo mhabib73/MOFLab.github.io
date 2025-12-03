@@ -16,8 +16,7 @@ sections:
         Welcome to the Optical Fiber Science Lab </span>
       
       text: |
-        <span style="font-size: 2rem; color: white; white-space: nowrap; text-align: left; display: block;">
-        advancing science of light for all </span>
+
         
     design:
       column: "1"
