@@ -33,6 +33,7 @@
     justify-content: space-between !important;
     align-items: center !important;
     padding: 0 .2rem !important;
+    box-shadow: none !important; // 'important' to override dark mode box-shadow too.
 }
 
 /* Logo on left */
