@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Mohammad Al Mahfuz
+title: Mohammad Mahfuz
 
 # Full name (for SEO)
-first_name: Mohammad 
-last_name: Al Mahfuz
+first_name: Mohammad Al 
+last_name: Mahfuz
 
 # Username (this should match the folder name)
 authors:
